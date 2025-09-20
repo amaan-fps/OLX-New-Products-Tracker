@@ -26,6 +26,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Debug info
+        run: |
+          pwd
+          ls -lah
+
       - name: 🚀 Run Tracker
         run: python main.py
 
