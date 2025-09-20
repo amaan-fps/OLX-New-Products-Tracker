@@ -1,0 +1,409 @@
+[
+  {
+    "id": "1804711546",
+    "score": 0.4482758620689655,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": false,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1804711546",
+    "favorites": {
+      "count": 18,
+      "count_label": "18",
+      "count_label_next": "19",
+      "count_label_prev": "17"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Great Gamers",
+    "has_phone_param": false,
+    "description": "WELCOME TO GREAT GEMERS\n\nPS2 32 GB WITH 20 + 1200 RETRO GAME  ONLY 4750/-\n\nPS2 160GB WITH 70 + 1200 RETRO GAME  ONLY 6999/-\n\nPS2 320GB WITH 150 + 1200 RETRO GAME\n6999/-\n\nBIG PS2 160 GB WITH 55 GAME ONLY 7499/-\n\nPSP 16 GB WITH 20 GAME  ONLY 4499/-\n\nBIG PS3 500 GB WITH 30 GAME ONLY 11999/-\n\nPS3 SLIM 500 GB WITH 30 GAME  ONLY 12999/-\n\nPS3 SUPER SLIM 500 GB WITH 30 GAME  ONLY 13999/-\n\nXBOX 360 FAT 160 GB WITH 30 GAME ONLY 8999/-\n\nXBOX 360 SLIM 500 GB WITH 100 GAME ONLY 13999/-\n\nWEBS!TE:- greatgamer. in \n\n\n\nNOTE - WE ARE NOT SELLING REPAIRED \n              CONSOLE .\n\nthanks for trusting us",
+    "created_at": "2025-09-08T10:16:09+05:30",
+    "videos": [],
+    "title": "Great Gamers Wholesale Ps2,Ps3,Ps4,Xbox360 All Gaming console",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 4750.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 4,750"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1847602876",
+        "external_id": "l1u9n0przbi01-ADVIN",
+        "width": 433,
+        "height": 577,
+        "url": "https://apollo.olx.in:443/v1/files/l1u9n0przbi01-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 1439,
+          "url": "https://apollo.olx.in:443/v1/files/l1u9n0przbi01-ADVIN/image;s=1080x1439"
+        },
+        "big": {
+          "width": 505,
+          "height": 672,
+          "url": "https://apollo.olx.in:443/v1/files/l1u9n0przbi01-ADVIN/image;s=505x672"
+        },
+        "medium": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/l1u9n0przbi01-ADVIN/image;s=120x159"
+        },
+        "small": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/l1u9n0przbi01-ADVIN/image;s=120x159"
+        }
+      },
+      {
+        "id": "1847602877",
+        "external_id": "bpwx3j1nipv4-ADVIN",
+        "width": 433,
+        "height": 577,
+        "url": "https://apollo.olx.in:443/v1/files/bpwx3j1nipv4-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 1439,
+          "url": "https://apollo.olx.in:443/v1/files/bpwx3j1nipv4-ADVIN/image;s=1080x1439"
+        },
+        "big": {
+          "width": 505,
+          "height": 672,
+          "url": "https://apollo.olx.in:443/v1/files/bpwx3j1nipv4-ADVIN/image;s=505x672"
+        },
+        "medium": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/bpwx3j1nipv4-ADVIN/image;s=120x159"
+        },
+        "small": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/bpwx3j1nipv4-ADVIN/image;s=120x159"
+        }
+      },
+      {
+        "id": "1847602878",
+        "external_id": "3aiof2k1hvcb1-ADVIN",
+        "width": 500,
+        "height": 499,
+        "url": "https://apollo.olx.in:443/v1/files/3aiof2k1hvcb1-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 1077,
+          "url": "https://apollo.olx.in:443/v1/files/3aiof2k1hvcb1-ADVIN/image;s=1080x1077"
+        },
+        "big": {
+          "width": 505,
+          "height": 503,
+          "url": "https://apollo.olx.in:443/v1/files/3aiof2k1hvcb1-ADVIN/image;s=505x503"
+        },
+        "medium": {
+          "width": 120,
+          "height": 119,
+          "url": "https://apollo.olx.in:443/v1/files/3aiof2k1hvcb1-ADVIN/image;s=120x119"
+        },
+        "small": {
+          "width": 120,
+          "height": 119,
+          "url": "https://apollo.olx.in:443/v1/files/3aiof2k1hvcb1-ADVIN/image;s=120x119"
+        }
+      },
+      {
+        "id": "1847602879",
+        "external_id": "lsywtyff81vd1-ADVIN",
+        "width": 433,
+        "height": 577,
+        "url": "https://apollo.olx.in:443/v1/files/lsywtyff81vd1-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 1439,
+          "url": "https://apollo.olx.in:443/v1/files/lsywtyff81vd1-ADVIN/image;s=1080x1439"
+        },
+        "big": {
+          "width": 505,
+          "height": 672,
+          "url": "https://apollo.olx.in:443/v1/files/lsywtyff81vd1-ADVIN/image;s=505x672"
+        },
+        "medium": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/lsywtyff81vd1-ADVIN/image;s=120x159"
+        },
+        "small": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/lsywtyff81vd1-ADVIN/image;s=120x159"
+        }
+      },
+      {
+        "id": "1847602880",
+        "external_id": "jfq6rlk21o1t3-ADVIN",
+        "width": 433,
+        "height": 577,
+        "url": "https://apollo.olx.in:443/v1/files/jfq6rlk21o1t3-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 1439,
+          "url": "https://apollo.olx.in:443/v1/files/jfq6rlk21o1t3-ADVIN/image;s=1080x1439"
+        },
+        "big": {
+          "width": 505,
+          "height": 672,
+          "url": "https://apollo.olx.in:443/v1/files/jfq6rlk21o1t3-ADVIN/image;s=505x672"
+        },
+        "medium": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/jfq6rlk21o1t3-ADVIN/image;s=120x159"
+        },
+        "small": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/jfq6rlk21o1t3-ADVIN/image;s=120x159"
+        }
+      },
+      {
+        "id": "1847602881",
+        "external_id": "d4zaju3w7m6z1-ADVIN",
+        "width": 433,
+        "height": 577,
+        "url": "https://apollo.olx.in:443/v1/files/d4zaju3w7m6z1-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 1439,
+          "url": "https://apollo.olx.in:443/v1/files/d4zaju3w7m6z1-ADVIN/image;s=1080x1439"
+        },
+        "big": {
+          "width": 505,
+          "height": 672,
+          "url": "https://apollo.olx.in:443/v1/files/d4zaju3w7m6z1-ADVIN/image;s=505x672"
+        },
+        "medium": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/d4zaju3w7m6z1-ADVIN/image;s=120x159"
+        },
+        "small": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/d4zaju3w7m6z1-ADVIN/image;s=120x159"
+        }
+      },
+      {
+        "id": "1847602882",
+        "external_id": "ygrapgf55fjj-ADVIN",
+        "width": 592,
+        "height": 422,
+        "url": "https://apollo.olx.in:443/v1/files/ygrapgf55fjj-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 769,
+          "url": "https://apollo.olx.in:443/v1/files/ygrapgf55fjj-ADVIN/image;s=1080x769"
+        },
+        "big": {
+          "width": 505,
+          "height": 359,
+          "url": "https://apollo.olx.in:443/v1/files/ygrapgf55fjj-ADVIN/image;s=505x359"
+        },
+        "medium": {
+          "width": 120,
+          "height": 85,
+          "url": "https://apollo.olx.in:443/v1/files/ygrapgf55fjj-ADVIN/image;s=120x85"
+        },
+        "small": {
+          "width": 120,
+          "height": 85,
+          "url": "https://apollo.olx.in:443/v1/files/ygrapgf55fjj-ADVIN/image;s=120x85"
+        }
+      },
+      {
+        "id": "1847602883",
+        "external_id": "134vr35wpy5x2-ADVIN",
+        "width": 433,
+        "height": 577,
+        "url": "https://apollo.olx.in:443/v1/files/134vr35wpy5x2-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 1439,
+          "url": "https://apollo.olx.in:443/v1/files/134vr35wpy5x2-ADVIN/image;s=1080x1439"
+        },
+        "big": {
+          "width": 505,
+          "height": 672,
+          "url": "https://apollo.olx.in:443/v1/files/134vr35wpy5x2-ADVIN/image;s=505x672"
+        },
+        "medium": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/134vr35wpy5x2-ADVIN/image;s=120x159"
+        },
+        "small": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/134vr35wpy5x2-ADVIN/image;s=120x159"
+        }
+      },
+      {
+        "id": "1847602884",
+        "external_id": "m7i9cq9gy1u22-ADVIN",
+        "width": 500,
+        "height": 500,
+        "url": "https://apollo.olx.in:443/v1/files/m7i9cq9gy1u22-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://apollo.olx.in:443/v1/files/m7i9cq9gy1u22-ADVIN/image;s=1080x1080"
+        },
+        "big": {
+          "width": 505,
+          "height": 505,
+          "url": "https://apollo.olx.in:443/v1/files/m7i9cq9gy1u22-ADVIN/image;s=505x505"
+        },
+        "medium": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/m7i9cq9gy1u22-ADVIN/image;s=120x120"
+        },
+        "small": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/m7i9cq9gy1u22-ADVIN/image;s=120x120"
+        }
+      },
+      {
+        "id": "1847602885",
+        "external_id": "1dev36jjr6bt2-ADVIN",
+        "width": 1080,
+        "height": 739,
+        "url": "https://apollo.olx.in:443/v1/files/1dev36jjr6bt2-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 739,
+          "url": "https://apollo.olx.in:443/v1/files/1dev36jjr6bt2-ADVIN/image;s=1080x739"
+        },
+        "big": {
+          "width": 505,
+          "height": 345,
+          "url": "https://apollo.olx.in:443/v1/files/1dev36jjr6bt2-ADVIN/image;s=505x345"
+        },
+        "medium": {
+          "width": 120,
+          "height": 82,
+          "url": "https://apollo.olx.in:443/v1/files/1dev36jjr6bt2-ADVIN/image;s=120x82"
+        },
+        "small": {
+          "width": 120,
+          "height": 82,
+          "url": "https://apollo.olx.in:443/v1/files/1dev36jjr6bt2-ADVIN/image;s=120x82"
+        }
+      },
+      {
+        "id": "1847602886",
+        "external_id": "cw9q9f2j2grd1-ADVIN",
+        "width": 1040,
+        "height": 480,
+        "url": "https://apollo.olx.in:443/v1/files/cw9q9f2j2grd1-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 498,
+          "url": "https://apollo.olx.in:443/v1/files/cw9q9f2j2grd1-ADVIN/image;s=1080x498"
+        },
+        "big": {
+          "width": 505,
+          "height": 233,
+          "url": "https://apollo.olx.in:443/v1/files/cw9q9f2j2grd1-ADVIN/image;s=505x233"
+        },
+        "medium": {
+          "width": 120,
+          "height": 55,
+          "url": "https://apollo.olx.in:443/v1/files/cw9q9f2j2grd1-ADVIN/image;s=120x55"
+        },
+        "small": {
+          "width": 120,
+          "height": 55,
+          "url": "https://apollo.olx.in:443/v1/files/cw9q9f2j2grd1-ADVIN/image;s=120x55"
+        }
+      },
+      {
+        "id": "1847602887",
+        "external_id": "kdzc5gtnv5ju-ADVIN",
+        "width": 957,
+        "height": 1280,
+        "url": "https://apollo.olx.in:443/v1/files/kdzc5gtnv5ju-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 1444,
+          "url": "https://apollo.olx.in:443/v1/files/kdzc5gtnv5ju-ADVIN/image;s=1080x1444"
+        },
+        "big": {
+          "width": 505,
+          "height": 675,
+          "url": "https://apollo.olx.in:443/v1/files/kdzc5gtnv5ju-ADVIN/image;s=505x675"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/kdzc5gtnv5ju-ADVIN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/kdzc5gtnv5ju-ADVIN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327749",
+      "SUBLOCALITY_LEVEL_1_name": "Agar Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-09-08T04:49:06+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "256795673",
+    "created_at_first": "2025-04-21T16:28:13+05:30",
+    "locations": [
+      {
+        "lat": 28.705,
+        "lon": 77.04,
+        "region_id": "2001152",
+        "district_id": "5327749",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
