@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "id": "1820876804",
+    "score": 0.9310344827586207,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1820876804",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Hanu",
+    "has_phone_param": false,
+    "description": "Got it \u2014 I'll make a clean and attractive listing for OLX or any marketplace so buyers see value right away. Here's what you can post:\n\n\n---\n\nPS4 Game Bundle for Sale \u2013 9 Games, Great Condition\n\nSelling my PS4 game collection. All discs are in working condition with original cases and covers (except Tekken 7 which works inconsistently, included for free).\n\nGames included:\n\nGTA V\n\nThe Last of Us Part II\n\nGod of War III Remastered\n\nHitman Definitive Edition\n\nFar Cry 5\n\nBatman Arkham Knight\n\nFIFA 20\n\nGran Turismo Sport Spec II\n\nTekken 7 (free \u2013 works sometimes)\n\n\nPrice: \u20b94,500 (Negotiable \u2013 reasonable offers only)\n\nWhy buy:\n\nAll AAA titles, perfect for story & action lovers\n\nMint condition discs, no major scratches\n\nSelling because I don\u2019t use my PS4 anymore\n\n\nLocation: Delhi , 110053 Yamuna vihar , nearest metro station - Maujpur babarpur",
+    "created_at": "2025-09-21T16:46:49+05:30",
+    "videos": [],
+    "title": "BUNDLE OF 9 PS4 GAMES",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 4200.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 4,200"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1928826665",
+        "external_id": "72fh8hyay1y2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/72fh8hyay1y2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/72fh8hyay1y2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/72fh8hyay1y2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/72fh8hyay1y2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/72fh8hyay1y2-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5462653",
+      "SUBLOCALITY_LEVEL_1_name": "Yamuna Vihar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-09-21T11:18:03+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "628899539",
+    "created_at_first": "2025-09-21T16:46:49+05:30",
+    "locations": [
+      {
+        "lat": 28.7,
+        "lon": 77.272,
+        "region_id": "2001152",
+        "district_id": "5462653",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
