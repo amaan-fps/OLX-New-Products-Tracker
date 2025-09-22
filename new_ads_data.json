@@ -1,1 +1,380 @@
-[]
+[
+  {
+    "id": "1820995225",
+    "score": 0.9259259259259259,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1820995225",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Aditya sharma",
+    "has_phone_param": false,
+    "description": "Only Serious Buyer",
+    "created_at": "2025-09-22T18:24:53+05:30",
+    "videos": [],
+    "title": "Ps4 Controller",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 3500.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 3,500"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1929439692",
+        "external_id": "0xvs12tkq31n-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/0xvs12tkq31n-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/0xvs12tkq31n-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/0xvs12tkq31n-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/0xvs12tkq31n-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/0xvs12tkq31n-IN/image;s=120x67"
+        }
+      },
+      {
+        "id": "1929439693",
+        "external_id": "bxhonlknlyzs2-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/bxhonlknlyzs2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/bxhonlknlyzs2-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/bxhonlknlyzs2-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/bxhonlknlyzs2-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/bxhonlknlyzs2-IN/image;s=120x67"
+        }
+      },
+      {
+        "id": "1929439694",
+        "external_id": "dqbq32tttecr1-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/dqbq32tttecr1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/dqbq32tttecr1-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/dqbq32tttecr1-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/dqbq32tttecr1-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/dqbq32tttecr1-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1929439695",
+        "external_id": "fd33k8bfnn001-IN",
+        "width": 812,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/fd33k8bfnn001-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1436,
+          "url": "https://apollo.olx.in:443/v1/files/fd33k8bfnn001-IN/image;s=1080x1436"
+        },
+        "big": {
+          "width": 505,
+          "height": 671,
+          "url": "https://apollo.olx.in:443/v1/files/fd33k8bfnn001-IN/image;s=505x671"
+        },
+        "medium": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/fd33k8bfnn001-IN/image;s=120x159"
+        },
+        "small": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/fd33k8bfnn001-IN/image;s=120x159"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327780",
+      "SUBLOCALITY_LEVEL_1_name": "Mangolpuri"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-09-22T12:58:00+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "629388666",
+    "created_at_first": "2025-09-22T17:31:31+05:30",
+    "locations": [
+      {
+        "lat": 28.691,
+        "lon": 77.092,
+        "region_id": "2001152",
+        "district_id": "5327780",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1820995225",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1820995225",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Aditya sharma",
+    "has_phone_param": false,
+    "description": "Only Serious Buyer",
+    "created_at": "2025-09-22T18:24:53+05:30",
+    "videos": [],
+    "title": "Ps4 Controller",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 3500.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 3,500"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1929439692",
+        "external_id": "0xvs12tkq31n-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/0xvs12tkq31n-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/0xvs12tkq31n-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/0xvs12tkq31n-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/0xvs12tkq31n-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/0xvs12tkq31n-IN/image;s=120x67"
+        }
+      },
+      {
+        "id": "1929439693",
+        "external_id": "bxhonlknlyzs2-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/bxhonlknlyzs2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/bxhonlknlyzs2-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/bxhonlknlyzs2-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/bxhonlknlyzs2-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/bxhonlknlyzs2-IN/image;s=120x67"
+        }
+      },
+      {
+        "id": "1929439694",
+        "external_id": "dqbq32tttecr1-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/dqbq32tttecr1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/dqbq32tttecr1-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/dqbq32tttecr1-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/dqbq32tttecr1-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/dqbq32tttecr1-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1929439695",
+        "external_id": "fd33k8bfnn001-IN",
+        "width": 812,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/fd33k8bfnn001-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1436,
+          "url": "https://apollo.olx.in:443/v1/files/fd33k8bfnn001-IN/image;s=1080x1436"
+        },
+        "big": {
+          "width": 505,
+          "height": 671,
+          "url": "https://apollo.olx.in:443/v1/files/fd33k8bfnn001-IN/image;s=505x671"
+        },
+        "medium": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/fd33k8bfnn001-IN/image;s=120x159"
+        },
+        "small": {
+          "width": 120,
+          "height": 159,
+          "url": "https://apollo.olx.in:443/v1/files/fd33k8bfnn001-IN/image;s=120x159"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327780",
+      "SUBLOCALITY_LEVEL_1_name": "Mangolpuri"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-09-22T12:58:00+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "629388666",
+    "created_at_first": "2025-09-22T17:31:31+05:30",
+    "locations": [
+      {
+        "lat": 28.691,
+        "lon": 77.092,
+        "region_id": "2001152",
+        "district_id": "5327780",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
