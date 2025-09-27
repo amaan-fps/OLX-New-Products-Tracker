@@ -1,1 +1,380 @@
-[]
+[
+  {
+    "id": "1821606723",
+    "score": 0.92,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1821606723",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Kabir",
+    "has_phone_param": false,
+    "description": "I am filling PS4 games and all of them are like the best games right now. They are 9 games in total which includes of DriveClub, God of War, Mass Morales, GTA 5 Premium which is like maybe very much rare with that Infinite Warfare, Mortal Kombat 11, and 2 to 3 more. They all are like the most premium one with all the things already purchased. No in-app purchases to be done in future right now. They are like the best games right now available for the PS4, also God of War. They all are award-winning. With that I am also giving you a PS4 charger and a cooler with that which is like the best right now. It has RGB lights on it and it connects to your PS4 and then it gives you like infinite amount of ports which you can like ever use. It's cooling is like amazing. It will give you the best cooling experience. It will not let your PS4 overheat. With that it can charge 2 DualShock 4 controllers.",
+    "created_at": "2025-09-28T00:20:01+05:30",
+    "videos": [],
+    "title": "Ps4 games and gaming charger with cooler",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 11150.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 11,150"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1932455130",
+        "external_id": "svh1uv1yx1ng-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/svh1uv1yx1ng-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/svh1uv1yx1ng-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/svh1uv1yx1ng-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/svh1uv1yx1ng-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/svh1uv1yx1ng-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1932455131",
+        "external_id": "t234wcae5xl63-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/t234wcae5xl63-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/t234wcae5xl63-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/t234wcae5xl63-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/t234wcae5xl63-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/t234wcae5xl63-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1932455132",
+        "external_id": "a0ha0tkgeout3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/a0ha0tkgeout3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/a0ha0tkgeout3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/a0ha0tkgeout3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/a0ha0tkgeout3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/a0ha0tkgeout3-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1932455133",
+        "external_id": "y6klwz3d1o173-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/y6klwz3d1o173-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/y6klwz3d1o173-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/y6klwz3d1o173-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/y6klwz3d1o173-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/y6klwz3d1o173-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5393127",
+      "SUBLOCALITY_LEVEL_1_name": "Peera Garhi"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-09-27T18:51:02+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "207004023",
+    "created_at_first": "2025-09-28T00:20:01+05:30",
+    "locations": [
+      {
+        "lat": 28.677,
+        "lon": 77.093,
+        "region_id": "2001152",
+        "district_id": "5393127",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1821606723",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1821606723",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Kabir",
+    "has_phone_param": false,
+    "description": "I am filling PS4 games and all of them are like the best games right now. They are 9 games in total which includes of DriveClub, God of War, Mass Morales, GTA 5 Premium which is like maybe very much rare with that Infinite Warfare, Mortal Kombat 11, and 2 to 3 more. They all are like the most premium one with all the things already purchased. No in-app purchases to be done in future right now. They are like the best games right now available for the PS4, also God of War. They all are award-winning. With that I am also giving you a PS4 charger and a cooler with that which is like the best right now. It has RGB lights on it and it connects to your PS4 and then it gives you like infinite amount of ports which you can like ever use. It's cooling is like amazing. It will give you the best cooling experience. It will not let your PS4 overheat. With that it can charge 2 DualShock 4 controllers.",
+    "created_at": "2025-09-28T00:20:01+05:30",
+    "videos": [],
+    "title": "Ps4 games and gaming charger with cooler",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 11150.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 11,150"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1932455130",
+        "external_id": "svh1uv1yx1ng-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/svh1uv1yx1ng-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/svh1uv1yx1ng-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/svh1uv1yx1ng-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/svh1uv1yx1ng-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/svh1uv1yx1ng-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1932455131",
+        "external_id": "t234wcae5xl63-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/t234wcae5xl63-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/t234wcae5xl63-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/t234wcae5xl63-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/t234wcae5xl63-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/t234wcae5xl63-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1932455132",
+        "external_id": "a0ha0tkgeout3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/a0ha0tkgeout3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/a0ha0tkgeout3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/a0ha0tkgeout3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/a0ha0tkgeout3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/a0ha0tkgeout3-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1932455133",
+        "external_id": "y6klwz3d1o173-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/y6klwz3d1o173-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/y6klwz3d1o173-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/y6klwz3d1o173-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/y6klwz3d1o173-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/y6klwz3d1o173-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5393127",
+      "SUBLOCALITY_LEVEL_1_name": "Peera Garhi"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-09-27T18:51:02+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "207004023",
+    "created_at_first": "2025-09-28T00:20:01+05:30",
+    "locations": [
+      {
+        "lat": 28.677,
+        "lon": 77.093,
+        "region_id": "2001152",
+        "district_id": "5393127",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
