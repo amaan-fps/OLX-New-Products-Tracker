@@ -1,1 +1,218 @@
-[]
+[
+  {
+    "id": "1822064138",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1822064138",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "OLX User",
+    "has_phone_param": false,
+    "description": "Ratchet and clank:\u20b9450\nInfamous second son: \u20b9900\nCod black ops 3:\u20b91100\nGod of war: \u20b9700",
+    "created_at": "2025-10-02T14:08:05+05:30",
+    "videos": [],
+    "title": "PS4 games 4",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 3150.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 3,150"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1934746580",
+        "external_id": "jfuziveedgyr-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/jfuziveedgyr-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/jfuziveedgyr-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/jfuziveedgyr-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/jfuziveedgyr-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/jfuziveedgyr-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328274",
+      "SUBLOCALITY_LEVEL_1_name": "Dwarka Sector 10"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-10-02T08:39:05+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "598027509",
+    "created_at_first": "2025-10-02T14:08:05+05:30",
+    "locations": [
+      {
+        "lat": 28.586,
+        "lon": 77.059,
+        "region_id": "2001152",
+        "district_id": "5328274",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1822064138",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1822064138",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "OLX User",
+    "has_phone_param": false,
+    "description": "Ratchet and clank:\u20b9450\nInfamous second son: \u20b9900\nCod black ops 3:\u20b91100\nGod of war: \u20b9700",
+    "created_at": "2025-10-02T14:08:05+05:30",
+    "videos": [],
+    "title": "PS4 games 4",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 3150.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 3,150"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1934746580",
+        "external_id": "jfuziveedgyr-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/jfuziveedgyr-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/jfuziveedgyr-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/jfuziveedgyr-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/jfuziveedgyr-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/jfuziveedgyr-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328274",
+      "SUBLOCALITY_LEVEL_1_name": "Dwarka Sector 10"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-10-02T08:39:05+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "598027509",
+    "created_at_first": "2025-10-02T14:08:05+05:30",
+    "locations": [
+      {
+        "lat": 28.586,
+        "lon": 77.059,
+        "region_id": "2001152",
+        "district_id": "5328274",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
