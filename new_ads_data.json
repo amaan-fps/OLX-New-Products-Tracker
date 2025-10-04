@@ -1,1 +1,191 @@
-[]
+[
+  {
+    "id": "1822330316",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1822330316",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Yugakshar",
+    "has_phone_param": false,
+    "description": "The console is in good condition but the remote is not working and no box is available",
+    "created_at": "2025-10-04T21:08:34+05:30",
+    "videos": [],
+    "title": "PlayStation 4 pro",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 7000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 7,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1936059931",
+        "external_id": "0g8qr594hdmv1-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/0g8qr594hdmv1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/0g8qr594hdmv1-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/0g8qr594hdmv1-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/0g8qr594hdmv1-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/0g8qr594hdmv1-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1936059932",
+        "external_id": "6y68ai85wzvk2-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/6y68ai85wzvk2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/6y68ai85wzvk2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/6y68ai85wzvk2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/6y68ai85wzvk2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/6y68ai85wzvk2-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1936059933",
+        "external_id": "myrsg7tkj87p1-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/myrsg7tkj87p1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/myrsg7tkj87p1-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/myrsg7tkj87p1-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/myrsg7tkj87p1-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/myrsg7tkj87p1-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1936059934",
+        "external_id": "9a4k7ihv5d623-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/9a4k7ihv5d623-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/9a4k7ihv5d623-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/9a4k7ihv5d623-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/9a4k7ihv5d623-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/9a4k7ihv5d623-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4387779",
+      "ADMIN_LEVEL_3_name": "Faridabad",
+      "SUBLOCALITY_LEVEL_1_id": "5309361",
+      "SUBLOCALITY_LEVEL_1_name": "Sector 15"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-10-04T15:39:33+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "243334619",
+    "created_at_first": "2025-10-04T21:08:34+05:30",
+    "locations": [
+      {
+        "lat": 28.395,
+        "lon": 77.323,
+        "region_id": "2001155",
+        "district_id": "5309361",
+        "city_id": "4387779"
+      }
+    ],
+    "parameters": []
+  }
+]
