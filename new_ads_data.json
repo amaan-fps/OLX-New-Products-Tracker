@@ -1,1 +1,191 @@
-[]
+[
+  {
+    "id": "1822361023",
+    "score": 0.9523809523809523,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1822361023",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Manish",
+    "has_phone_param": false,
+    "description": "Latest version and 872gb of storage .\n\n\nPS4 is working good and has no issues . \n\nWill not be able to ship so prefered mode of transaction is in-person.\nDM for more info\n\n\nPRICE: 12000INR",
+    "created_at": "2025-10-05T09:47:52+05:30",
+    "videos": [],
+    "title": "PS4 Digital 872 GB",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 12000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 12,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1936210564",
+        "external_id": "qbs2ivd3bloe2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/qbs2ivd3bloe2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/qbs2ivd3bloe2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/qbs2ivd3bloe2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/qbs2ivd3bloe2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/qbs2ivd3bloe2-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1936210565",
+        "external_id": "e1ikti6tf84j3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/e1ikti6tf84j3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/e1ikti6tf84j3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/e1ikti6tf84j3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/e1ikti6tf84j3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/e1ikti6tf84j3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1936210566",
+        "external_id": "lwk9foo73ox01-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/lwk9foo73ox01-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/lwk9foo73ox01-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/lwk9foo73ox01-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/lwk9foo73ox01-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/lwk9foo73ox01-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1936210567",
+        "external_id": "ag7ggcpm775f-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/ag7ggcpm775f-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/ag7ggcpm775f-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/ag7ggcpm775f-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/ag7ggcpm775f-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/ag7ggcpm775f-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001176",
+      "ADMIN_LEVEL_1_name": "Uttar Pradesh",
+      "ADMIN_LEVEL_3_id": "4059326",
+      "ADMIN_LEVEL_3_name": "Noida",
+      "SUBLOCALITY_LEVEL_1_id": "5455161",
+      "SUBLOCALITY_LEVEL_1_name": "Sector-12"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-10-05T04:18:53+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "204146605",
+    "created_at_first": "2025-10-05T09:47:52+05:30",
+    "locations": [
+      {
+        "lat": 28.596,
+        "lon": 77.339,
+        "region_id": "2001176",
+        "district_id": "5455161",
+        "city_id": "4059326"
+      }
+    ],
+    "parameters": []
+  }
+]
