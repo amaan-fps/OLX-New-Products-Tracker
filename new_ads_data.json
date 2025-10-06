@@ -1,1 +1,201 @@
-[]
+[
+  {
+    "id": "1822572895",
+    "score": 0.9473684210526315,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "1457",
+    "ad_id": "1822572895",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "singh",
+    "has_phone_param": false,
+    "description": "Very good condition \n\nLike new\n\nNew headphones cost around 12000\n\nSelling at final price of 6000",
+    "created_at": "2025-10-06T22:19:41+05:30",
+    "videos": [],
+    "title": "Afterglow Kral PS4 / PS5 Wireless Headset purchased from USA",
+    "buyer_id": "0",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 8000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 8,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1937242915",
+        "external_id": "vbxcvaiu6m7u2-IN",
+        "width": 648,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/vbxcvaiu6m7u2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1800,
+          "url": "https://apollo.olx.in:443/v1/files/vbxcvaiu6m7u2-IN/image;s=1080x1800"
+        },
+        "big": {
+          "width": 505,
+          "height": 841,
+          "url": "https://apollo.olx.in:443/v1/files/vbxcvaiu6m7u2-IN/image;s=505x841"
+        },
+        "medium": {
+          "width": 120,
+          "height": 200,
+          "url": "https://apollo.olx.in:443/v1/files/vbxcvaiu6m7u2-IN/image;s=120x200"
+        },
+        "small": {
+          "width": 120,
+          "height": 200,
+          "url": "https://apollo.olx.in:443/v1/files/vbxcvaiu6m7u2-IN/image;s=120x200"
+        }
+      },
+      {
+        "id": "1937242916",
+        "external_id": "ty42qe3y335i1-IN",
+        "width": 658,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/ty42qe3y335i1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1772,
+          "url": "https://apollo.olx.in:443/v1/files/ty42qe3y335i1-IN/image;s=1080x1772"
+        },
+        "big": {
+          "width": 505,
+          "height": 828,
+          "url": "https://apollo.olx.in:443/v1/files/ty42qe3y335i1-IN/image;s=505x828"
+        },
+        "medium": {
+          "width": 120,
+          "height": 196,
+          "url": "https://apollo.olx.in:443/v1/files/ty42qe3y335i1-IN/image;s=120x196"
+        },
+        "small": {
+          "width": 120,
+          "height": 196,
+          "url": "https://apollo.olx.in:443/v1/files/ty42qe3y335i1-IN/image;s=120x196"
+        }
+      },
+      {
+        "id": "1937242917",
+        "external_id": "ovfh73esqgco-IN",
+        "width": 568,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/ovfh73esqgco-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2053,
+          "url": "https://apollo.olx.in:443/v1/files/ovfh73esqgco-IN/image;s=1080x2053"
+        },
+        "big": {
+          "width": 505,
+          "height": 960,
+          "url": "https://apollo.olx.in:443/v1/files/ovfh73esqgco-IN/image;s=505x960"
+        },
+        "medium": {
+          "width": 120,
+          "height": 228,
+          "url": "https://apollo.olx.in:443/v1/files/ovfh73esqgco-IN/image;s=120x228"
+        },
+        "small": {
+          "width": 120,
+          "height": 228,
+          "url": "https://apollo.olx.in:443/v1/files/ovfh73esqgco-IN/image;s=120x228"
+        }
+      },
+      {
+        "id": "1937242918",
+        "external_id": "1bc784va3cor1-IN",
+        "width": 1031,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/1bc784va3cor1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1131,
+          "url": "https://apollo.olx.in:443/v1/files/1bc784va3cor1-IN/image;s=1080x1131"
+        },
+        "big": {
+          "width": 505,
+          "height": 529,
+          "url": "https://apollo.olx.in:443/v1/files/1bc784va3cor1-IN/image;s=505x529"
+        },
+        "medium": {
+          "width": 120,
+          "height": 125,
+          "url": "https://apollo.olx.in:443/v1/files/1bc784va3cor1-IN/image;s=120x125"
+        },
+        "small": {
+          "width": 120,
+          "height": 125,
+          "url": "https://apollo.olx.in:443/v1/files/1bc784va3cor1-IN/image;s=120x125"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5459405",
+      "SUBLOCALITY_LEVEL_1_name": "Ganesh Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-10-06T16:50:42+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "268213361",
+    "created_at_first": "2025-10-06T22:19:12+05:30",
+    "locations": [
+      {
+        "lat": 28.624,
+        "lon": 77.282,
+        "region_id": "2001152",
+        "district_id": "5459405",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "Mobile",
+        "value": "accessories-mobile",
+        "key_name": "Type",
+        "formatted_value": "Mobile"
+      }
+    ]
+  }
+]
