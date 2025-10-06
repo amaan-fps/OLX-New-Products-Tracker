@@ -1,1 +1,381 @@
-[]
+[
+  {
+    "id": "1822585670",
+    "score": 0.95,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1822585670",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "ShivenBidhuri",
+    "has_phone_param": false,
+    "description": "Selling Rise of the Ronin @3000 and Nfs hot Persuit for free with Rotr",
+    "created_at": "2025-10-07T04:19:38+05:30",
+    "videos": [],
+    "title": "Cd of Ps5 and Ps4 Games",
+    "buyer_id": "0",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 3000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 3,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1937306705",
+        "external_id": "te0nooo2j9wo3-IN",
+        "width": 1080,
+        "height": 620,
+        "url": "https://apollo.olx.in:443/v1/files/te0nooo2j9wo3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 620,
+          "url": "https://apollo.olx.in:443/v1/files/te0nooo2j9wo3-IN/image;s=1080x620"
+        },
+        "big": {
+          "width": 505,
+          "height": 289,
+          "url": "https://apollo.olx.in:443/v1/files/te0nooo2j9wo3-IN/image;s=505x289"
+        },
+        "medium": {
+          "width": 120,
+          "height": 68,
+          "url": "https://apollo.olx.in:443/v1/files/te0nooo2j9wo3-IN/image;s=120x68"
+        },
+        "small": {
+          "width": 120,
+          "height": 68,
+          "url": "https://apollo.olx.in:443/v1/files/te0nooo2j9wo3-IN/image;s=120x68"
+        }
+      },
+      {
+        "id": "1937306706",
+        "external_id": "enjw778gszn8-IN",
+        "width": 1027,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/enjw778gszn8-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1135,
+          "url": "https://apollo.olx.in:443/v1/files/enjw778gszn8-IN/image;s=1080x1135"
+        },
+        "big": {
+          "width": 505,
+          "height": 531,
+          "url": "https://apollo.olx.in:443/v1/files/enjw778gszn8-IN/image;s=505x531"
+        },
+        "medium": {
+          "width": 120,
+          "height": 126,
+          "url": "https://apollo.olx.in:443/v1/files/enjw778gszn8-IN/image;s=120x126"
+        },
+        "small": {
+          "width": 120,
+          "height": 126,
+          "url": "https://apollo.olx.in:443/v1/files/enjw778gszn8-IN/image;s=120x126"
+        }
+      },
+      {
+        "id": "1937306707",
+        "external_id": "5ul3k0lonf7q3-IN",
+        "width": 1008,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/5ul3k0lonf7q3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1157,
+          "url": "https://apollo.olx.in:443/v1/files/5ul3k0lonf7q3-IN/image;s=1080x1157"
+        },
+        "big": {
+          "width": 505,
+          "height": 541,
+          "url": "https://apollo.olx.in:443/v1/files/5ul3k0lonf7q3-IN/image;s=505x541"
+        },
+        "medium": {
+          "width": 120,
+          "height": 128,
+          "url": "https://apollo.olx.in:443/v1/files/5ul3k0lonf7q3-IN/image;s=120x128"
+        },
+        "small": {
+          "width": 120,
+          "height": 128,
+          "url": "https://apollo.olx.in:443/v1/files/5ul3k0lonf7q3-IN/image;s=120x128"
+        }
+      },
+      {
+        "id": "1937306708",
+        "external_id": "i5nclsn8447j2-IN",
+        "width": 911,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/i5nclsn8447j2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1280,
+          "url": "https://apollo.olx.in:443/v1/files/i5nclsn8447j2-IN/image;s=1080x1280"
+        },
+        "big": {
+          "width": 505,
+          "height": 598,
+          "url": "https://apollo.olx.in:443/v1/files/i5nclsn8447j2-IN/image;s=505x598"
+        },
+        "medium": {
+          "width": 120,
+          "height": 142,
+          "url": "https://apollo.olx.in:443/v1/files/i5nclsn8447j2-IN/image;s=120x142"
+        },
+        "small": {
+          "width": 120,
+          "height": 142,
+          "url": "https://apollo.olx.in:443/v1/files/i5nclsn8447j2-IN/image;s=120x142"
+        }
+      },
+      {
+        "id": "1937306709",
+        "external_id": "2o8s46v26qlm-IN",
+        "width": 1045,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/2o8s46v26qlm-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1116,
+          "url": "https://apollo.olx.in:443/v1/files/2o8s46v26qlm-IN/image;s=1080x1116"
+        },
+        "big": {
+          "width": 505,
+          "height": 521,
+          "url": "https://apollo.olx.in:443/v1/files/2o8s46v26qlm-IN/image;s=505x521"
+        },
+        "medium": {
+          "width": 120,
+          "height": 124,
+          "url": "https://apollo.olx.in:443/v1/files/2o8s46v26qlm-IN/image;s=120x124"
+        },
+        "small": {
+          "width": 120,
+          "height": 124,
+          "url": "https://apollo.olx.in:443/v1/files/2o8s46v26qlm-IN/image;s=120x124"
+        }
+      },
+      {
+        "id": "1937306710",
+        "external_id": "9f1lqe9ys67g1-IN",
+        "width": 1080,
+        "height": 761,
+        "url": "https://apollo.olx.in:443/v1/files/9f1lqe9ys67g1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 761,
+          "url": "https://apollo.olx.in:443/v1/files/9f1lqe9ys67g1-IN/image;s=1080x761"
+        },
+        "big": {
+          "width": 505,
+          "height": 355,
+          "url": "https://apollo.olx.in:443/v1/files/9f1lqe9ys67g1-IN/image;s=505x355"
+        },
+        "medium": {
+          "width": 120,
+          "height": 84,
+          "url": "https://apollo.olx.in:443/v1/files/9f1lqe9ys67g1-IN/image;s=120x84"
+        },
+        "small": {
+          "width": 120,
+          "height": 84,
+          "url": "https://apollo.olx.in:443/v1/files/9f1lqe9ys67g1-IN/image;s=120x84"
+        }
+      },
+      {
+        "id": "1937306711",
+        "external_id": "100lttmp9dt52-IN",
+        "width": 852,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/100lttmp9dt52-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1369,
+          "url": "https://apollo.olx.in:443/v1/files/100lttmp9dt52-IN/image;s=1080x1369"
+        },
+        "big": {
+          "width": 505,
+          "height": 640,
+          "url": "https://apollo.olx.in:443/v1/files/100lttmp9dt52-IN/image;s=505x640"
+        },
+        "medium": {
+          "width": 120,
+          "height": 152,
+          "url": "https://apollo.olx.in:443/v1/files/100lttmp9dt52-IN/image;s=120x152"
+        },
+        "small": {
+          "width": 120,
+          "height": 152,
+          "url": "https://apollo.olx.in:443/v1/files/100lttmp9dt52-IN/image;s=120x152"
+        }
+      },
+      {
+        "id": "1937306712",
+        "external_id": "742gtrdghcjn2-IN",
+        "width": 986,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/742gtrdghcjn2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1182,
+          "url": "https://apollo.olx.in:443/v1/files/742gtrdghcjn2-IN/image;s=1080x1182"
+        },
+        "big": {
+          "width": 505,
+          "height": 553,
+          "url": "https://apollo.olx.in:443/v1/files/742gtrdghcjn2-IN/image;s=505x553"
+        },
+        "medium": {
+          "width": 120,
+          "height": 131,
+          "url": "https://apollo.olx.in:443/v1/files/742gtrdghcjn2-IN/image;s=120x131"
+        },
+        "small": {
+          "width": 120,
+          "height": 131,
+          "url": "https://apollo.olx.in:443/v1/files/742gtrdghcjn2-IN/image;s=120x131"
+        }
+      },
+      {
+        "id": "1937306713",
+        "external_id": "oaiy6avostth3-IN",
+        "width": 1080,
+        "height": 1038,
+        "url": "https://apollo.olx.in:443/v1/files/oaiy6avostth3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1038,
+          "url": "https://apollo.olx.in:443/v1/files/oaiy6avostth3-IN/image;s=1080x1038"
+        },
+        "big": {
+          "width": 505,
+          "height": 485,
+          "url": "https://apollo.olx.in:443/v1/files/oaiy6avostth3-IN/image;s=505x485"
+        },
+        "medium": {
+          "width": 120,
+          "height": 115,
+          "url": "https://apollo.olx.in:443/v1/files/oaiy6avostth3-IN/image;s=120x115"
+        },
+        "small": {
+          "width": 120,
+          "height": 115,
+          "url": "https://apollo.olx.in:443/v1/files/oaiy6avostth3-IN/image;s=120x115"
+        }
+      },
+      {
+        "id": "1937306714",
+        "external_id": "pekuwobpyczq-IN",
+        "width": 1080,
+        "height": 1070,
+        "url": "https://apollo.olx.in:443/v1/files/pekuwobpyczq-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1070,
+          "url": "https://apollo.olx.in:443/v1/files/pekuwobpyczq-IN/image;s=1080x1070"
+        },
+        "big": {
+          "width": 505,
+          "height": 500,
+          "url": "https://apollo.olx.in:443/v1/files/pekuwobpyczq-IN/image;s=505x500"
+        },
+        "medium": {
+          "width": 120,
+          "height": 118,
+          "url": "https://apollo.olx.in:443/v1/files/pekuwobpyczq-IN/image;s=120x118"
+        },
+        "small": {
+          "width": 120,
+          "height": 118,
+          "url": "https://apollo.olx.in:443/v1/files/pekuwobpyczq-IN/image;s=120x118"
+        }
+      },
+      {
+        "id": "1937306715",
+        "external_id": "5sprcz7anl9f-IN",
+        "width": 498,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/5sprcz7anl9f-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2342,
+          "url": "https://apollo.olx.in:443/v1/files/5sprcz7anl9f-IN/image;s=1080x2342"
+        },
+        "big": {
+          "width": 505,
+          "height": 1095,
+          "url": "https://apollo.olx.in:443/v1/files/5sprcz7anl9f-IN/image;s=505x1095"
+        },
+        "medium": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/5sprcz7anl9f-IN/image;s=120x260"
+        },
+        "small": {
+          "width": 120,
+          "height": 260,
+          "url": "https://apollo.olx.in:443/v1/files/5sprcz7anl9f-IN/image;s=120x260"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327875",
+      "SUBLOCALITY_LEVEL_1_name": "Khizrabad"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-10-06T22:50:40+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "446819598",
+    "created_at_first": "2025-10-07T04:19:38+05:30",
+    "locations": [
+      {
+        "lat": 28.572,
+        "lon": 77.275,
+        "region_id": "2001152",
+        "district_id": "5327875",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
