@@ -1,1 +1,546 @@
-[]
+[
+  {
+    "id": "1822677512",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1822677512",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "MJN",
+    "has_phone_param": false,
+    "description": "Perfectly working Ps4 and two controllers. Two controller cases. New disc drive fitted 2 years back.",
+    "created_at": "2025-10-07T20:13:43+05:30",
+    "videos": [],
+    "title": "Playstation 4 PS4 with 2 controllers",
+    "buyer_id": "0",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 12000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 12,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1937816871",
+        "external_id": "3eg2x6dkg4pl3-IN",
+        "width": 608,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1918,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=1080x1918"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1937816872",
+        "external_id": "ozo6cupehacn-IN",
+        "width": 608,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1918,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=1080x1918"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=120x213"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328231",
+      "SUBLOCALITY_LEVEL_1_name": "Kishangarh"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-10-07T14:44:43+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "92384339",
+    "created_at_first": "2025-10-07T20:13:43+05:30",
+    "locations": [
+      {
+        "lat": 28.513,
+        "lon": 77.168,
+        "region_id": "2001152",
+        "district_id": "5328231",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1822677512",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1822677512",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "MJN",
+    "has_phone_param": false,
+    "description": "Perfectly working Ps4 and two controllers. Two controller cases. New disc drive fitted 2 years back.",
+    "created_at": "2025-10-07T20:13:43+05:30",
+    "videos": [],
+    "title": "Playstation 4 PS4 with 2 controllers",
+    "buyer_id": "0",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 12000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 12,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1937816871",
+        "external_id": "3eg2x6dkg4pl3-IN",
+        "width": 608,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1918,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=1080x1918"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1937816872",
+        "external_id": "ozo6cupehacn-IN",
+        "width": 608,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1918,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=1080x1918"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=120x213"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328231",
+      "SUBLOCALITY_LEVEL_1_name": "Kishangarh"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-10-07T14:44:43+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "92384339",
+    "created_at_first": "2025-10-07T20:13:43+05:30",
+    "locations": [
+      {
+        "lat": 28.513,
+        "lon": 77.168,
+        "region_id": "2001152",
+        "district_id": "5328231",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1822677512",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1822677512",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "MJN",
+    "has_phone_param": false,
+    "description": "Perfectly working Ps4 and two controllers. Two controller cases. New disc drive fitted 2 years back.",
+    "created_at": "2025-10-07T20:13:43+05:30",
+    "videos": [],
+    "title": "Playstation 4 PS4 with 2 controllers",
+    "buyer_id": "0",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 12000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 12,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1937816871",
+        "external_id": "3eg2x6dkg4pl3-IN",
+        "width": 608,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1918,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=1080x1918"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1937816872",
+        "external_id": "ozo6cupehacn-IN",
+        "width": 608,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1918,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=1080x1918"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=120x213"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328231",
+      "SUBLOCALITY_LEVEL_1_name": "Kishangarh"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-10-07T14:44:43+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "92384339",
+    "created_at_first": "2025-10-07T20:13:43+05:30",
+    "locations": [
+      {
+        "lat": 28.513,
+        "lon": 77.168,
+        "region_id": "2001152",
+        "district_id": "5328231",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1822677512",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1822677512",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "MJN",
+    "has_phone_param": false,
+    "description": "Perfectly working Ps4 and two controllers. Two controller cases. New disc drive fitted 2 years back.",
+    "created_at": "2025-10-07T20:13:43+05:30",
+    "videos": [],
+    "title": "Playstation 4 PS4 with 2 controllers",
+    "buyer_id": "0",
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 12000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 12,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1937816871",
+        "external_id": "3eg2x6dkg4pl3-IN",
+        "width": 608,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1918,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=1080x1918"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/3eg2x6dkg4pl3-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1937816872",
+        "external_id": "ozo6cupehacn-IN",
+        "width": 608,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1918,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=1080x1918"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/ozo6cupehacn-IN/image;s=120x213"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328231",
+      "SUBLOCALITY_LEVEL_1_name": "Kishangarh"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-10-07T14:44:43+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "92384339",
+    "created_at_first": "2025-10-07T20:13:43+05:30",
+    "locations": [
+      {
+        "lat": 28.513,
+        "lon": 77.168,
+        "region_id": "2001152",
+        "district_id": "5328231",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
