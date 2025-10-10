@@ -54,7 +54,49 @@
     "max_price": 14000,
     "location_name": "Delhi",
     "location_id": "2001152"
-  }
-  
+  },
+  {
+    "query": "xbox one X",
+    "min_price": 8000,
+    "max_price": 15000,
+    "location_name": "Delhi",
+    "location_id": "2001152"
+  },
+  {
+    "query": "xbox one X",
+    "min_price": 8000,
+    "max_price": 15000,
+    "location_name": "Gurgaon",
+    "location_id": "4058748"
+  },
+  {
+    "query": "xbox series s",
+    "min_price": 10000,
+    "max_price": 16000,
+    "location_name": "Delhi",
+    "location_id": "2001152"
+  },
+  {
+    "query": "xbox series s",
+    "min_price": 10000,
+    "max_price": 16000,
+    "location_name": "Gurgaon",
+    "location_id": "4058748"
+  },
+  {
+    "query": "xbox series X",
+    "min_price": 10000,
+    "max_price": 18000,
+    "location_name": "Delhi",
+    "location_id": "2001152"
+  },
+  {
+    "query": "xbox series X",
+    "min_price": 10000,
+    "max_price": 18000,
+    "location_name": "Gurgaon",
+    "location_id": "4058748"
+  },
 ]
+
 
