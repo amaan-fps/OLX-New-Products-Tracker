@@ -1,1 +1,141 @@
-[]
+[
+  {
+    "id": "1806411413",
+    "score": 0.9047619047619048,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1806411413",
+    "favorites": {
+      "count": 2,
+      "count_label": "2",
+      "count_label_next": "3",
+      "count_label_prev": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "shubh khawas",
+    "has_phone_param": false,
+    "description": "no problem in heating and working it is in fair condition\nno controllers and no controller",
+    "created_at": "2025-11-02T00:08:25+05:30",
+    "videos": [],
+    "title": "ps4 slim 500 gb",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 10000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 10,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1948186334",
+        "external_id": "ltp59003aaqv3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/ltp59003aaqv3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/ltp59003aaqv3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/ltp59003aaqv3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/ltp59003aaqv3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/ltp59003aaqv3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1948186335",
+        "external_id": "52w7aa4xoqtm2-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/52w7aa4xoqtm2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/52w7aa4xoqtm2-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/52w7aa4xoqtm2-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/52w7aa4xoqtm2-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/52w7aa4xoqtm2-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001176",
+      "ADMIN_LEVEL_1_name": "Uttar Pradesh",
+      "ADMIN_LEVEL_3_id": "4059326",
+      "ADMIN_LEVEL_3_name": "Noida",
+      "SUBLOCALITY_LEVEL_1_id": "5340465",
+      "SUBLOCALITY_LEVEL_1_name": "Sector 46"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-01T18:39:23+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "580687413",
+    "created_at_first": "2025-05-08T20:51:20+05:30",
+    "locations": [
+      {
+        "lat": 28.549,
+        "lon": 77.361,
+        "region_id": "2001176",
+        "district_id": "5340465",
+        "city_id": "4059326"
+      }
+    ],
+    "parameters": []
+  }
+]
