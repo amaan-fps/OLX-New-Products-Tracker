@@ -1,1 +1,224 @@
-[]
+[
+  {
+    "id": "1800147203",
+    "score": 0.9523809523809523,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1800147203",
+    "favorites": {
+      "count": 1,
+      "count_label": "1",
+      "count_label_next": "2"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Vikrant Kumar",
+    "has_phone_param": false,
+    "description": "Creative Sound Blaster G5 Sound Card for PS4/5\n7.1 HD Audio Portable Sound Card and Headphone AMP",
+    "created_at": "2025-11-02T09:39:29+05:30",
+    "videos": [],
+    "title": "Creative Sound Blaster G5 Sound Card for PS4/5",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 10000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 10,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1824450316",
+        "external_id": "vz6itdpipxfc1-ADVIN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/vz6itdpipxfc1-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/vz6itdpipxfc1-ADVIN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/vz6itdpipxfc1-ADVIN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/vz6itdpipxfc1-ADVIN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/vz6itdpipxfc1-ADVIN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328283",
+      "SUBLOCALITY_LEVEL_1_name": "Dwarka Sector 4"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-02T04:10:28+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "41359693",
+    "created_at_first": "2025-03-05T09:06:01+05:30",
+    "locations": [
+      {
+        "lat": 28.601,
+        "lon": 77.048,
+        "region_id": "2001152",
+        "district_id": "5328283",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1800147203",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1800147203",
+    "favorites": {
+      "count": 1,
+      "count_label": "1",
+      "count_label_next": "2"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Vikrant Kumar",
+    "has_phone_param": false,
+    "description": "Creative Sound Blaster G5 Sound Card for PS4/5\n7.1 HD Audio Portable Sound Card and Headphone AMP",
+    "created_at": "2025-11-02T09:39:29+05:30",
+    "videos": [],
+    "title": "Creative Sound Blaster G5 Sound Card for PS4/5",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 10000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 10,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1824450316",
+        "external_id": "vz6itdpipxfc1-ADVIN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/vz6itdpipxfc1-ADVIN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/vz6itdpipxfc1-ADVIN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/vz6itdpipxfc1-ADVIN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/vz6itdpipxfc1-ADVIN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/vz6itdpipxfc1-ADVIN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328283",
+      "SUBLOCALITY_LEVEL_1_name": "Dwarka Sector 4"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-02T04:10:28+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "41359693",
+    "created_at_first": "2025-03-05T09:06:01+05:30",
+    "locations": [
+      {
+        "lat": 28.601,
+        "lon": 77.048,
+        "region_id": "2001152",
+        "district_id": "5328283",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
