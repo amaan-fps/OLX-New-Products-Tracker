@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "id": "1825487840",
+    "score": 0.8571428571428571,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "1505",
+    "ad_id": "1825487840",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "shankar Nigam",
+    "has_phone_param": false,
+    "description": "PS4 in working condition with 1 tb",
+    "created_at": "2025-11-04T19:59:04+05:30",
+    "videos": [],
+    "title": "PS4 in working condition with 1 tb",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 11000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 11,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1951833298",
+        "external_id": "djxc1ecqx8og-IN",
+        "width": 1080,
+        "height": 486,
+        "url": "https://apollo.olx.in:443/v1/files/djxc1ecqx8og-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 486,
+          "url": "https://apollo.olx.in:443/v1/files/djxc1ecqx8og-IN/image;s=1080x486"
+        },
+        "big": {
+          "width": 505,
+          "height": 227,
+          "url": "https://apollo.olx.in:443/v1/files/djxc1ecqx8og-IN/image;s=505x227"
+        },
+        "medium": {
+          "width": 120,
+          "height": 54,
+          "url": "https://apollo.olx.in:443/v1/files/djxc1ecqx8og-IN/image;s=120x54"
+        },
+        "small": {
+          "width": 120,
+          "height": 54,
+          "url": "https://apollo.olx.in:443/v1/files/djxc1ecqx8og-IN/image;s=120x54"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5459406",
+      "SUBLOCALITY_LEVEL_1_name": "Ganga Vihar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-04T14:30:08+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "410242341",
+    "created_at_first": "2025-11-04T19:59:04+05:30",
+    "locations": [
+      {
+        "lat": 28.707,
+        "lon": 77.281,
+        "region_id": "2001152",
+        "district_id": "5459406",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1825487840",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "1505",
+    "ad_id": "1825487840",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "shankar Nigam",
+    "has_phone_param": false,
+    "description": "PS4 in working condition with 1 tb",
+    "created_at": "2025-11-04T19:59:04+05:30",
+    "videos": [],
+    "title": "PS4 in working condition with 1 tb",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 11000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 11,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1951833298",
+        "external_id": "djxc1ecqx8og-IN",
+        "width": 1080,
+        "height": 486,
+        "url": "https://apollo.olx.in:443/v1/files/djxc1ecqx8og-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 486,
+          "url": "https://apollo.olx.in:443/v1/files/djxc1ecqx8og-IN/image;s=1080x486"
+        },
+        "big": {
+          "width": 505,
+          "height": 227,
+          "url": "https://apollo.olx.in:443/v1/files/djxc1ecqx8og-IN/image;s=505x227"
+        },
+        "medium": {
+          "width": 120,
+          "height": 54,
+          "url": "https://apollo.olx.in:443/v1/files/djxc1ecqx8og-IN/image;s=120x54"
+        },
+        "small": {
+          "width": 120,
+          "height": 54,
+          "url": "https://apollo.olx.in:443/v1/files/djxc1ecqx8og-IN/image;s=120x54"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5459406",
+      "SUBLOCALITY_LEVEL_1_name": "Ganga Vihar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-04T14:30:08+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "410242341",
+    "created_at_first": "2025-11-04T19:59:04+05:30",
+    "locations": [
+      {
+        "lat": 28.707,
+        "lon": 77.281,
+        "region_id": "2001152",
+        "district_id": "5459406",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
