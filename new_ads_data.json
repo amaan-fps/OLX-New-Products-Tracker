@@ -1,1 +1,337 @@
-[]
+[
+  {
+    "id": "1825928065",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "1453",
+    "ad_id": "1825928065",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "SACHIN YADAV ",
+    "has_phone_param": false,
+    "description": "IPHONE X GOOD CONDITION AVAILABLE \nEXCHANGE AVAILABLE  ANY MOBILE \nSELLING 7000 LAST PRICE \n2 COVER FREE \nCHARGING CABLE FREE \nDISPLAY THODI SI CRACK HAI PER WORKING HAI \nTOUCH FULLY WORKING HAI \nBACK PANEL CRACK HAI \nFACE ID NOT WORKING \n64 GB STORAGE HAI \nAUR KOI PROBLEM NAHI HAI \nDISPLAY OR TOUCH PROPER WORKING HAI\nNOT TIME PASS\nUrgent sale\nBEST DEAL \n\nWHY SELLING THIS IPHONE \nMUJHE PS4 KHARIDNA HAI AUR MUJHE GOLDEN COLOR CHAHIE THA AUR MUJHE IPHONE 10 SE UPAR CHAHIE THA \nPS4 buy",
+    "created_at": "2025-11-09T10:58:14+05:30",
+    "videos": [],
+    "title": "IPHONE X GOOD CONDITION AVAILABLE URGENT SALE PS4 BUY",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 7000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 7,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1954073291",
+        "external_id": "yn5jx5bge1r32-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/yn5jx5bge1r32-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/yn5jx5bge1r32-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/yn5jx5bge1r32-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/yn5jx5bge1r32-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/yn5jx5bge1r32-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1954073292",
+        "external_id": "3fdjod6ejhnh2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/3fdjod6ejhnh2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/3fdjod6ejhnh2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/3fdjod6ejhnh2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/3fdjod6ejhnh2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/3fdjod6ejhnh2-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1954073293",
+        "external_id": "hvcff2gy0f8b2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/hvcff2gy0f8b2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/hvcff2gy0f8b2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/hvcff2gy0f8b2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/hvcff2gy0f8b2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/hvcff2gy0f8b2-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1954073294",
+        "external_id": "h1yy7ex6f8ie3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/h1yy7ex6f8ie3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/h1yy7ex6f8ie3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/h1yy7ex6f8ie3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/h1yy7ex6f8ie3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/h1yy7ex6f8ie3-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1954073295",
+        "external_id": "pxugiyvahcma-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/pxugiyvahcma-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/pxugiyvahcma-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/pxugiyvahcma-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/pxugiyvahcma-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/pxugiyvahcma-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1954073296",
+        "external_id": "v9mhpieuraxh-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/v9mhpieuraxh-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/v9mhpieuraxh-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/v9mhpieuraxh-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/v9mhpieuraxh-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/v9mhpieuraxh-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1954073297",
+        "external_id": "u6paof9ytv0d1-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/u6paof9ytv0d1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/u6paof9ytv0d1-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/u6paof9ytv0d1-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/u6paof9ytv0d1-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/u6paof9ytv0d1-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1954073298",
+        "external_id": "63c9eryrf9vd2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/63c9eryrf9vd2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/63c9eryrf9vd2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/63c9eryrf9vd2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/63c9eryrf9vd2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/63c9eryrf9vd2-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1954073299",
+        "external_id": "0ics1ukjcbat2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/0ics1ukjcbat2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/0ics1ukjcbat2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/0ics1ukjcbat2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/0ics1ukjcbat2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/0ics1ukjcbat2-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4058748",
+      "ADMIN_LEVEL_3_name": "Gurgaon",
+      "SUBLOCALITY_LEVEL_1_id": "5309830",
+      "SUBLOCALITY_LEVEL_1_name": "Shikohpur"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-09T05:20:14+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "591358591",
+    "created_at_first": "2025-11-09T10:49:00+05:30",
+    "locations": [
+      {
+        "lat": 28.369,
+        "lon": 76.984,
+        "region_id": "2001155",
+        "district_id": "5309830",
+        "city_id": "4058748"
+      }
+    ],
+    "parameters": [
+      {
+        "type": "single",
+        "key": "make",
+        "value_name": "iPhone",
+        "value": "iphone",
+        "key_name": "Brand",
+        "formatted_value": "iPhone"
+      }
+    ]
+  }
+]
