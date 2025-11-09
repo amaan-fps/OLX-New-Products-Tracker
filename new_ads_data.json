@@ -1,1 +1,280 @@
-[]
+[
+  {
+    "id": "1804751567",
+    "score": 0.8333333333333334,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1804751567",
+    "favorites": {
+      "count": 10,
+      "count_label": "10",
+      "count_label_next": "11",
+      "count_label_prev": "9"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Kunal",
+    "has_phone_param": false,
+    "description": "100% working Xbox Kinect One entire setup with windows and Xbox connection cables.",
+    "created_at": "2025-11-09T08:51:44+05:30",
+    "videos": [],
+    "title": "Xbox One Kinect Sensor",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 7800.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 7,800"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1899765786",
+        "external_id": "yfsyxnue49y73-IN",
+        "width": 400,
+        "height": 300,
+        "url": "https://apollo.olx.in:443/v1/files/yfsyxnue49y73-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/yfsyxnue49y73-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/yfsyxnue49y73-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/yfsyxnue49y73-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/yfsyxnue49y73-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1899765787",
+        "external_id": "d6gqh4j8dbtx2-IN",
+        "width": 584,
+        "height": 417,
+        "url": "https://apollo.olx.in:443/v1/files/d6gqh4j8dbtx2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 771,
+          "url": "https://apollo.olx.in:443/v1/files/d6gqh4j8dbtx2-IN/image;s=1080x771"
+        },
+        "big": {
+          "width": 505,
+          "height": 360,
+          "url": "https://apollo.olx.in:443/v1/files/d6gqh4j8dbtx2-IN/image;s=505x360"
+        },
+        "medium": {
+          "width": 120,
+          "height": 85,
+          "url": "https://apollo.olx.in:443/v1/files/d6gqh4j8dbtx2-IN/image;s=120x85"
+        },
+        "small": {
+          "width": 120,
+          "height": 85,
+          "url": "https://apollo.olx.in:443/v1/files/d6gqh4j8dbtx2-IN/image;s=120x85"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328276",
+      "SUBLOCALITY_LEVEL_1_name": "Dwarka Sector 12"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-09T03:22:42+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "526935963",
+    "created_at_first": "2025-04-22T00:29:16+05:30",
+    "locations": [
+      {
+        "lat": 28.594,
+        "lon": 77.041,
+        "region_id": "2001152",
+        "district_id": "5328276",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1804751567",
+    "score": 0.8,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1804751567",
+    "favorites": {
+      "count": 10,
+      "count_label": "10",
+      "count_label_next": "11",
+      "count_label_prev": "9"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Kunal",
+    "has_phone_param": false,
+    "description": "100% working Xbox Kinect One entire setup with windows and Xbox connection cables.",
+    "created_at": "2025-11-09T08:51:44+05:30",
+    "videos": [],
+    "title": "Xbox One Kinect Sensor",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 7800.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 7,800"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1899765786",
+        "external_id": "yfsyxnue49y73-IN",
+        "width": 400,
+        "height": 300,
+        "url": "https://apollo.olx.in:443/v1/files/yfsyxnue49y73-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/yfsyxnue49y73-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/yfsyxnue49y73-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/yfsyxnue49y73-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/yfsyxnue49y73-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1899765787",
+        "external_id": "d6gqh4j8dbtx2-IN",
+        "width": 584,
+        "height": 417,
+        "url": "https://apollo.olx.in:443/v1/files/d6gqh4j8dbtx2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 771,
+          "url": "https://apollo.olx.in:443/v1/files/d6gqh4j8dbtx2-IN/image;s=1080x771"
+        },
+        "big": {
+          "width": 505,
+          "height": 360,
+          "url": "https://apollo.olx.in:443/v1/files/d6gqh4j8dbtx2-IN/image;s=505x360"
+        },
+        "medium": {
+          "width": 120,
+          "height": 85,
+          "url": "https://apollo.olx.in:443/v1/files/d6gqh4j8dbtx2-IN/image;s=120x85"
+        },
+        "small": {
+          "width": 120,
+          "height": 85,
+          "url": "https://apollo.olx.in:443/v1/files/d6gqh4j8dbtx2-IN/image;s=120x85"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328276",
+      "SUBLOCALITY_LEVEL_1_name": "Dwarka Sector 12"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-09T03:22:42+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "526935963",
+    "created_at_first": "2025-04-22T00:29:16+05:30",
+    "locations": [
+      {
+        "lat": 28.594,
+        "lon": 77.041,
+        "region_id": "2001152",
+        "district_id": "5328276",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
