@@ -1,1 +1,276 @@
-[]
+[
+  {
+    "id": "1819448726",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1819448726",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Anup Upadhyay",
+    "has_phone_param": false,
+    "description": "Only 15000",
+    "created_at": "2025-11-12T21:16:47+05:30",
+    "videos": [],
+    "title": "Xbox Series S In Good Condition",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 15000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 15,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1921734935",
+        "external_id": "9johr89wgonf1-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/9johr89wgonf1-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/9johr89wgonf1-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/9johr89wgonf1-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/9johr89wgonf1-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/9johr89wgonf1-IN/image;s=120x160;w=shot-on-olx"
+        }
+      },
+      {
+        "id": "1921734936",
+        "external_id": "wg0rcu0t8ugh2-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/wg0rcu0t8ugh2-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/wg0rcu0t8ugh2-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/wg0rcu0t8ugh2-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/wg0rcu0t8ugh2-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/wg0rcu0t8ugh2-IN/image;s=120x160;w=shot-on-olx"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327389",
+      "SUBLOCALITY_LEVEL_1_name": "Shahdara"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-12T15:47:46+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "95525973",
+    "created_at_first": "2025-09-08T20:57:23+05:30",
+    "locations": [
+      {
+        "lat": 28.671,
+        "lon": 77.294,
+        "region_id": "2001152",
+        "district_id": "5327389",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1819448726",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1819448726",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Anup Upadhyay",
+    "has_phone_param": false,
+    "description": "Only 15000",
+    "created_at": "2025-11-12T21:16:47+05:30",
+    "videos": [],
+    "title": "Xbox Series S In Good Condition",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 15000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 15,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1921734935",
+        "external_id": "9johr89wgonf1-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/9johr89wgonf1-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/9johr89wgonf1-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/9johr89wgonf1-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/9johr89wgonf1-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/9johr89wgonf1-IN/image;s=120x160;w=shot-on-olx"
+        }
+      },
+      {
+        "id": "1921734936",
+        "external_id": "wg0rcu0t8ugh2-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/wg0rcu0t8ugh2-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/wg0rcu0t8ugh2-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/wg0rcu0t8ugh2-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/wg0rcu0t8ugh2-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/wg0rcu0t8ugh2-IN/image;s=120x160;w=shot-on-olx"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327389",
+      "SUBLOCALITY_LEVEL_1_name": "Shahdara"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-12T15:47:46+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "95525973",
+    "created_at_first": "2025-09-08T20:57:23+05:30",
+    "locations": [
+      {
+        "lat": 28.671,
+        "lon": 77.294,
+        "region_id": "2001152",
+        "district_id": "5327389",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
