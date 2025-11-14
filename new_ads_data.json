@@ -1,1 +1,226 @@
-[]
+[
+  {
+    "id": "1809885561",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1809885561",
+    "favorites": {
+      "count": 16,
+      "count_label": "16",
+      "count_label_next": "17",
+      "count_label_prev": "15"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "PRINCE ENTERPRISES",
+    "has_phone_param": false,
+    "description": "Playstation 4 standard edition 500gb  with all the cables one sony original controller one month warranty \n\nPLAYSTATION ALL MODELS \n              AT BEST PRICES \n\u201cGenuine non repaired sets \u201c \n     \u201c With warranty on all products\u201d\n(Extended warranty also available)\n\n\u2022 Extra controller and  cd also available at best price .\n\u2022 \u2060\n\u201c cash on delivery \u201c service also available all over *delhi* ,*gurgaon* , *noida* \u2018faridabad\u2019 Greater noida . \n( same day delivery also available)\n  Just give a call or whatsapp message us to book your gaming console now .\n\u2468\u2462\u2460\u2468\u2462\u2468.\u2467\u2465\u2460\u2463",
+    "created_at": "2025-11-14T16:57:52+05:30",
+    "videos": [],
+    "title": "Ps4 standard model 500gb warranty also avail",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 13000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 13,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": true,
+    "images": [
+      {
+        "id": "1873629243",
+        "external_id": "nvl77mn9nwl73-IN",
+        "width": 524,
+        "height": 474,
+        "url": "https://apollo.olx.in:443/v1/files/nvl77mn9nwl73-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 976,
+          "url": "https://apollo.olx.in:443/v1/files/nvl77mn9nwl73-IN/image;s=1080x976"
+        },
+        "big": {
+          "width": 505,
+          "height": 456,
+          "url": "https://apollo.olx.in:443/v1/files/nvl77mn9nwl73-IN/image;s=505x456"
+        },
+        "medium": {
+          "width": 120,
+          "height": 108,
+          "url": "https://apollo.olx.in:443/v1/files/nvl77mn9nwl73-IN/image;s=120x108"
+        },
+        "small": {
+          "width": 120,
+          "height": 108,
+          "url": "https://apollo.olx.in:443/v1/files/nvl77mn9nwl73-IN/image;s=120x108"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328264",
+      "SUBLOCALITY_LEVEL_1_name": "Vasant Kunj"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-14T11:28:47+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "578797314",
+    "created_at_first": "2025-06-11T17:42:53+05:30",
+    "locations": [
+      {
+        "lat": 28.52,
+        "lon": 77.154,
+        "region_id": "2001152",
+        "district_id": "5328264",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1814239946",
+    "score": 0.8695652173913043,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1814239946",
+    "favorites": {
+      "count": 5,
+      "count_label": "5",
+      "count_label_next": "6",
+      "count_label_prev": "4"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "PRINCE ENTERPRISES",
+    "has_phone_param": false,
+    "description": "Ps4 standard 500gb with all the cables \n              AT BEST PRICES \n\u201cGenuine non repaired sets \u201c \n     \u201c With  1 month warranty on all products\u201d\n(Extended warranty also available)\n3500 -6months .\n\n\u2022 Extra controller and  cd also available at best price .\n\u2022 \u2060\n\u201c cash on delivery \u201c service also available all over *delhi* ,*gurgaon* , *noida* \u2018faridabad\u2019 Greater noida . \n( same day delivery also available)\n  Just give a call or whatsapp message us to book your gaming console now .\n\u2468\u2462\u2460\u2468\u2462\u2468.\u2467\u2465\u2460\u2463",
+    "created_at": "2025-11-14T16:58:54+05:30",
+    "videos": [],
+    "title": "Ps4 standard edition upto 6months warranty buy now",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 13000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 13,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": true,
+    "images": [
+      {
+        "id": "1895608158",
+        "external_id": "fu2g2k0lrpxf3-IN",
+        "width": 828,
+        "height": 745,
+        "url": "https://apollo.olx.in:443/v1/files/fu2g2k0lrpxf3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 971,
+          "url": "https://apollo.olx.in:443/v1/files/fu2g2k0lrpxf3-IN/image;s=1080x971"
+        },
+        "big": {
+          "width": 505,
+          "height": 454,
+          "url": "https://apollo.olx.in:443/v1/files/fu2g2k0lrpxf3-IN/image;s=505x454"
+        },
+        "medium": {
+          "width": 120,
+          "height": 107,
+          "url": "https://apollo.olx.in:443/v1/files/fu2g2k0lrpxf3-IN/image;s=120x107"
+        },
+        "small": {
+          "width": 120,
+          "height": 107,
+          "url": "https://apollo.olx.in:443/v1/files/fu2g2k0lrpxf3-IN/image;s=120x107"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327412",
+      "SUBLOCALITY_LEVEL_1_name": "Connaught Place"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-14T11:29:49+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "578797314",
+    "created_at_first": "2025-07-21T15:14:55+05:30",
+    "locations": [
+      {
+        "lat": 28.632,
+        "lon": 77.219,
+        "region_id": "2001152",
+        "district_id": "5327412",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
