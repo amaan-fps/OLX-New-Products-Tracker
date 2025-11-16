@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "id": "1826638210",
+    "score": 0.4,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1826638210",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Anant Hora",
+    "has_phone_param": false,
+    "description": "The console isn\u2019t working but the remotes are working perfectly.\nIf anyone wants it as a bundle or separately (for parts) hit me up!",
+    "created_at": "2025-11-16T16:54:40+05:30",
+    "videos": [],
+    "title": "XBOX ONE WITH 2 CONTROLLERS AND 1 CD",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 10000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 10,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1957706035",
+        "external_id": "kjt43mzldgwh-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/kjt43mzldgwh-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/kjt43mzldgwh-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/kjt43mzldgwh-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/kjt43mzldgwh-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/kjt43mzldgwh-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327293",
+      "SUBLOCALITY_LEVEL_1_name": "Karol Bagh"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-16T11:25:48+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "119541483",
+    "created_at_first": "2025-11-16T16:54:40+05:30",
+    "locations": [
+      {
+        "lat": 28.652,
+        "lon": 77.19,
+        "region_id": "2001152",
+        "district_id": "5327293",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
