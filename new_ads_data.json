@@ -1,1 +1,274 @@
-[]
+[
+  {
+    "id": "1819249656",
+    "score": 0.88,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1819249656",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Varinder",
+    "has_phone_param": false,
+    "description": "Gaming sterring wheel for ps4 and ps3. It's come with an acceleration and braking padle. Box is also available",
+    "created_at": "2025-11-18T13:38:44+05:30",
+    "videos": [],
+    "title": "Ps4 gaming sterring wheel",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 10000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 10,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1920754711",
+        "external_id": "wabo8do7i9zj3-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/wabo8do7i9zj3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/wabo8do7i9zj3-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/wabo8do7i9zj3-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/wabo8do7i9zj3-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/wabo8do7i9zj3-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1920754712",
+        "external_id": "85oi8b5vl56k3-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/85oi8b5vl56k3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/85oi8b5vl56k3-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/85oi8b5vl56k3-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/85oi8b5vl56k3-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/85oi8b5vl56k3-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1920754713",
+        "external_id": "n6xyio2jhff72-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/n6xyio2jhff72-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/n6xyio2jhff72-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/n6xyio2jhff72-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/n6xyio2jhff72-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/n6xyio2jhff72-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1920754714",
+        "external_id": "s8hkenh6zyas1-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/s8hkenh6zyas1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/s8hkenh6zyas1-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/s8hkenh6zyas1-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/s8hkenh6zyas1-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/s8hkenh6zyas1-IN/image;s=120x67"
+        }
+      },
+      {
+        "id": "1920754715",
+        "external_id": "g7bikdeerues2-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/g7bikdeerues2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/g7bikdeerues2-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/g7bikdeerues2-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/g7bikdeerues2-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/g7bikdeerues2-IN/image;s=120x67"
+        }
+      },
+      {
+        "id": "1920754716",
+        "external_id": "91u8498fwgn61-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/91u8498fwgn61-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/91u8498fwgn61-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/91u8498fwgn61-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/91u8498fwgn61-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/91u8498fwgn61-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1920754717",
+        "external_id": "cr1ruvp6mgcd3-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/cr1ruvp6mgcd3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/cr1ruvp6mgcd3-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/cr1ruvp6mgcd3-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/cr1ruvp6mgcd3-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/cr1ruvp6mgcd3-IN/image;s=120x213"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4387779",
+      "ADMIN_LEVEL_3_name": "Faridabad",
+      "SUBLOCALITY_LEVEL_1_id": "5309266",
+      "SUBLOCALITY_LEVEL_1_name": "Sector 7"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-11-18T08:09:48+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "145845309",
+    "created_at_first": "2025-09-06T23:48:58+05:30",
+    "locations": [
+      {
+        "lat": 28.364,
+        "lon": 77.325,
+        "region_id": "2001155",
+        "district_id": "5309266",
+        "city_id": "4387779"
+      }
+    ],
+    "parameters": []
+  }
+]
