@@ -2,14 +2,14 @@
   {
     "query": "playstation 4",
     "min_price": 3000,
-    "max_price": 13000,
+    "max_price": 19000,
     "location_name": "Gurgaon",
     "location_id": "4058748"
   },
   {
     "query": "ps4",
     "min_price": 3000,
-    "max_price": 13000,
+    "max_price": 19000,
     "location_name": "Gurgaon",
     "location_id": "4058748"
   },
@@ -30,14 +30,14 @@
   {
     "query": "playstation 4",
     "min_price": 3000,
-    "max_price": 13000,
+    "max_price": 19000,
     "location_name": "Delhi",
     "location_id": "2001152"
   },
   {
     "query": "ps4",
     "min_price": 3000,
-    "max_price": 13000,
+    "max_price": 19000,
     "location_name": "Delhi",
     "location_id": "2001152"
   },
@@ -112,6 +112,7 @@
     "location_id": "4058748"
   }
 ]
+
 
 
 
