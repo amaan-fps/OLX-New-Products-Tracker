@@ -1,13 +1,13 @@
 [
   {
     "id": "1828058492",
-    "score": 0.864406779661017,
+    "score": 1.0,
     "spell": {
-      "id": 111,
-      "key": "GEAS_ES",
+      "id": 112,
+      "key": "DISCERN_LOCATION_ES",
       "version": "1",
-      "main": true,
-      "facet_disabled": false,
+      "main": false,
+      "facet_disabled": true,
       "default_sorting": "DEFAULT",
       "response_type": "ARRAY"
     },
@@ -270,6 +270,9 @@
       }
     ],
     "certified_car": false,
+    "package": {
+      "id": "2010846"
+    },
     "is_kyc_verified_user": false,
     "locations_resolved": {
       "COUNTRY_id": "1000001",
