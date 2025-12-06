@@ -1,1 +1,384 @@
-[]
+[
+  {
+    "id": "1828485371",
+    "score": 0.9,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1828485371",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Harish",
+    "has_phone_param": false,
+    "description": "Selling my prestine condition ps4 with original controller. Works fine and has no issues come and check before buying \n\nGames included digital \nGta v\nOverwatch 2\nTekken 7 ultimate edition",
+    "created_at": "2025-12-06T14:32:57+05:30",
+    "videos": [],
+    "title": "Play station 4",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 15000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 15,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1967161929",
+        "external_id": "kgsil9qoe3f81-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/kgsil9qoe3f81-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/kgsil9qoe3f81-IN/image;s=1080x810;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/kgsil9qoe3f81-IN/image;s=505x378;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/kgsil9qoe3f81-IN/image;s=120x90;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/kgsil9qoe3f81-IN/image;s=120x90;w=shot-on-olx"
+        }
+      },
+      {
+        "id": "1967161930",
+        "external_id": "02ec7senx41v3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/02ec7senx41v3-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/02ec7senx41v3-IN/image;s=1080x810;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/02ec7senx41v3-IN/image;s=505x378;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/02ec7senx41v3-IN/image;s=120x90;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/02ec7senx41v3-IN/image;s=120x90;w=shot-on-olx"
+        }
+      },
+      {
+        "id": "1967161931",
+        "external_id": "v7m079hufv5t-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/v7m079hufv5t-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/v7m079hufv5t-IN/image;s=1080x810;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/v7m079hufv5t-IN/image;s=505x378;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/v7m079hufv5t-IN/image;s=120x90;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/v7m079hufv5t-IN/image;s=120x90;w=shot-on-olx"
+        }
+      },
+      {
+        "id": "1967161932",
+        "external_id": "e9k1y2smbbb43-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/e9k1y2smbbb43-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/e9k1y2smbbb43-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/e9k1y2smbbb43-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/e9k1y2smbbb43-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/e9k1y2smbbb43-IN/image;s=120x160;w=shot-on-olx"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327293",
+      "SUBLOCALITY_LEVEL_1_name": "Karol Bagh"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-06T09:03:58+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "47013069",
+    "created_at_first": "2025-12-06T14:32:57+05:30",
+    "locations": [
+      {
+        "lat": 28.652,
+        "lon": 77.19,
+        "region_id": "2001152",
+        "district_id": "5327293",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1828485371",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1828485371",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Harish",
+    "has_phone_param": false,
+    "description": "Selling my prestine condition ps4 with original controller. Works fine and has no issues come and check before buying \n\nGames included digital \nGta v\nOverwatch 2\nTekken 7 ultimate edition",
+    "created_at": "2025-12-06T14:32:57+05:30",
+    "videos": [],
+    "title": "Play station 4",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 15000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 15,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1967161929",
+        "external_id": "kgsil9qoe3f81-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/kgsil9qoe3f81-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/kgsil9qoe3f81-IN/image;s=1080x810;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/kgsil9qoe3f81-IN/image;s=505x378;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/kgsil9qoe3f81-IN/image;s=120x90;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/kgsil9qoe3f81-IN/image;s=120x90;w=shot-on-olx"
+        }
+      },
+      {
+        "id": "1967161930",
+        "external_id": "02ec7senx41v3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/02ec7senx41v3-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/02ec7senx41v3-IN/image;s=1080x810;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/02ec7senx41v3-IN/image;s=505x378;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/02ec7senx41v3-IN/image;s=120x90;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/02ec7senx41v3-IN/image;s=120x90;w=shot-on-olx"
+        }
+      },
+      {
+        "id": "1967161931",
+        "external_id": "v7m079hufv5t-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/v7m079hufv5t-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/v7m079hufv5t-IN/image;s=1080x810;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/v7m079hufv5t-IN/image;s=505x378;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/v7m079hufv5t-IN/image;s=120x90;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/v7m079hufv5t-IN/image;s=120x90;w=shot-on-olx"
+        }
+      },
+      {
+        "id": "1967161932",
+        "external_id": "e9k1y2smbbb43-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/e9k1y2smbbb43-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/e9k1y2smbbb43-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/e9k1y2smbbb43-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/e9k1y2smbbb43-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/e9k1y2smbbb43-IN/image;s=120x160;w=shot-on-olx"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327293",
+      "SUBLOCALITY_LEVEL_1_name": "Karol Bagh"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-06T09:03:58+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "47013069",
+    "created_at_first": "2025-12-06T14:32:57+05:30",
+    "locations": [
+      {
+        "lat": 28.652,
+        "lon": 77.19,
+        "region_id": "2001152",
+        "district_id": "5327293",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
