@@ -1,1 +1,276 @@
-[]
+[
+  {
+    "id": "1828542176",
+    "score": 0.78,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1828542176",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Kshitij Jadwani ",
+    "has_phone_param": false,
+    "description": "Selling my PS4 Slim 1TB in excellent working condition. The console has been lightly used and is perfect for gaming, streaming, and entertainment.\nNo issues, no overheating, no repairs done \u2014 100% original and fully functional.\n\nWhat\u2019s included:\n\nPS4 Slim 1TB Console\n\n1 DualShock 4 Controllers\n\nHDMI & Power Cable",
+    "created_at": "2025-12-07T09:03:13+05:30",
+    "videos": [],
+    "title": "PS4 Slim 1TB \u2013 Excellent Condition",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 16500.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 16,500"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1967459770",
+        "external_id": "d73mte8lhydz1-IN",
+        "width": 1080,
+        "height": 841,
+        "url": "https://apollo.olx.in:443/v1/files/d73mte8lhydz1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 841,
+          "url": "https://apollo.olx.in:443/v1/files/d73mte8lhydz1-IN/image;s=1080x841"
+        },
+        "big": {
+          "width": 505,
+          "height": 393,
+          "url": "https://apollo.olx.in:443/v1/files/d73mte8lhydz1-IN/image;s=505x393"
+        },
+        "medium": {
+          "width": 120,
+          "height": 93,
+          "url": "https://apollo.olx.in:443/v1/files/d73mte8lhydz1-IN/image;s=120x93"
+        },
+        "small": {
+          "width": 120,
+          "height": 93,
+          "url": "https://apollo.olx.in:443/v1/files/d73mte8lhydz1-IN/image;s=120x93"
+        }
+      },
+      {
+        "id": "1967459771",
+        "external_id": "cq8cn82ttg2w1-IN",
+        "width": 1080,
+        "height": 720,
+        "url": "https://apollo.olx.in:443/v1/files/cq8cn82ttg2w1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 720,
+          "url": "https://apollo.olx.in:443/v1/files/cq8cn82ttg2w1-IN/image;s=1080x720"
+        },
+        "big": {
+          "width": 505,
+          "height": 336,
+          "url": "https://apollo.olx.in:443/v1/files/cq8cn82ttg2w1-IN/image;s=505x336"
+        },
+        "medium": {
+          "width": 120,
+          "height": 80,
+          "url": "https://apollo.olx.in:443/v1/files/cq8cn82ttg2w1-IN/image;s=120x80"
+        },
+        "small": {
+          "width": 120,
+          "height": 80,
+          "url": "https://apollo.olx.in:443/v1/files/cq8cn82ttg2w1-IN/image;s=120x80"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327907",
+      "SUBLOCALITY_LEVEL_1_name": "Sewa Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-07T03:34:12+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "220885603",
+    "created_at_first": "2025-12-07T09:03:13+05:30",
+    "locations": [
+      {
+        "lat": 28.577,
+        "lon": 77.225,
+        "region_id": "2001152",
+        "district_id": "5327907",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1828542176",
+    "score": 0.9696969696969697,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1828542176",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Kshitij Jadwani ",
+    "has_phone_param": false,
+    "description": "Selling my PS4 Slim 1TB in excellent working condition. The console has been lightly used and is perfect for gaming, streaming, and entertainment.\nNo issues, no overheating, no repairs done \u2014 100% original and fully functional.\n\nWhat\u2019s included:\n\nPS4 Slim 1TB Console\n\n1 DualShock 4 Controllers\n\nHDMI & Power Cable",
+    "created_at": "2025-12-07T09:03:13+05:30",
+    "videos": [],
+    "title": "PS4 Slim 1TB \u2013 Excellent Condition",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 16500.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 16,500"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1967459770",
+        "external_id": "d73mte8lhydz1-IN",
+        "width": 1080,
+        "height": 841,
+        "url": "https://apollo.olx.in:443/v1/files/d73mte8lhydz1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 841,
+          "url": "https://apollo.olx.in:443/v1/files/d73mte8lhydz1-IN/image;s=1080x841"
+        },
+        "big": {
+          "width": 505,
+          "height": 393,
+          "url": "https://apollo.olx.in:443/v1/files/d73mte8lhydz1-IN/image;s=505x393"
+        },
+        "medium": {
+          "width": 120,
+          "height": 93,
+          "url": "https://apollo.olx.in:443/v1/files/d73mte8lhydz1-IN/image;s=120x93"
+        },
+        "small": {
+          "width": 120,
+          "height": 93,
+          "url": "https://apollo.olx.in:443/v1/files/d73mte8lhydz1-IN/image;s=120x93"
+        }
+      },
+      {
+        "id": "1967459771",
+        "external_id": "cq8cn82ttg2w1-IN",
+        "width": 1080,
+        "height": 720,
+        "url": "https://apollo.olx.in:443/v1/files/cq8cn82ttg2w1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 720,
+          "url": "https://apollo.olx.in:443/v1/files/cq8cn82ttg2w1-IN/image;s=1080x720"
+        },
+        "big": {
+          "width": 505,
+          "height": 336,
+          "url": "https://apollo.olx.in:443/v1/files/cq8cn82ttg2w1-IN/image;s=505x336"
+        },
+        "medium": {
+          "width": 120,
+          "height": 80,
+          "url": "https://apollo.olx.in:443/v1/files/cq8cn82ttg2w1-IN/image;s=120x80"
+        },
+        "small": {
+          "width": 120,
+          "height": 80,
+          "url": "https://apollo.olx.in:443/v1/files/cq8cn82ttg2w1-IN/image;s=120x80"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327907",
+      "SUBLOCALITY_LEVEL_1_name": "Sewa Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-07T03:34:12+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "220885603",
+    "created_at_first": "2025-12-07T09:03:13+05:30",
+    "locations": [
+      {
+        "lat": 28.577,
+        "lon": 77.225,
+        "region_id": "2001152",
+        "district_id": "5327907",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
