@@ -1,1 +1,276 @@
-[]
+[
+  {
+    "id": "1829793662",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1829793662",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Detech Devices Private Limited",
+    "has_phone_param": false,
+    "description": "1.Brand: Sony\n2.See even more of your games with the \n   integrated light bar that glows with various \n   colours depending on in-game action - now \n   visible on the touch pad\n3.Rock and roll as a highly sensitive built-in \n   accelerometer and gyroscope detect the \n   motion, tilt and rotation of your DualShock \n   4 wireless controller\n4.Bring your games to life and hear every \n   detail with sound effects coming directly \n   from your DualShock 4 wireless controller",
+    "created_at": "2025-12-20T15:13:52+05:30",
+    "videos": [],
+    "title": "Sony Dualshock 4 Wireless Controller for PlayStation 4 Black",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 3868.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 3,868"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1973869825",
+        "external_id": "1m92ocu0p6pv2-IN",
+        "width": 899,
+        "height": 1599,
+        "url": "https://apollo.olx.in:443/v1/files/1m92ocu0p6pv2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1920,
+          "url": "https://apollo.olx.in:443/v1/files/1m92ocu0p6pv2-IN/image;s=1080x1920"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/1m92ocu0p6pv2-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/1m92ocu0p6pv2-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/1m92ocu0p6pv2-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1973869826",
+        "external_id": "31kqjx3s65qw1-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/31kqjx3s65qw1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/31kqjx3s65qw1-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/31kqjx3s65qw1-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/31kqjx3s65qw1-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/31kqjx3s65qw1-IN/image;s=120x67"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328374",
+      "SUBLOCALITY_LEVEL_1_name": "Mansarovar Garden"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-20T09:44:56+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "619195847",
+    "created_at_first": "2025-12-20T15:13:51+05:30",
+    "locations": [
+      {
+        "lat": 28.643,
+        "lon": 77.133,
+        "region_id": "2001152",
+        "district_id": "5328374",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1829793662",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1829793662",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Detech Devices Private Limited",
+    "has_phone_param": false,
+    "description": "1.Brand: Sony\n2.See even more of your games with the \n   integrated light bar that glows with various \n   colours depending on in-game action - now \n   visible on the touch pad\n3.Rock and roll as a highly sensitive built-in \n   accelerometer and gyroscope detect the \n   motion, tilt and rotation of your DualShock \n   4 wireless controller\n4.Bring your games to life and hear every \n   detail with sound effects coming directly \n   from your DualShock 4 wireless controller",
+    "created_at": "2025-12-20T15:13:52+05:30",
+    "videos": [],
+    "title": "Sony Dualshock 4 Wireless Controller for PlayStation 4 Black",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 3868.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 3,868"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1973869825",
+        "external_id": "1m92ocu0p6pv2-IN",
+        "width": 899,
+        "height": 1599,
+        "url": "https://apollo.olx.in:443/v1/files/1m92ocu0p6pv2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1920,
+          "url": "https://apollo.olx.in:443/v1/files/1m92ocu0p6pv2-IN/image;s=1080x1920"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/1m92ocu0p6pv2-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/1m92ocu0p6pv2-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/1m92ocu0p6pv2-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1973869826",
+        "external_id": "31kqjx3s65qw1-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/31kqjx3s65qw1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/31kqjx3s65qw1-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/31kqjx3s65qw1-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/31kqjx3s65qw1-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/31kqjx3s65qw1-IN/image;s=120x67"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328374",
+      "SUBLOCALITY_LEVEL_1_name": "Mansarovar Garden"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-20T09:44:56+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "619195847",
+    "created_at_first": "2025-12-20T15:13:51+05:30",
+    "locations": [
+      {
+        "lat": 28.643,
+        "lon": 77.133,
+        "region_id": "2001152",
+        "district_id": "5328374",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
