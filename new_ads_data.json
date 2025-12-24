@@ -1,1 +1,276 @@
-[]
+[
+  {
+    "id": "1830202877",
+    "score": 0.8571428571428571,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830202877",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Ashu",
+    "has_phone_param": false,
+    "description": "God of war Ragnarok 1400/-\nGod of war 2018 1200/-\nGod of war 3 1000/-\nTekken 7  1200/-\nUncharted 4  1000/-\nGhost of tsushima 1400/-\nDisc condition is Awesome.",
+    "created_at": "2025-12-24T23:04:00+05:30",
+    "videos": [],
+    "title": "Ps4 Games for sale",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 7000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 7,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1975957825",
+        "external_id": "bim9v6ld102f2-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/bim9v6ld102f2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/bim9v6ld102f2-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/bim9v6ld102f2-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/bim9v6ld102f2-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/bim9v6ld102f2-IN/image;s=120x67"
+        }
+      },
+      {
+        "id": "1975957826",
+        "external_id": "30u0g2zycgnf-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/30u0g2zycgnf-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/30u0g2zycgnf-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/30u0g2zycgnf-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/30u0g2zycgnf-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/30u0g2zycgnf-IN/image;s=120x67"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5462741",
+      "SUBLOCALITY_LEVEL_1_name": "Sant Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-24T17:37:04+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "180506925",
+    "created_at_first": "2025-12-24T23:04:00+05:30",
+    "locations": [
+      {
+        "lat": 28.743,
+        "lon": 77.197,
+        "region_id": "2001152",
+        "district_id": "5462741",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1830202877",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830202877",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Ashu",
+    "has_phone_param": false,
+    "description": "God of war Ragnarok 1400/-\nGod of war 2018 1200/-\nGod of war 3 1000/-\nTekken 7  1200/-\nUncharted 4  1000/-\nGhost of tsushima 1400/-\nDisc condition is Awesome.",
+    "created_at": "2025-12-24T23:04:00+05:30",
+    "videos": [],
+    "title": "Ps4 Games for sale",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 7000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 7,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1975957825",
+        "external_id": "bim9v6ld102f2-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/bim9v6ld102f2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/bim9v6ld102f2-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/bim9v6ld102f2-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/bim9v6ld102f2-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/bim9v6ld102f2-IN/image;s=120x67"
+        }
+      },
+      {
+        "id": "1975957826",
+        "external_id": "30u0g2zycgnf-IN",
+        "width": 1080,
+        "height": 607,
+        "url": "https://apollo.olx.in:443/v1/files/30u0g2zycgnf-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 607,
+          "url": "https://apollo.olx.in:443/v1/files/30u0g2zycgnf-IN/image;s=1080x607"
+        },
+        "big": {
+          "width": 505,
+          "height": 283,
+          "url": "https://apollo.olx.in:443/v1/files/30u0g2zycgnf-IN/image;s=505x283"
+        },
+        "medium": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/30u0g2zycgnf-IN/image;s=120x67"
+        },
+        "small": {
+          "width": 120,
+          "height": 67,
+          "url": "https://apollo.olx.in:443/v1/files/30u0g2zycgnf-IN/image;s=120x67"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5462741",
+      "SUBLOCALITY_LEVEL_1_name": "Sant Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-24T17:37:04+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "180506925",
+    "created_at_first": "2025-12-24T23:04:00+05:30",
+    "locations": [
+      {
+        "lat": 28.743,
+        "lon": 77.197,
+        "region_id": "2001152",
+        "district_id": "5462741",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
