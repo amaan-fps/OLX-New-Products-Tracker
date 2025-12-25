@@ -1,1 +1,193 @@
-[]
+[
+  {
+    "id": "1830279234",
+    "score": 0.94,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830279234",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Manish",
+    "has_phone_param": false,
+    "description": "PS4 fat in perfect working condition with 1 controller. \n\nAlso included in price are 9 physical copies of great games. \n\nI will not be selling the products individually, only as a bundle together. \n\nThe games are: \n- Red Dead Redemption 2\n- Need for Speed\n- Watch Dogs 1 \n- Watch Dogs 2 \n- Assassin's Creed Unity \n- Assassin's Creed Black flag\n- Witcher 3 GOTY edition \n- God of War \n- Infamous Second Son\n\nP.S. The controller does glitch out sometimes so you might want to get it repaired, which will cost not more than 500 Rupees at any local shop. I just don't have the time or the motivation to get it repaired.",
+    "created_at": "2025-12-25T20:00:48+05:30",
+    "videos": [],
+    "title": "PS4 1TB with 9 Games",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 15000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 15,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1976353510",
+        "external_id": "qz0y4ygf22yp3-IN",
+        "width": 1080,
+        "height": 1440,
+        "url": "https://apollo.olx.in:443/v1/files/qz0y4ygf22yp3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/qz0y4ygf22yp3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/qz0y4ygf22yp3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/qz0y4ygf22yp3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/qz0y4ygf22yp3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1976353511",
+        "external_id": "jknpf0cvex5f1-IN",
+        "width": 1080,
+        "height": 1440,
+        "url": "https://apollo.olx.in:443/v1/files/jknpf0cvex5f1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/jknpf0cvex5f1-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/jknpf0cvex5f1-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/jknpf0cvex5f1-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/jknpf0cvex5f1-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1976353512",
+        "external_id": "reqcb9e0fkmv1-IN",
+        "width": 1080,
+        "height": 1440,
+        "url": "https://apollo.olx.in:443/v1/files/reqcb9e0fkmv1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/reqcb9e0fkmv1-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/reqcb9e0fkmv1-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/reqcb9e0fkmv1-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/reqcb9e0fkmv1-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1976353513",
+        "external_id": "md4s47pxbuqu3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/md4s47pxbuqu3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/md4s47pxbuqu3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/md4s47pxbuqu3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/md4s47pxbuqu3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/md4s47pxbuqu3-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4058748",
+      "ADMIN_LEVEL_3_name": "Gurgaon",
+      "SUBLOCALITY_LEVEL_1_id": "5309706",
+      "SUBLOCALITY_LEVEL_1_name": "Sector 49"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-25T14:31:59+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "290820625",
+    "created_at_first": "2025-12-25T20:00:48+05:30",
+    "locations": [
+      {
+        "lat": 28.406,
+        "lon": 77.051,
+        "region_id": "2001155",
+        "district_id": "5309706",
+        "city_id": "4058748"
+      }
+    ],
+    "parameters": []
+  }
+]
