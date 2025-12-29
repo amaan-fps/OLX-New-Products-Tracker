@@ -1,1 +1,139 @@
-[]
+[
+  {
+    "id": "1830648978",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830648978",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Ranjot Singh",
+    "has_phone_param": false,
+    "description": "Ps4 digital version with 10+ games ( wwe 2k24 , RDR2 , GOW RAGNAROK , ghost of tsushima , mortal kombat 11 , tekken 7 ) included and 1 controller ( perfect condition )",
+    "created_at": "2025-12-29T20:51:31+05:30",
+    "videos": [],
+    "title": "PS4 Digital",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 18500.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 18,500"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1978237332",
+        "external_id": "cedl32deh37u-IN",
+        "width": 608,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/cedl32deh37u-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1918,
+          "url": "https://apollo.olx.in:443/v1/files/cedl32deh37u-IN/image;s=1080x1918"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/cedl32deh37u-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/cedl32deh37u-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/cedl32deh37u-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1978237333",
+        "external_id": "p0qc24l62um01-IN",
+        "width": 608,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/p0qc24l62um01-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1918,
+          "url": "https://apollo.olx.in:443/v1/files/p0qc24l62um01-IN/image;s=1080x1918"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/p0qc24l62um01-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/p0qc24l62um01-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/p0qc24l62um01-IN/image;s=120x213"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328366",
+      "SUBLOCALITY_LEVEL_1_name": "Chand Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-29T15:22:36+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "610824122",
+    "created_at_first": "2025-12-29T20:51:31+05:30",
+    "locations": [
+      {
+        "lat": 28.646,
+        "lon": 77.096,
+        "region_id": "2001152",
+        "district_id": "5328366",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
