@@ -1,7 +1,227 @@
 [
   {
+    "id": "1830805995",
+    "score": 0.9230769230769231,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830805995",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "PRINCE ENTERPRISES",
+    "has_phone_param": false,
+    "description": "All models playstation with 10/15 games of your choice_ \n\nPs4 fat 500gb game load -16000\nPs4 fat 1tb game load - 17500\n\nPs4 slim 500gb game load- 18000\nPs4 slim 1tb game load- 19500\n\nPs4 pro 4k game load 1tb - 23000\n\n      \u201cGenuine non repaired sets \u201c \n     \u201c With  1 month warranty on all products\u201d\n(Extended warranty also available)\n3500 -6months .\n\n\u2022 Extra controller and  cd also available at best price .\n\u2022 \u2060\n\u201c cash on delivery \u201c service also available all over *delhi* ,*gurgaon* , *noida* \u2018faridabad\u2019 Greater noida . \n( same day delivery also available)\n  Just give a call or whatsapp message us to book your gaming console now .\n\u2468\u2462\u2460\u2468\u2462\u2468.\u2467\u2465\u2460\u2463",
+    "created_at": "2025-12-31T17:27:35+05:30",
+    "videos": [],
+    "title": "Playstation 4 with 10/15 free with console plus warranty",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 16000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 16,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": true,
+    "images": [
+      {
+        "id": "1979049467",
+        "external_id": "vrz8dytqowbk3-IN",
+        "width": 828,
+        "height": 756,
+        "url": "https://apollo.olx.in:443/v1/files/vrz8dytqowbk3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 986,
+          "url": "https://apollo.olx.in:443/v1/files/vrz8dytqowbk3-IN/image;s=1080x986"
+        },
+        "big": {
+          "width": 505,
+          "height": 461,
+          "url": "https://apollo.olx.in:443/v1/files/vrz8dytqowbk3-IN/image;s=505x461"
+        },
+        "medium": {
+          "width": 120,
+          "height": 109,
+          "url": "https://apollo.olx.in:443/v1/files/vrz8dytqowbk3-IN/image;s=120x109"
+        },
+        "small": {
+          "width": 120,
+          "height": 109,
+          "url": "https://apollo.olx.in:443/v1/files/vrz8dytqowbk3-IN/image;s=120x109"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327294",
+      "SUBLOCALITY_LEVEL_1_name": "New Rajendra Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-31T11:58:28+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "578797314",
+    "created_at_first": "2025-12-31T17:27:33+05:30",
+    "locations": [
+      {
+        "lat": 28.635,
+        "lon": 77.18,
+        "region_id": "2001152",
+        "district_id": "5327294",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1830805995",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830805995",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "PRINCE ENTERPRISES",
+    "has_phone_param": false,
+    "description": "All models playstation with 10/15 games of your choice_ \n\nPs4 fat 500gb game load -16000\nPs4 fat 1tb game load - 17500\n\nPs4 slim 500gb game load- 18000\nPs4 slim 1tb game load- 19500\n\nPs4 pro 4k game load 1tb - 23000\n\n      \u201cGenuine non repaired sets \u201c \n     \u201c With  1 month warranty on all products\u201d\n(Extended warranty also available)\n3500 -6months .\n\n\u2022 Extra controller and  cd also available at best price .\n\u2022 \u2060\n\u201c cash on delivery \u201c service also available all over *delhi* ,*gurgaon* , *noida* \u2018faridabad\u2019 Greater noida . \n( same day delivery also available)\n  Just give a call or whatsapp message us to book your gaming console now .\n\u2468\u2462\u2460\u2468\u2462\u2468.\u2467\u2465\u2460\u2463",
+    "created_at": "2025-12-31T17:27:35+05:30",
+    "videos": [],
+    "title": "Playstation 4 with 10/15 free with console plus warranty",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 16000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 16,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": true,
+    "images": [
+      {
+        "id": "1979049467",
+        "external_id": "vrz8dytqowbk3-IN",
+        "width": 828,
+        "height": 756,
+        "url": "https://apollo.olx.in:443/v1/files/vrz8dytqowbk3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 986,
+          "url": "https://apollo.olx.in:443/v1/files/vrz8dytqowbk3-IN/image;s=1080x986"
+        },
+        "big": {
+          "width": 505,
+          "height": 461,
+          "url": "https://apollo.olx.in:443/v1/files/vrz8dytqowbk3-IN/image;s=505x461"
+        },
+        "medium": {
+          "width": 120,
+          "height": 109,
+          "url": "https://apollo.olx.in:443/v1/files/vrz8dytqowbk3-IN/image;s=120x109"
+        },
+        "small": {
+          "width": 120,
+          "height": 109,
+          "url": "https://apollo.olx.in:443/v1/files/vrz8dytqowbk3-IN/image;s=120x109"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327294",
+      "SUBLOCALITY_LEVEL_1_name": "New Rajendra Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2025-12-31T11:58:28+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "578797314",
+    "created_at_first": "2025-12-31T17:27:33+05:30",
+    "locations": [
+      {
+        "lat": 28.635,
+        "lon": 77.18,
+        "region_id": "2001152",
+        "district_id": "5327294",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
     "id": "1830805319",
-    "score": 0.7833333333333333,
+    "score": 1.0,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
