@@ -1,6 +1,116 @@
 [
   {
-    "id": "1830928771",
+    "id": "1830117252",
+    "score": 0.7846153846153846,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830117252",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Yash ",
+    "has_phone_param": false,
+    "description": "White colour gaming console with 4 controlers two orignal two after market mint condition all working smooth gaming",
+    "created_at": "2026-01-02T12:42:24+05:30",
+    "videos": [],
+    "title": "SONY PS4 fat Gaming console",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 16000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 16,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1978547736",
+        "external_id": "y8pg2nng6jhe-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/y8pg2nng6jhe-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/y8pg2nng6jhe-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/y8pg2nng6jhe-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/y8pg2nng6jhe-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/y8pg2nng6jhe-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328235",
+      "SUBLOCALITY_LEVEL_1_name": "Mehrauli"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-02T07:13:26+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "449064665",
+    "created_at_first": "2025-12-24T00:28:42+05:30",
+    "locations": [
+      {
+        "lat": 28.52,
+        "lon": 77.177,
+        "region_id": "2001152",
+        "district_id": "5328235",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1830117252",
     "score": 1.0,
     "spell": {
       "id": 111,
@@ -23,29 +133,29 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1830928771",
+    "ad_id": "1830117252",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
     },
     "user_tag": "olx disapproved",
-    "user_name": "Ashirwad",
+    "user_name": "Yash ",
     "has_phone_param": false,
-    "description": "Ps4 standard \n2 controllers\nExcellent condition",
-    "created_at": "2026-01-02T12:29:11+05:30",
+    "description": "White colour gaming console with 4 controlers two orignal two after market mint condition all working smooth gaming",
+    "created_at": "2026-01-02T12:42:24+05:30",
     "videos": [],
-    "title": "Play station 4 ps4",
+    "title": "SONY PS4 fat Gaming console",
     "buyer_id": "0",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 14000.0,
+        "raw": 16000.0,
         "currency": {
           "iso_4217": "INR",
           "pre": "\u20b9"
         },
-        "display": "\u20b9 14,000"
+        "display": "\u20b9 16,000"
       },
       "key_name": "Price",
       "key": "price"
@@ -53,165 +163,30 @@
     "is_business": false,
     "images": [
       {
-        "id": "1979680562",
-        "external_id": "t5g2dfzsd3991-IN",
+        "id": "1978547736",
+        "external_id": "y8pg2nng6jhe-IN",
         "width": 810,
         "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/t5g2dfzsd3991-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/y8pg2nng6jhe-IN/image",
         "full": {
           "width": 1080,
           "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/t5g2dfzsd3991-IN/image;s=1080x1440"
+          "url": "https://apollo.olx.in:443/v1/files/y8pg2nng6jhe-IN/image;s=1080x1440"
         },
         "big": {
           "width": 505,
           "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/t5g2dfzsd3991-IN/image;s=505x673"
+          "url": "https://apollo.olx.in:443/v1/files/y8pg2nng6jhe-IN/image;s=505x673"
         },
         "medium": {
           "width": 120,
           "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/t5g2dfzsd3991-IN/image;s=120x160"
+          "url": "https://apollo.olx.in:443/v1/files/y8pg2nng6jhe-IN/image;s=120x160"
         },
         "small": {
           "width": 120,
           "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/t5g2dfzsd3991-IN/image;s=120x160"
-        }
-      },
-      {
-        "id": "1979680563",
-        "external_id": "kwpmpu6aho012-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/kwpmpu6aho012-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/kwpmpu6aho012-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/kwpmpu6aho012-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/kwpmpu6aho012-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/kwpmpu6aho012-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "1979680564",
-        "external_id": "d0odt359rl983-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/d0odt359rl983-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/d0odt359rl983-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/d0odt359rl983-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/d0odt359rl983-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/d0odt359rl983-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "1979680565",
-        "external_id": "veousk1zxgxc3-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/veousk1zxgxc3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/veousk1zxgxc3-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/veousk1zxgxc3-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/veousk1zxgxc3-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/veousk1zxgxc3-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "1979680566",
-        "external_id": "liym6np0gf3i3-IN",
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/liym6np0gf3i3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/liym6np0gf3i3-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/liym6np0gf3i3-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/liym6np0gf3i3-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/liym6np0gf3i3-IN/image;s=120x160"
-        }
-      },
-      {
-        "id": "1979680567",
-        "external_id": "14zb085vnzwu1-IN",
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/14zb085vnzwu1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/14zb085vnzwu1-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/14zb085vnzwu1-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/14zb085vnzwu1-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/14zb085vnzwu1-IN/image;s=120x160"
+          "url": "https://apollo.olx.in:443/v1/files/y8pg2nng6jhe-IN/image;s=120x160"
         }
       }
     ],
@@ -220,271 +195,26 @@
     "locations_resolved": {
       "COUNTRY_id": "1000001",
       "COUNTRY_name": "India",
-      "ADMIN_LEVEL_1_id": "2001155",
-      "ADMIN_LEVEL_1_name": "Haryana",
-      "ADMIN_LEVEL_3_id": "4058748",
-      "ADMIN_LEVEL_3_name": "Gurgaon",
-      "SUBLOCALITY_LEVEL_1_id": "5359477",
-      "SUBLOCALITY_LEVEL_1_name": "Sushant Lok Phase 3"
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328235",
+      "SUBLOCALITY_LEVEL_1_name": "Mehrauli"
     },
     "dealer_showroom_enabled": false,
     "artificial_boost": false,
-    "display_date": "2026-01-02T07:00:11+0000",
+    "display_date": "2026-01-02T07:13:26+0000",
     "isSpinViewAvailable": false,
-    "user_id": "111205513",
-    "created_at_first": "2026-01-02T12:29:11+05:30",
+    "user_id": "449064665",
+    "created_at_first": "2025-12-24T00:28:42+05:30",
     "locations": [
       {
-        "lat": 28.421,
-        "lon": 77.082,
-        "region_id": "2001155",
-        "district_id": "5359477",
-        "city_id": "4058748"
-      }
-    ],
-    "parameters": []
-  },
-  {
-    "id": "1830928771",
-    "score": 0.9375,
-    "spell": {
-      "id": 111,
-      "key": "GEAS_ES",
-      "version": "1",
-      "main": true,
-      "facet_disabled": false,
-      "default_sorting": "DEFAULT",
-      "response_type": "ARRAY"
-    },
-    "status": {
-      "status": "active",
-      "allow_edit": true,
-      "display": "active",
-      "translated_display": "Active",
-      "flags": {
-        "new": false,
-        "hot": false
-      },
-      "allow_deactivate": true
-    },
-    "category_id": "93",
-    "ad_id": "1830928771",
-    "favorites": {
-      "count": 0,
-      "count_label_next": "1"
-    },
-    "user_tag": "olx disapproved",
-    "user_name": "Ashirwad",
-    "has_phone_param": false,
-    "description": "Ps4 standard \n2 controllers\nExcellent condition",
-    "created_at": "2026-01-02T12:29:11+05:30",
-    "videos": [],
-    "title": "Play station 4 ps4",
-    "buyer_id": "0",
-    "elite_seller": false,
-    "user_type": "Regular",
-    "price": {
-      "value": {
-        "raw": 14000.0,
-        "currency": {
-          "iso_4217": "INR",
-          "pre": "\u20b9"
-        },
-        "display": "\u20b9 14,000"
-      },
-      "key_name": "Price",
-      "key": "price"
-    },
-    "is_business": false,
-    "images": [
-      {
-        "id": "1979680562",
-        "external_id": "t5g2dfzsd3991-IN",
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/t5g2dfzsd3991-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/t5g2dfzsd3991-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/t5g2dfzsd3991-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/t5g2dfzsd3991-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/t5g2dfzsd3991-IN/image;s=120x160"
-        }
-      },
-      {
-        "id": "1979680563",
-        "external_id": "kwpmpu6aho012-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/kwpmpu6aho012-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/kwpmpu6aho012-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/kwpmpu6aho012-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/kwpmpu6aho012-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/kwpmpu6aho012-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "1979680564",
-        "external_id": "d0odt359rl983-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/d0odt359rl983-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/d0odt359rl983-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/d0odt359rl983-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/d0odt359rl983-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/d0odt359rl983-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "1979680565",
-        "external_id": "veousk1zxgxc3-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/veousk1zxgxc3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/veousk1zxgxc3-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/veousk1zxgxc3-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/veousk1zxgxc3-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/veousk1zxgxc3-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "1979680566",
-        "external_id": "liym6np0gf3i3-IN",
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/liym6np0gf3i3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/liym6np0gf3i3-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/liym6np0gf3i3-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/liym6np0gf3i3-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/liym6np0gf3i3-IN/image;s=120x160"
-        }
-      },
-      {
-        "id": "1979680567",
-        "external_id": "14zb085vnzwu1-IN",
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/14zb085vnzwu1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/14zb085vnzwu1-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/14zb085vnzwu1-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/14zb085vnzwu1-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/14zb085vnzwu1-IN/image;s=120x160"
-        }
-      }
-    ],
-    "certified_car": false,
-    "is_kyc_verified_user": false,
-    "locations_resolved": {
-      "COUNTRY_id": "1000001",
-      "COUNTRY_name": "India",
-      "ADMIN_LEVEL_1_id": "2001155",
-      "ADMIN_LEVEL_1_name": "Haryana",
-      "ADMIN_LEVEL_3_id": "4058748",
-      "ADMIN_LEVEL_3_name": "Gurgaon",
-      "SUBLOCALITY_LEVEL_1_id": "5359477",
-      "SUBLOCALITY_LEVEL_1_name": "Sushant Lok Phase 3"
-    },
-    "dealer_showroom_enabled": false,
-    "artificial_boost": false,
-    "display_date": "2026-01-02T07:00:11+0000",
-    "isSpinViewAvailable": false,
-    "user_id": "111205513",
-    "created_at_first": "2026-01-02T12:29:11+05:30",
-    "locations": [
-      {
-        "lat": 28.421,
-        "lon": 77.082,
-        "region_id": "2001155",
-        "district_id": "5359477",
-        "city_id": "4058748"
+        "lat": 28.52,
+        "lon": 77.177,
+        "region_id": "2001152",
+        "district_id": "5328235",
+        "city_id": "4058659"
       }
     ],
     "parameters": []
