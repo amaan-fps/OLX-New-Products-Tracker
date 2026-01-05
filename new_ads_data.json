@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "id": "1830947507",
+    "score": 0.9,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830947507",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "OLX user",
+    "has_phone_param": false,
+    "description": "games are ghost of Tsushima, Elden ring, blood borne, fifa 18, hogwarts legacy, dark souls, gta 5, god of war 2018, god of war ragnarok, the last of us remastered, assassins creed black flag, Detroit become human, the Witcher 3 wild hunt.",
+    "created_at": "2026-01-05T13:14:53+05:30",
+    "videos": [],
+    "title": "Collection of 13 AAA games for ps4",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 17500.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 17,500"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1979790713",
+        "external_id": "39i895ggpru51-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/39i895ggpru51-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/39i895ggpru51-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/39i895ggpru51-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/39i895ggpru51-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/39i895ggpru51-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328212",
+      "SUBLOCALITY_LEVEL_1_name": "Dwarka Sector 19"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-05T07:46:02+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "634432571",
+    "created_at_first": "2026-01-02T15:17:13+05:30",
+    "locations": [
+      {
+        "lat": 28.576,
+        "lon": 77.048,
+        "region_id": "2001152",
+        "district_id": "5328212",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1830947507",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830947507",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "OLX user",
+    "has_phone_param": false,
+    "description": "games are ghost of Tsushima, Elden ring, blood borne, fifa 18, hogwarts legacy, dark souls, gta 5, god of war 2018, god of war ragnarok, the last of us remastered, assassins creed black flag, Detroit become human, the Witcher 3 wild hunt.",
+    "created_at": "2026-01-05T13:14:53+05:30",
+    "videos": [],
+    "title": "Collection of 13 AAA games for ps4",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 17500.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 17,500"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1979790713",
+        "external_id": "39i895ggpru51-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/39i895ggpru51-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/39i895ggpru51-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/39i895ggpru51-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/39i895ggpru51-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/39i895ggpru51-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328212",
+      "SUBLOCALITY_LEVEL_1_name": "Dwarka Sector 19"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-05T07:46:02+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "634432571",
+    "created_at_first": "2026-01-02T15:17:13+05:30",
+    "locations": [
+      {
+        "lat": 28.576,
+        "lon": 77.048,
+        "region_id": "2001152",
+        "district_id": "5328212",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
