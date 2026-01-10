@@ -1,1 +1,762 @@
-[]
+[
+  {
+    "id": "1831701766",
+    "score": 0.828125,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1831701766",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Sion Shipping Pvt. Ltd.",
+    "has_phone_param": false,
+    "description": "Logitech G29 Driving Force Racing Wheel and Floor Pedals for PS5, PS4, PC, Mac\n\nExperience realistic and immersive sim racing with the Logitech G29 Driving Force Racing Wheel, designed for precision control and true-to-life force feedback. \nThis setup is compatible with PlayStation 5, PlayStation 4, PC, and Mac, making it ideal for multi-platform gamers.\n\nThe wheel is in excellent condition, lightly used, and well maintained. It features dual-motor force feedback that accurately simulates road feel, traction, and tire slip. The 900-degree steering rotation delivers authentic driving dynamics, while the hand-stitched leather steering wheel and stainless-steel paddle shifters provide a premium racing feel.\n\nThe included floor pedal unit comes with accelerator, brake, and clutch pedals made from solid steel, offering realistic resistance and durability. The pedals are designed for precise throttle control and confident braking during competitive racing.\n\nThis package includes the Logitech G29 racing wheel, original floor pedal set, all required connecting cables, and standard accessories.\n\nIdeal for sim racing enthusiasts, professional gaming setups, and anyone looking to upgrade their racing experience on console or PC.",
+    "created_at": "2026-01-10T14:48:56+05:30",
+    "videos": [],
+    "title": "Logitech G29 Driving Force Racing Wheel and Floor Pedals for PS5, PS4",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 13500.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 13,500"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1983692053",
+        "external_id": "r8lo9r6rfwtb1-IN",
+        "width": 1080,
+        "height": 757,
+        "url": "https://apollo.olx.in:443/v1/files/r8lo9r6rfwtb1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 757,
+          "url": "https://apollo.olx.in:443/v1/files/r8lo9r6rfwtb1-IN/image;s=1080x757"
+        },
+        "big": {
+          "width": 505,
+          "height": 353,
+          "url": "https://apollo.olx.in:443/v1/files/r8lo9r6rfwtb1-IN/image;s=505x353"
+        },
+        "medium": {
+          "width": 120,
+          "height": 84,
+          "url": "https://apollo.olx.in:443/v1/files/r8lo9r6rfwtb1-IN/image;s=120x84"
+        },
+        "small": {
+          "width": 120,
+          "height": 84,
+          "url": "https://apollo.olx.in:443/v1/files/r8lo9r6rfwtb1-IN/image;s=120x84"
+        }
+      },
+      {
+        "id": "1983692054",
+        "external_id": "laiga13lehvb-IN",
+        "width": 1080,
+        "height": 1057,
+        "url": "https://apollo.olx.in:443/v1/files/laiga13lehvb-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1057,
+          "url": "https://apollo.olx.in:443/v1/files/laiga13lehvb-IN/image;s=1080x1057"
+        },
+        "big": {
+          "width": 505,
+          "height": 494,
+          "url": "https://apollo.olx.in:443/v1/files/laiga13lehvb-IN/image;s=505x494"
+        },
+        "medium": {
+          "width": 120,
+          "height": 117,
+          "url": "https://apollo.olx.in:443/v1/files/laiga13lehvb-IN/image;s=120x117"
+        },
+        "small": {
+          "width": 120,
+          "height": 117,
+          "url": "https://apollo.olx.in:443/v1/files/laiga13lehvb-IN/image;s=120x117"
+        }
+      },
+      {
+        "id": "1983692055",
+        "external_id": "wyc67ktzgc0x2-IN",
+        "width": 859,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/wyc67ktzgc0x2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1357,
+          "url": "https://apollo.olx.in:443/v1/files/wyc67ktzgc0x2-IN/image;s=1080x1357"
+        },
+        "big": {
+          "width": 505,
+          "height": 634,
+          "url": "https://apollo.olx.in:443/v1/files/wyc67ktzgc0x2-IN/image;s=505x634"
+        },
+        "medium": {
+          "width": 120,
+          "height": 150,
+          "url": "https://apollo.olx.in:443/v1/files/wyc67ktzgc0x2-IN/image;s=120x150"
+        },
+        "small": {
+          "width": 120,
+          "height": 150,
+          "url": "https://apollo.olx.in:443/v1/files/wyc67ktzgc0x2-IN/image;s=120x150"
+        }
+      },
+      {
+        "id": "1983692056",
+        "external_id": "4yapp4se92sr3-IN",
+        "width": 740,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/4yapp4se92sr3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1576,
+          "url": "https://apollo.olx.in:443/v1/files/4yapp4se92sr3-IN/image;s=1080x1576"
+        },
+        "big": {
+          "width": 505,
+          "height": 737,
+          "url": "https://apollo.olx.in:443/v1/files/4yapp4se92sr3-IN/image;s=505x737"
+        },
+        "medium": {
+          "width": 120,
+          "height": 175,
+          "url": "https://apollo.olx.in:443/v1/files/4yapp4se92sr3-IN/image;s=120x175"
+        },
+        "small": {
+          "width": 120,
+          "height": 175,
+          "url": "https://apollo.olx.in:443/v1/files/4yapp4se92sr3-IN/image;s=120x175"
+        }
+      },
+      {
+        "id": "1983692057",
+        "external_id": "6qhu2yu1nbmc3-IN",
+        "width": 949,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/6qhu2yu1nbmc3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1229,
+          "url": "https://apollo.olx.in:443/v1/files/6qhu2yu1nbmc3-IN/image;s=1080x1229"
+        },
+        "big": {
+          "width": 505,
+          "height": 574,
+          "url": "https://apollo.olx.in:443/v1/files/6qhu2yu1nbmc3-IN/image;s=505x574"
+        },
+        "medium": {
+          "width": 120,
+          "height": 136,
+          "url": "https://apollo.olx.in:443/v1/files/6qhu2yu1nbmc3-IN/image;s=120x136"
+        },
+        "small": {
+          "width": 120,
+          "height": 136,
+          "url": "https://apollo.olx.in:443/v1/files/6qhu2yu1nbmc3-IN/image;s=120x136"
+        }
+      },
+      {
+        "id": "1983692058",
+        "external_id": "yf2xdj89z79v3-IN",
+        "width": 991,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/yf2xdj89z79v3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1176,
+          "url": "https://apollo.olx.in:443/v1/files/yf2xdj89z79v3-IN/image;s=1080x1176"
+        },
+        "big": {
+          "width": 505,
+          "height": 550,
+          "url": "https://apollo.olx.in:443/v1/files/yf2xdj89z79v3-IN/image;s=505x550"
+        },
+        "medium": {
+          "width": 120,
+          "height": 130,
+          "url": "https://apollo.olx.in:443/v1/files/yf2xdj89z79v3-IN/image;s=120x130"
+        },
+        "small": {
+          "width": 120,
+          "height": 130,
+          "url": "https://apollo.olx.in:443/v1/files/yf2xdj89z79v3-IN/image;s=120x130"
+        }
+      },
+      {
+        "id": "1983692059",
+        "external_id": "4da56lfjgxfi-IN",
+        "width": 1080,
+        "height": 735,
+        "url": "https://apollo.olx.in:443/v1/files/4da56lfjgxfi-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 735,
+          "url": "https://apollo.olx.in:443/v1/files/4da56lfjgxfi-IN/image;s=1080x735"
+        },
+        "big": {
+          "width": 505,
+          "height": 343,
+          "url": "https://apollo.olx.in:443/v1/files/4da56lfjgxfi-IN/image;s=505x343"
+        },
+        "medium": {
+          "width": 120,
+          "height": 81,
+          "url": "https://apollo.olx.in:443/v1/files/4da56lfjgxfi-IN/image;s=120x81"
+        },
+        "small": {
+          "width": 120,
+          "height": 81,
+          "url": "https://apollo.olx.in:443/v1/files/4da56lfjgxfi-IN/image;s=120x81"
+        }
+      },
+      {
+        "id": "1983692060",
+        "external_id": "yt5qyw9mtpjh-IN",
+        "width": 827,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/yt5qyw9mtpjh-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1410,
+          "url": "https://apollo.olx.in:443/v1/files/yt5qyw9mtpjh-IN/image;s=1080x1410"
+        },
+        "big": {
+          "width": 505,
+          "height": 659,
+          "url": "https://apollo.olx.in:443/v1/files/yt5qyw9mtpjh-IN/image;s=505x659"
+        },
+        "medium": {
+          "width": 120,
+          "height": 156,
+          "url": "https://apollo.olx.in:443/v1/files/yt5qyw9mtpjh-IN/image;s=120x156"
+        },
+        "small": {
+          "width": 120,
+          "height": 156,
+          "url": "https://apollo.olx.in:443/v1/files/yt5qyw9mtpjh-IN/image;s=120x156"
+        }
+      },
+      {
+        "id": "1983692061",
+        "external_id": "8m106lzsa6kw-IN",
+        "width": 1080,
+        "height": 696,
+        "url": "https://apollo.olx.in:443/v1/files/8m106lzsa6kw-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 696,
+          "url": "https://apollo.olx.in:443/v1/files/8m106lzsa6kw-IN/image;s=1080x696"
+        },
+        "big": {
+          "width": 505,
+          "height": 325,
+          "url": "https://apollo.olx.in:443/v1/files/8m106lzsa6kw-IN/image;s=505x325"
+        },
+        "medium": {
+          "width": 120,
+          "height": 77,
+          "url": "https://apollo.olx.in:443/v1/files/8m106lzsa6kw-IN/image;s=120x77"
+        },
+        "small": {
+          "width": 120,
+          "height": 77,
+          "url": "https://apollo.olx.in:443/v1/files/8m106lzsa6kw-IN/image;s=120x77"
+        }
+      },
+      {
+        "id": "1983692062",
+        "external_id": "xfuiys7hmmc12-IN",
+        "width": 1080,
+        "height": 736,
+        "url": "https://apollo.olx.in:443/v1/files/xfuiys7hmmc12-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 736,
+          "url": "https://apollo.olx.in:443/v1/files/xfuiys7hmmc12-IN/image;s=1080x736"
+        },
+        "big": {
+          "width": 505,
+          "height": 344,
+          "url": "https://apollo.olx.in:443/v1/files/xfuiys7hmmc12-IN/image;s=505x344"
+        },
+        "medium": {
+          "width": 120,
+          "height": 81,
+          "url": "https://apollo.olx.in:443/v1/files/xfuiys7hmmc12-IN/image;s=120x81"
+        },
+        "small": {
+          "width": 120,
+          "height": 81,
+          "url": "https://apollo.olx.in:443/v1/files/xfuiys7hmmc12-IN/image;s=120x81"
+        }
+      },
+      {
+        "id": "1983692063",
+        "external_id": "vb6rix9vcn2w3-IN",
+        "width": 1080,
+        "height": 772,
+        "url": "https://apollo.olx.in:443/v1/files/vb6rix9vcn2w3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 772,
+          "url": "https://apollo.olx.in:443/v1/files/vb6rix9vcn2w3-IN/image;s=1080x772"
+        },
+        "big": {
+          "width": 505,
+          "height": 360,
+          "url": "https://apollo.olx.in:443/v1/files/vb6rix9vcn2w3-IN/image;s=505x360"
+        },
+        "medium": {
+          "width": 120,
+          "height": 85,
+          "url": "https://apollo.olx.in:443/v1/files/vb6rix9vcn2w3-IN/image;s=120x85"
+        },
+        "small": {
+          "width": 120,
+          "height": 85,
+          "url": "https://apollo.olx.in:443/v1/files/vb6rix9vcn2w3-IN/image;s=120x85"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327950",
+      "SUBLOCALITY_LEVEL_1_name": "Greater Kailash"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-10T09:20:06+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "622973366",
+    "created_at_first": "2026-01-10T14:48:55+05:30",
+    "locations": [
+      {
+        "lat": 28.552,
+        "lon": 77.237,
+        "region_id": "2001152",
+        "district_id": "5327950",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1831701766",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1831701766",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Sion Shipping Pvt. Ltd.",
+    "has_phone_param": false,
+    "description": "Logitech G29 Driving Force Racing Wheel and Floor Pedals for PS5, PS4, PC, Mac\n\nExperience realistic and immersive sim racing with the Logitech G29 Driving Force Racing Wheel, designed for precision control and true-to-life force feedback. \nThis setup is compatible with PlayStation 5, PlayStation 4, PC, and Mac, making it ideal for multi-platform gamers.\n\nThe wheel is in excellent condition, lightly used, and well maintained. It features dual-motor force feedback that accurately simulates road feel, traction, and tire slip. The 900-degree steering rotation delivers authentic driving dynamics, while the hand-stitched leather steering wheel and stainless-steel paddle shifters provide a premium racing feel.\n\nThe included floor pedal unit comes with accelerator, brake, and clutch pedals made from solid steel, offering realistic resistance and durability. The pedals are designed for precise throttle control and confident braking during competitive racing.\n\nThis package includes the Logitech G29 racing wheel, original floor pedal set, all required connecting cables, and standard accessories.\n\nIdeal for sim racing enthusiasts, professional gaming setups, and anyone looking to upgrade their racing experience on console or PC.",
+    "created_at": "2026-01-10T14:48:56+05:30",
+    "videos": [],
+    "title": "Logitech G29 Driving Force Racing Wheel and Floor Pedals for PS5, PS4",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 13500.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 13,500"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1983692053",
+        "external_id": "r8lo9r6rfwtb1-IN",
+        "width": 1080,
+        "height": 757,
+        "url": "https://apollo.olx.in:443/v1/files/r8lo9r6rfwtb1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 757,
+          "url": "https://apollo.olx.in:443/v1/files/r8lo9r6rfwtb1-IN/image;s=1080x757"
+        },
+        "big": {
+          "width": 505,
+          "height": 353,
+          "url": "https://apollo.olx.in:443/v1/files/r8lo9r6rfwtb1-IN/image;s=505x353"
+        },
+        "medium": {
+          "width": 120,
+          "height": 84,
+          "url": "https://apollo.olx.in:443/v1/files/r8lo9r6rfwtb1-IN/image;s=120x84"
+        },
+        "small": {
+          "width": 120,
+          "height": 84,
+          "url": "https://apollo.olx.in:443/v1/files/r8lo9r6rfwtb1-IN/image;s=120x84"
+        }
+      },
+      {
+        "id": "1983692054",
+        "external_id": "laiga13lehvb-IN",
+        "width": 1080,
+        "height": 1057,
+        "url": "https://apollo.olx.in:443/v1/files/laiga13lehvb-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1057,
+          "url": "https://apollo.olx.in:443/v1/files/laiga13lehvb-IN/image;s=1080x1057"
+        },
+        "big": {
+          "width": 505,
+          "height": 494,
+          "url": "https://apollo.olx.in:443/v1/files/laiga13lehvb-IN/image;s=505x494"
+        },
+        "medium": {
+          "width": 120,
+          "height": 117,
+          "url": "https://apollo.olx.in:443/v1/files/laiga13lehvb-IN/image;s=120x117"
+        },
+        "small": {
+          "width": 120,
+          "height": 117,
+          "url": "https://apollo.olx.in:443/v1/files/laiga13lehvb-IN/image;s=120x117"
+        }
+      },
+      {
+        "id": "1983692055",
+        "external_id": "wyc67ktzgc0x2-IN",
+        "width": 859,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/wyc67ktzgc0x2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1357,
+          "url": "https://apollo.olx.in:443/v1/files/wyc67ktzgc0x2-IN/image;s=1080x1357"
+        },
+        "big": {
+          "width": 505,
+          "height": 634,
+          "url": "https://apollo.olx.in:443/v1/files/wyc67ktzgc0x2-IN/image;s=505x634"
+        },
+        "medium": {
+          "width": 120,
+          "height": 150,
+          "url": "https://apollo.olx.in:443/v1/files/wyc67ktzgc0x2-IN/image;s=120x150"
+        },
+        "small": {
+          "width": 120,
+          "height": 150,
+          "url": "https://apollo.olx.in:443/v1/files/wyc67ktzgc0x2-IN/image;s=120x150"
+        }
+      },
+      {
+        "id": "1983692056",
+        "external_id": "4yapp4se92sr3-IN",
+        "width": 740,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/4yapp4se92sr3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1576,
+          "url": "https://apollo.olx.in:443/v1/files/4yapp4se92sr3-IN/image;s=1080x1576"
+        },
+        "big": {
+          "width": 505,
+          "height": 737,
+          "url": "https://apollo.olx.in:443/v1/files/4yapp4se92sr3-IN/image;s=505x737"
+        },
+        "medium": {
+          "width": 120,
+          "height": 175,
+          "url": "https://apollo.olx.in:443/v1/files/4yapp4se92sr3-IN/image;s=120x175"
+        },
+        "small": {
+          "width": 120,
+          "height": 175,
+          "url": "https://apollo.olx.in:443/v1/files/4yapp4se92sr3-IN/image;s=120x175"
+        }
+      },
+      {
+        "id": "1983692057",
+        "external_id": "6qhu2yu1nbmc3-IN",
+        "width": 949,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/6qhu2yu1nbmc3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1229,
+          "url": "https://apollo.olx.in:443/v1/files/6qhu2yu1nbmc3-IN/image;s=1080x1229"
+        },
+        "big": {
+          "width": 505,
+          "height": 574,
+          "url": "https://apollo.olx.in:443/v1/files/6qhu2yu1nbmc3-IN/image;s=505x574"
+        },
+        "medium": {
+          "width": 120,
+          "height": 136,
+          "url": "https://apollo.olx.in:443/v1/files/6qhu2yu1nbmc3-IN/image;s=120x136"
+        },
+        "small": {
+          "width": 120,
+          "height": 136,
+          "url": "https://apollo.olx.in:443/v1/files/6qhu2yu1nbmc3-IN/image;s=120x136"
+        }
+      },
+      {
+        "id": "1983692058",
+        "external_id": "yf2xdj89z79v3-IN",
+        "width": 991,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/yf2xdj89z79v3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1176,
+          "url": "https://apollo.olx.in:443/v1/files/yf2xdj89z79v3-IN/image;s=1080x1176"
+        },
+        "big": {
+          "width": 505,
+          "height": 550,
+          "url": "https://apollo.olx.in:443/v1/files/yf2xdj89z79v3-IN/image;s=505x550"
+        },
+        "medium": {
+          "width": 120,
+          "height": 130,
+          "url": "https://apollo.olx.in:443/v1/files/yf2xdj89z79v3-IN/image;s=120x130"
+        },
+        "small": {
+          "width": 120,
+          "height": 130,
+          "url": "https://apollo.olx.in:443/v1/files/yf2xdj89z79v3-IN/image;s=120x130"
+        }
+      },
+      {
+        "id": "1983692059",
+        "external_id": "4da56lfjgxfi-IN",
+        "width": 1080,
+        "height": 735,
+        "url": "https://apollo.olx.in:443/v1/files/4da56lfjgxfi-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 735,
+          "url": "https://apollo.olx.in:443/v1/files/4da56lfjgxfi-IN/image;s=1080x735"
+        },
+        "big": {
+          "width": 505,
+          "height": 343,
+          "url": "https://apollo.olx.in:443/v1/files/4da56lfjgxfi-IN/image;s=505x343"
+        },
+        "medium": {
+          "width": 120,
+          "height": 81,
+          "url": "https://apollo.olx.in:443/v1/files/4da56lfjgxfi-IN/image;s=120x81"
+        },
+        "small": {
+          "width": 120,
+          "height": 81,
+          "url": "https://apollo.olx.in:443/v1/files/4da56lfjgxfi-IN/image;s=120x81"
+        }
+      },
+      {
+        "id": "1983692060",
+        "external_id": "yt5qyw9mtpjh-IN",
+        "width": 827,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/yt5qyw9mtpjh-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1410,
+          "url": "https://apollo.olx.in:443/v1/files/yt5qyw9mtpjh-IN/image;s=1080x1410"
+        },
+        "big": {
+          "width": 505,
+          "height": 659,
+          "url": "https://apollo.olx.in:443/v1/files/yt5qyw9mtpjh-IN/image;s=505x659"
+        },
+        "medium": {
+          "width": 120,
+          "height": 156,
+          "url": "https://apollo.olx.in:443/v1/files/yt5qyw9mtpjh-IN/image;s=120x156"
+        },
+        "small": {
+          "width": 120,
+          "height": 156,
+          "url": "https://apollo.olx.in:443/v1/files/yt5qyw9mtpjh-IN/image;s=120x156"
+        }
+      },
+      {
+        "id": "1983692061",
+        "external_id": "8m106lzsa6kw-IN",
+        "width": 1080,
+        "height": 696,
+        "url": "https://apollo.olx.in:443/v1/files/8m106lzsa6kw-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 696,
+          "url": "https://apollo.olx.in:443/v1/files/8m106lzsa6kw-IN/image;s=1080x696"
+        },
+        "big": {
+          "width": 505,
+          "height": 325,
+          "url": "https://apollo.olx.in:443/v1/files/8m106lzsa6kw-IN/image;s=505x325"
+        },
+        "medium": {
+          "width": 120,
+          "height": 77,
+          "url": "https://apollo.olx.in:443/v1/files/8m106lzsa6kw-IN/image;s=120x77"
+        },
+        "small": {
+          "width": 120,
+          "height": 77,
+          "url": "https://apollo.olx.in:443/v1/files/8m106lzsa6kw-IN/image;s=120x77"
+        }
+      },
+      {
+        "id": "1983692062",
+        "external_id": "xfuiys7hmmc12-IN",
+        "width": 1080,
+        "height": 736,
+        "url": "https://apollo.olx.in:443/v1/files/xfuiys7hmmc12-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 736,
+          "url": "https://apollo.olx.in:443/v1/files/xfuiys7hmmc12-IN/image;s=1080x736"
+        },
+        "big": {
+          "width": 505,
+          "height": 344,
+          "url": "https://apollo.olx.in:443/v1/files/xfuiys7hmmc12-IN/image;s=505x344"
+        },
+        "medium": {
+          "width": 120,
+          "height": 81,
+          "url": "https://apollo.olx.in:443/v1/files/xfuiys7hmmc12-IN/image;s=120x81"
+        },
+        "small": {
+          "width": 120,
+          "height": 81,
+          "url": "https://apollo.olx.in:443/v1/files/xfuiys7hmmc12-IN/image;s=120x81"
+        }
+      },
+      {
+        "id": "1983692063",
+        "external_id": "vb6rix9vcn2w3-IN",
+        "width": 1080,
+        "height": 772,
+        "url": "https://apollo.olx.in:443/v1/files/vb6rix9vcn2w3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 772,
+          "url": "https://apollo.olx.in:443/v1/files/vb6rix9vcn2w3-IN/image;s=1080x772"
+        },
+        "big": {
+          "width": 505,
+          "height": 360,
+          "url": "https://apollo.olx.in:443/v1/files/vb6rix9vcn2w3-IN/image;s=505x360"
+        },
+        "medium": {
+          "width": 120,
+          "height": 85,
+          "url": "https://apollo.olx.in:443/v1/files/vb6rix9vcn2w3-IN/image;s=120x85"
+        },
+        "small": {
+          "width": 120,
+          "height": 85,
+          "url": "https://apollo.olx.in:443/v1/files/vb6rix9vcn2w3-IN/image;s=120x85"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327950",
+      "SUBLOCALITY_LEVEL_1_name": "Greater Kailash"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-10T09:20:06+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "622973366",
+    "created_at_first": "2026-01-10T14:48:55+05:30",
+    "locations": [
+      {
+        "lat": 28.552,
+        "lon": 77.237,
+        "region_id": "2001152",
+        "district_id": "5327950",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
