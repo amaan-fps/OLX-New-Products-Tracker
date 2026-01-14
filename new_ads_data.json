@@ -1,1 +1,166 @@
-[]
+[
+  {
+    "id": "1832074080",
+    "score": 0.8333333333333334,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832074080",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Gaurang Puri",
+    "has_phone_param": false,
+    "description": "1tb slim ps4\nWith 1 controller \nWorking fine \nPrice slightly negotiable \nHdmi and controller and power cable \nWith Wwe game cd",
+    "created_at": "2026-01-14T17:45:18+05:30",
+    "videos": [],
+    "title": "Ps4 1 tb slim",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 18499.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 18,499"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1985600371",
+        "external_id": "tllypcqv7zsl1-IN",
+        "width": 1068,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/tllypcqv7zsl1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1092,
+          "url": "https://apollo.olx.in:443/v1/files/tllypcqv7zsl1-IN/image;s=1080x1092"
+        },
+        "big": {
+          "width": 505,
+          "height": 510,
+          "url": "https://apollo.olx.in:443/v1/files/tllypcqv7zsl1-IN/image;s=505x510"
+        },
+        "medium": {
+          "width": 120,
+          "height": 121,
+          "url": "https://apollo.olx.in:443/v1/files/tllypcqv7zsl1-IN/image;s=120x121"
+        },
+        "small": {
+          "width": 120,
+          "height": 121,
+          "url": "https://apollo.olx.in:443/v1/files/tllypcqv7zsl1-IN/image;s=120x121"
+        }
+      },
+      {
+        "id": "1985600372",
+        "external_id": "1ecsnme8yaz61-IN",
+        "width": 1042,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/1ecsnme8yaz61-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1119,
+          "url": "https://apollo.olx.in:443/v1/files/1ecsnme8yaz61-IN/image;s=1080x1119"
+        },
+        "big": {
+          "width": 505,
+          "height": 523,
+          "url": "https://apollo.olx.in:443/v1/files/1ecsnme8yaz61-IN/image;s=505x523"
+        },
+        "medium": {
+          "width": 120,
+          "height": 124,
+          "url": "https://apollo.olx.in:443/v1/files/1ecsnme8yaz61-IN/image;s=120x124"
+        },
+        "small": {
+          "width": 120,
+          "height": 124,
+          "url": "https://apollo.olx.in:443/v1/files/1ecsnme8yaz61-IN/image;s=120x124"
+        }
+      },
+      {
+        "id": "1985600373",
+        "external_id": "tq4eqdh1wd5t2-IN",
+        "width": 520,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/tq4eqdh1wd5t2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2243,
+          "url": "https://apollo.olx.in:443/v1/files/tq4eqdh1wd5t2-IN/image;s=1080x2243"
+        },
+        "big": {
+          "width": 505,
+          "height": 1048,
+          "url": "https://apollo.olx.in:443/v1/files/tq4eqdh1wd5t2-IN/image;s=505x1048"
+        },
+        "medium": {
+          "width": 120,
+          "height": 249,
+          "url": "https://apollo.olx.in:443/v1/files/tq4eqdh1wd5t2-IN/image;s=120x249"
+        },
+        "small": {
+          "width": 120,
+          "height": 249,
+          "url": "https://apollo.olx.in:443/v1/files/tq4eqdh1wd5t2-IN/image;s=120x249"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4387779",
+      "ADMIN_LEVEL_3_name": "Faridabad",
+      "SUBLOCALITY_LEVEL_1_id": "5309374",
+      "SUBLOCALITY_LEVEL_1_name": "Sector 21C"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-14T12:16:19+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "523372376",
+    "created_at_first": "2026-01-14T17:45:18+05:30",
+    "locations": [
+      {
+        "lat": 28.431,
+        "lon": 77.298,
+        "region_id": "2001155",
+        "district_id": "5309374",
+        "city_id": "4387779"
+      }
+    ],
+    "parameters": []
+  }
+]
