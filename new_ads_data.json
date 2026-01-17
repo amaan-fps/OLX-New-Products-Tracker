@@ -1,1 +1,384 @@
-[]
+[
+  {
+    "id": "1832321454",
+    "score": 0.9571428571428572,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832321454",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Gairick Sachdeva",
+    "has_phone_param": false,
+    "description": "Perfect condition of the system and controller. Never repaired.",
+    "created_at": "2026-01-17T15:29:19+05:30",
+    "videos": [],
+    "title": "Sony PS4 1TB Slim Bundled with Spider-Man, GT Sport, Ratchet & Clank",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 18000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 18,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1986864040",
+        "external_id": "xa7yjipj2t0u2-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/xa7yjipj2t0u2-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/xa7yjipj2t0u2-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/xa7yjipj2t0u2-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/xa7yjipj2t0u2-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/xa7yjipj2t0u2-IN/image;s=120x160;w=shot-on-olx"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4058748",
+      "ADMIN_LEVEL_3_name": "Gurgaon",
+      "SUBLOCALITY_LEVEL_1_id": "5309818",
+      "SUBLOCALITY_LEVEL_1_name": "Nakhrola"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-17T10:00:17+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "70359533",
+    "created_at_first": "2026-01-17T15:29:19+05:30",
+    "locations": [
+      {
+        "lat": 28.379,
+        "lon": 76.95,
+        "region_id": "2001155",
+        "district_id": "5309818",
+        "city_id": "4058748"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1832322445",
+    "score": 0.8,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832322445",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Manan",
+    "has_phone_param": false,
+    "description": "All three of them are ps4 edition. In perfect condition. Bought recently working perfectly with smooth gaming experience. All three of them are worth buying and had fun.\n\nLast of us part 2- \u20b91200\nMortal combat X- \u20b91400\nNBA 2K21- \u20b9800",
+    "created_at": "2026-01-17T15:38:36+05:30",
+    "videos": [],
+    "title": "Ps4 LAST OF US PART 2, NBA 2K21 and MORTAL COMBAT X",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 3400.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 3,400"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1986868979",
+        "external_id": "js9ujgvtzsu82-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/js9ujgvtzsu82-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/js9ujgvtzsu82-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/js9ujgvtzsu82-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/js9ujgvtzsu82-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/js9ujgvtzsu82-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1986868980",
+        "external_id": "fdwnydzany8-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/fdwnydzany8-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/fdwnydzany8-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/fdwnydzany8-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/fdwnydzany8-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/fdwnydzany8-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1986868981",
+        "external_id": "chzdo0slur561-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/chzdo0slur561-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/chzdo0slur561-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/chzdo0slur561-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/chzdo0slur561-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/chzdo0slur561-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1986868982",
+        "external_id": "sp84kszqg8ra-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/sp84kszqg8ra-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/sp84kszqg8ra-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/sp84kszqg8ra-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/sp84kszqg8ra-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/sp84kszqg8ra-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1986868983",
+        "external_id": "eqz7zzavnn2a-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/eqz7zzavnn2a-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/eqz7zzavnn2a-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/eqz7zzavnn2a-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/eqz7zzavnn2a-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/eqz7zzavnn2a-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1986868984",
+        "external_id": "65gysxk79tcb3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/65gysxk79tcb3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/65gysxk79tcb3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/65gysxk79tcb3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/65gysxk79tcb3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/65gysxk79tcb3-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1986868985",
+        "external_id": "f9gazi6us1x-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/f9gazi6us1x-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/f9gazi6us1x-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/f9gazi6us1x-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/f9gazi6us1x-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/f9gazi6us1x-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4387779",
+      "ADMIN_LEVEL_3_name": "Faridabad",
+      "SUBLOCALITY_LEVEL_1_id": "5460515",
+      "SUBLOCALITY_LEVEL_1_name": "Ekta Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-17T10:09:37+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "262683463",
+    "created_at_first": "2026-01-17T15:38:36+05:30",
+    "locations": [
+      {
+        "lat": 28.46,
+        "lon": 77.302,
+        "region_id": "2001155",
+        "district_id": "5460515",
+        "city_id": "4387779"
+      }
+    ],
+    "parameters": []
+  }
+]
