@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "id": "1832303398",
+    "score": 0.8088235294117647,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832303398",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Aisha",
+    "has_phone_param": false,
+    "description": "Sony PlayStation 4 Slim \u2013 1TB (Used, Excellent Condition) \n\nSelling my PS4 Slim with 1TB storage, fully functional and well-maintained. Perfect for gaming enthusiasts who want a smooth console experience at a great price.\n\nDetails:\n\nModel: PS4 Slim\n\nStorage: 1TB HDD\n\nCondition: Used but in very good condition\n\nPerformance: No lag, no overheating, works perfectly\n\nAll ports, buttons, and disc drive are fully functional\n\nIncludes:\n\nPS4 Slim console\n\nOriginal controller (good condition)\n\nPower cable\n\nHDMI cable",
+    "created_at": "2026-01-17T12:46:15+05:30",
+    "videos": [],
+    "title": "PS4 Slim 1TB Storage",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 16000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 16,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1986770472",
+        "external_id": "k8tg1seig50w2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/k8tg1seig50w2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/k8tg1seig50w2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/k8tg1seig50w2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/k8tg1seig50w2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/k8tg1seig50w2-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001176",
+      "ADMIN_LEVEL_1_name": "Uttar Pradesh",
+      "ADMIN_LEVEL_3_id": "4059280",
+      "ADMIN_LEVEL_3_name": "Ghaziabad",
+      "SUBLOCALITY_LEVEL_1_id": "5340686",
+      "SUBLOCALITY_LEVEL_1_name": "Nand Gram"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-17T07:17:14+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "635161377",
+    "created_at_first": "2026-01-17T12:46:15+05:30",
+    "locations": [
+      {
+        "lat": 28.691,
+        "lon": 77.411,
+        "region_id": "2001176",
+        "district_id": "5340686",
+        "city_id": "4059280"
+      }
+    ],
+    "parameters": []
+  }
+]
