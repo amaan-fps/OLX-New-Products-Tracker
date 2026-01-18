@@ -1,1 +1,438 @@
-[]
+[
+  {
+    "id": "1832458079",
+    "score": 0.8181818181818182,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832458079",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Girish",
+    "has_phone_param": false,
+    "description": "I am selling my PS4 slim because it has been sitting unused for a long time. I have. Grown up and no longer play video games, So I decided it is better for someone else to use it instead of it just lying around. The console is in good working condition it. Has been well maintained and is factory reset. It comes with all required cables to working controllers and several popular games. Serious bias only. Price slightly negotiable",
+    "created_at": "2026-01-18T22:39:54+05:30",
+    "videos": [],
+    "title": "PS4, 2 controllers, seven games, HDMI and power cable fully work",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 19000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 19,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1987559857",
+        "external_id": "lfbu7koigw8r1-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/lfbu7koigw8r1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/lfbu7koigw8r1-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/lfbu7koigw8r1-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/lfbu7koigw8r1-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/lfbu7koigw8r1-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1987559858",
+        "external_id": "zq681zjdjg241-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/zq681zjdjg241-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/zq681zjdjg241-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/zq681zjdjg241-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/zq681zjdjg241-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/zq681zjdjg241-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1987559859",
+        "external_id": "bta48a89f51j-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/bta48a89f51j-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/bta48a89f51j-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/bta48a89f51j-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/bta48a89f51j-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/bta48a89f51j-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1987559860",
+        "external_id": "acbez1uxdf5k2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/acbez1uxdf5k2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/acbez1uxdf5k2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/acbez1uxdf5k2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/acbez1uxdf5k2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/acbez1uxdf5k2-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1987559861",
+        "external_id": "o3faw2k8jbc51-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/o3faw2k8jbc51-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/o3faw2k8jbc51-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/o3faw2k8jbc51-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/o3faw2k8jbc51-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/o3faw2k8jbc51-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328065",
+      "SUBLOCALITY_LEVEL_1_name": "Cariappa Vihar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-18T17:10:54+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "215327561",
+    "created_at_first": "2026-01-18T22:39:54+05:30",
+    "locations": [
+      {
+        "lat": 28.601,
+        "lon": 77.137,
+        "region_id": "2001152",
+        "district_id": "5328065",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1832458079",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832458079",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Girish",
+    "has_phone_param": false,
+    "description": "I am selling my PS4 slim because it has been sitting unused for a long time. I have. Grown up and no longer play video games, So I decided it is better for someone else to use it instead of it just lying around. The console is in good working condition it. Has been well maintained and is factory reset. It comes with all required cables to working controllers and several popular games. Serious bias only. Price slightly negotiable",
+    "created_at": "2026-01-18T22:39:54+05:30",
+    "videos": [],
+    "title": "PS4, 2 controllers, seven games, HDMI and power cable fully work",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 19000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 19,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1987559857",
+        "external_id": "lfbu7koigw8r1-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/lfbu7koigw8r1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/lfbu7koigw8r1-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/lfbu7koigw8r1-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/lfbu7koigw8r1-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/lfbu7koigw8r1-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1987559858",
+        "external_id": "zq681zjdjg241-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/zq681zjdjg241-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/zq681zjdjg241-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/zq681zjdjg241-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/zq681zjdjg241-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/zq681zjdjg241-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1987559859",
+        "external_id": "bta48a89f51j-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/bta48a89f51j-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/bta48a89f51j-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/bta48a89f51j-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/bta48a89f51j-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/bta48a89f51j-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1987559860",
+        "external_id": "acbez1uxdf5k2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/acbez1uxdf5k2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/acbez1uxdf5k2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/acbez1uxdf5k2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/acbez1uxdf5k2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/acbez1uxdf5k2-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1987559861",
+        "external_id": "o3faw2k8jbc51-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/o3faw2k8jbc51-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/o3faw2k8jbc51-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/o3faw2k8jbc51-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/o3faw2k8jbc51-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/o3faw2k8jbc51-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328065",
+      "SUBLOCALITY_LEVEL_1_name": "Cariappa Vihar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-18T17:10:54+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "215327561",
+    "created_at_first": "2026-01-18T22:39:54+05:30",
+    "locations": [
+      {
+        "lat": 28.601,
+        "lon": 77.137,
+        "region_id": "2001152",
+        "district_id": "5328065",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
