@@ -1,1 +1,223 @@
-[]
+[
+  {
+    "id": "1832396096",
+    "score": 0.9558823529411765,
+    "spell": {
+      "id": 112,
+      "key": "DISCERN_LOCATION_ES",
+      "version": "1",
+      "main": false,
+      "facet_disabled": true,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832396096",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Anu",
+    "has_phone_param": false,
+    "description": "Selling my PlayStation 4 in excellent condition, rarely used and perfectly working.\nIdeal for gaming lovers and kids \n\n What you get:\n\ufe0f PS4 Console\n\ufe0f 2 Original Controllers\n\ufe0f 10 Popular Game DVDs\n\n Games Included:\n\u2022 FIFA Series\n\u2022 WWE\n\u2022 NFS (Need for Speed)\n\u2022 Uncharted\n\u2022 Cricket\n\u2022 And more action-packed titles!\n\n Condition:\n\u2022 Very well maintained\n\u2022 No issues, smooth performance\n\u2022 Smoke-free & dust-free usage\n\n Price: Reasonable & slightly negotiable\n Location: Sector 65, Gurgaon\n Reason for Sale: Got new PS5\n\n Best deal for complete entertainment at home!\n Interested buyers, call or message on OLX now!",
+    "created_at": "2026-01-18T12:29:54+05:30",
+    "videos": [],
+    "title": "PS4 FOR SALE \u2013 FULL GAMING BUNDLE  GREAT DEAL!",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 18000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 18,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1987242350",
+        "external_id": "4v1dqtrekkya3-IN",
+        "width": 1080,
+        "height": 1440,
+        "url": "https://apollo.olx.in:443/v1/files/4v1dqtrekkya3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/4v1dqtrekkya3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/4v1dqtrekkya3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/4v1dqtrekkya3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/4v1dqtrekkya3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1987242351",
+        "external_id": "y3qf6u1ntqh33-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/y3qf6u1ntqh33-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/y3qf6u1ntqh33-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/y3qf6u1ntqh33-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/y3qf6u1ntqh33-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/y3qf6u1ntqh33-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1987242352",
+        "external_id": "zys5aqge21cr3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/zys5aqge21cr3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/zys5aqge21cr3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/zys5aqge21cr3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/zys5aqge21cr3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/zys5aqge21cr3-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1987242353",
+        "external_id": "kw2p9kuyxjpt-IN",
+        "width": 1080,
+        "height": 1440,
+        "url": "https://apollo.olx.in:443/v1/files/kw2p9kuyxjpt-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/kw2p9kuyxjpt-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/kw2p9kuyxjpt-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/kw2p9kuyxjpt-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/kw2p9kuyxjpt-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1987242354",
+        "external_id": "hbja29octzos2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/hbja29octzos2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/hbja29octzos2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/hbja29octzos2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/hbja29octzos2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/hbja29octzos2-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "package": {
+      "id": "2014696"
+    },
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4058748",
+      "ADMIN_LEVEL_3_name": "Gurgaon",
+      "SUBLOCALITY_LEVEL_1_id": "5309714",
+      "SUBLOCALITY_LEVEL_1_name": "Sector 65"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-18T07:00:51+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "246680801",
+    "created_at_first": "2026-01-18T12:29:54+05:30",
+    "locations": [
+      {
+        "lat": 28.405,
+        "lon": 77.069,
+        "region_id": "2001155",
+        "district_id": "5309714",
+        "city_id": "4058748"
+      }
+    ],
+    "parameters": []
+  }
+]
