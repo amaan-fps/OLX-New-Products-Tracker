@@ -1,7 +1,7 @@
 [
   {
-    "id": "1832665647",
-    "score": 0.8095238095238095,
+    "id": "1832665689",
+    "score": 0.5454545454545454,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
@@ -23,7 +23,7 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1832665647",
+    "ad_id": "1832665689",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
@@ -31,21 +31,21 @@
     "user_tag": "olx disapproved",
     "user_name": "Abhi",
     "has_phone_param": false,
-    "description": "Good condition",
-    "created_at": "2026-01-21T04:14:55+05:30",
+    "description": "Brand New Condition",
+    "created_at": "2026-01-21T04:24:09+05:30",
     "videos": [],
-    "title": "PlayStation 4 Slim",
+    "title": "Xbox Series s",
     "buyer_id": "0",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 15999.0,
+        "raw": 23999.0,
         "currency": {
           "iso_4217": "INR",
           "pre": "\u20b9"
         },
-        "display": "\u20b9 15,999"
+        "display": "\u20b9 23,999"
       },
       "key_name": "Price",
       "key": "price"
@@ -53,30 +53,57 @@
     "is_business": false,
     "images": [
       {
-        "id": "1988606270",
-        "external_id": "1f6kxso4983s3-IN",
-        "width": 1024,
-        "height": 1024,
-        "url": "https://apollo.olx.in:443/v1/files/1f6kxso4983s3-IN/image",
+        "id": "1988606486",
+        "external_id": "fshs3r0f6gwf-IN",
+        "width": 485,
+        "height": 485,
+        "url": "https://apollo.olx.in:443/v1/files/fshs3r0f6gwf-IN/image",
         "full": {
           "width": 1080,
           "height": 1080,
-          "url": "https://apollo.olx.in:443/v1/files/1f6kxso4983s3-IN/image;s=1080x1080"
+          "url": "https://apollo.olx.in:443/v1/files/fshs3r0f6gwf-IN/image;s=1080x1080"
         },
         "big": {
           "width": 505,
           "height": 505,
-          "url": "https://apollo.olx.in:443/v1/files/1f6kxso4983s3-IN/image;s=505x505"
+          "url": "https://apollo.olx.in:443/v1/files/fshs3r0f6gwf-IN/image;s=505x505"
         },
         "medium": {
           "width": 120,
           "height": 120,
-          "url": "https://apollo.olx.in:443/v1/files/1f6kxso4983s3-IN/image;s=120x120"
+          "url": "https://apollo.olx.in:443/v1/files/fshs3r0f6gwf-IN/image;s=120x120"
         },
         "small": {
           "width": 120,
           "height": 120,
-          "url": "https://apollo.olx.in:443/v1/files/1f6kxso4983s3-IN/image;s=120x120"
+          "url": "https://apollo.olx.in:443/v1/files/fshs3r0f6gwf-IN/image;s=120x120"
+        }
+      },
+      {
+        "id": "1988606487",
+        "external_id": "1gp79ya9hpc1-IN",
+        "width": 857,
+        "height": 676,
+        "url": "https://apollo.olx.in:443/v1/files/1gp79ya9hpc1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 851,
+          "url": "https://apollo.olx.in:443/v1/files/1gp79ya9hpc1-IN/image;s=1080x851"
+        },
+        "big": {
+          "width": 505,
+          "height": 398,
+          "url": "https://apollo.olx.in:443/v1/files/1gp79ya9hpc1-IN/image;s=505x398"
+        },
+        "medium": {
+          "width": 120,
+          "height": 94,
+          "url": "https://apollo.olx.in:443/v1/files/1gp79ya9hpc1-IN/image;s=120x94"
+        },
+        "small": {
+          "width": 120,
+          "height": 94,
+          "url": "https://apollo.olx.in:443/v1/files/1gp79ya9hpc1-IN/image;s=120x94"
         }
       }
     ],
@@ -94,120 +121,10 @@
     },
     "dealer_showroom_enabled": false,
     "artificial_boost": false,
-    "display_date": "2026-01-20T22:45:54+0000",
+    "display_date": "2026-01-20T22:55:07+0000",
     "isSpinViewAvailable": false,
     "user_id": "11408879",
-    "created_at_first": "2026-01-21T04:14:17+05:30",
-    "locations": [
-      {
-        "lat": 28.635,
-        "lon": 77.074,
-        "region_id": "2001152",
-        "district_id": "5328327",
-        "city_id": "4058659"
-      }
-    ],
-    "parameters": []
-  },
-  {
-    "id": "1832665647",
-    "score": 1.0,
-    "spell": {
-      "id": 111,
-      "key": "GEAS_ES",
-      "version": "1",
-      "main": true,
-      "facet_disabled": false,
-      "default_sorting": "DEFAULT",
-      "response_type": "ARRAY"
-    },
-    "status": {
-      "status": "active",
-      "allow_edit": true,
-      "display": "active",
-      "translated_display": "Active",
-      "flags": {
-        "new": false,
-        "hot": false
-      },
-      "allow_deactivate": true
-    },
-    "category_id": "93",
-    "ad_id": "1832665647",
-    "favorites": {
-      "count": 0,
-      "count_label_next": "1"
-    },
-    "user_tag": "olx disapproved",
-    "user_name": "Abhi",
-    "has_phone_param": false,
-    "description": "Good condition",
-    "created_at": "2026-01-21T04:14:55+05:30",
-    "videos": [],
-    "title": "PlayStation 4 Slim",
-    "buyer_id": "0",
-    "elite_seller": false,
-    "user_type": "Regular",
-    "price": {
-      "value": {
-        "raw": 15999.0,
-        "currency": {
-          "iso_4217": "INR",
-          "pre": "\u20b9"
-        },
-        "display": "\u20b9 15,999"
-      },
-      "key_name": "Price",
-      "key": "price"
-    },
-    "is_business": false,
-    "images": [
-      {
-        "id": "1988606270",
-        "external_id": "1f6kxso4983s3-IN",
-        "width": 1024,
-        "height": 1024,
-        "url": "https://apollo.olx.in:443/v1/files/1f6kxso4983s3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1080,
-          "url": "https://apollo.olx.in:443/v1/files/1f6kxso4983s3-IN/image;s=1080x1080"
-        },
-        "big": {
-          "width": 505,
-          "height": 505,
-          "url": "https://apollo.olx.in:443/v1/files/1f6kxso4983s3-IN/image;s=505x505"
-        },
-        "medium": {
-          "width": 120,
-          "height": 120,
-          "url": "https://apollo.olx.in:443/v1/files/1f6kxso4983s3-IN/image;s=120x120"
-        },
-        "small": {
-          "width": 120,
-          "height": 120,
-          "url": "https://apollo.olx.in:443/v1/files/1f6kxso4983s3-IN/image;s=120x120"
-        }
-      }
-    ],
-    "certified_car": false,
-    "is_kyc_verified_user": false,
-    "locations_resolved": {
-      "COUNTRY_id": "1000001",
-      "COUNTRY_name": "India",
-      "ADMIN_LEVEL_1_id": "2001152",
-      "ADMIN_LEVEL_1_name": "Delhi",
-      "ADMIN_LEVEL_3_id": "4058659",
-      "ADMIN_LEVEL_3_name": "Delhi",
-      "SUBLOCALITY_LEVEL_1_id": "5328327",
-      "SUBLOCALITY_LEVEL_1_name": "Vikaspuri"
-    },
-    "dealer_showroom_enabled": false,
-    "artificial_boost": false,
-    "display_date": "2026-01-20T22:45:54+0000",
-    "isSpinViewAvailable": false,
-    "user_id": "11408879",
-    "created_at_first": "2026-01-21T04:14:17+05:30",
+    "created_at_first": "2026-01-21T04:23:15+05:30",
     "locations": [
       {
         "lat": 28.635,
