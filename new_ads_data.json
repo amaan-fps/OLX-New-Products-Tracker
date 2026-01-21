@@ -1,1 +1,166 @@
-[]
+[
+  {
+    "id": "1832746533",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832746533",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Sam",
+    "has_phone_param": false,
+    "description": "Selling my PS4 fat edition 500 GB white.\n2 controllers EVOFOX, both working fully with sound and vibration.\nNo Original controller.\nAlmost 2.5 years old.\nNever repaired/opened seal is intact.",
+    "created_at": "2026-01-21T20:56:47+05:30",
+    "videos": [],
+    "title": "SELLING PS4 FAT 500 GB GOOD CONDITION.",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 17500.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 17,500"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1989015111",
+        "external_id": "7ozsash3ljxr-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/7ozsash3ljxr-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/7ozsash3ljxr-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/7ozsash3ljxr-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/7ozsash3ljxr-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/7ozsash3ljxr-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1989015112",
+        "external_id": "nmvveqweitk61-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/nmvveqweitk61-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/nmvveqweitk61-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/nmvveqweitk61-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/nmvveqweitk61-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/nmvveqweitk61-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1989015113",
+        "external_id": "bnyo5bivmzl33-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/bnyo5bivmzl33-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/bnyo5bivmzl33-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/bnyo5bivmzl33-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/bnyo5bivmzl33-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/bnyo5bivmzl33-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4058748",
+      "ADMIN_LEVEL_3_name": "Gurgaon",
+      "SUBLOCALITY_LEVEL_1_id": "5309582",
+      "SUBLOCALITY_LEVEL_1_name": "Jyoti Park"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-21T15:26:49+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "631165088",
+    "created_at_first": "2026-01-21T20:55:49+05:30",
+    "locations": [
+      {
+        "lat": 28.462,
+        "lon": 77.011,
+        "region_id": "2001155",
+        "district_id": "5309582",
+        "city_id": "4058748"
+      }
+    ],
+    "parameters": []
+  }
+]
