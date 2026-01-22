@@ -1,1 +1,384 @@
-[]
+[
+  {
+    "id": "1832861165",
+    "score": 0.8059701492537313,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832861165",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "OLX User",
+    "has_phone_param": false,
+    "description": "Its in good condition, only 14-15 months old",
+    "created_at": "2026-01-23T00:18:22+05:30",
+    "videos": [],
+    "title": "Ps4 Slim, 1tb in Working condition.",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 14000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 14,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1989591618",
+        "external_id": "187x5d63f86j-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/187x5d63f86j-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/187x5d63f86j-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/187x5d63f86j-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/187x5d63f86j-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/187x5d63f86j-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1989591619",
+        "external_id": "4wesu92qi0d8-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/4wesu92qi0d8-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/4wesu92qi0d8-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/4wesu92qi0d8-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/4wesu92qi0d8-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/4wesu92qi0d8-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1989591620",
+        "external_id": "jtt313z0tzqx-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/jtt313z0tzqx-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/jtt313z0tzqx-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/jtt313z0tzqx-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/jtt313z0tzqx-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/jtt313z0tzqx-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1989591621",
+        "external_id": "sarki0ttlc241-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/sarki0ttlc241-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/sarki0ttlc241-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/sarki0ttlc241-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/sarki0ttlc241-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/sarki0ttlc241-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328351",
+      "SUBLOCALITY_LEVEL_1_name": "Paschim Vihar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-22T18:49:22+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "635446643",
+    "created_at_first": "2026-01-23T00:18:22+05:30",
+    "locations": [
+      {
+        "lat": 28.667,
+        "lon": 77.081,
+        "region_id": "2001152",
+        "district_id": "5328351",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1832861165",
+    "score": 0.9743589743589743,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832861165",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "OLX User",
+    "has_phone_param": false,
+    "description": "Its in good condition, only 14-15 months old",
+    "created_at": "2026-01-23T00:18:22+05:30",
+    "videos": [],
+    "title": "Ps4 Slim, 1tb in Working condition.",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 14000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 14,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1989591618",
+        "external_id": "187x5d63f86j-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/187x5d63f86j-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/187x5d63f86j-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/187x5d63f86j-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/187x5d63f86j-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/187x5d63f86j-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1989591619",
+        "external_id": "4wesu92qi0d8-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/4wesu92qi0d8-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/4wesu92qi0d8-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/4wesu92qi0d8-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/4wesu92qi0d8-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/4wesu92qi0d8-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1989591620",
+        "external_id": "jtt313z0tzqx-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/jtt313z0tzqx-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/jtt313z0tzqx-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/jtt313z0tzqx-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/jtt313z0tzqx-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/jtt313z0tzqx-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1989591621",
+        "external_id": "sarki0ttlc241-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/sarki0ttlc241-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/sarki0ttlc241-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/sarki0ttlc241-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/sarki0ttlc241-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/sarki0ttlc241-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328351",
+      "SUBLOCALITY_LEVEL_1_name": "Paschim Vihar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-22T18:49:22+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "635446643",
+    "created_at_first": "2026-01-23T00:18:22+05:30",
+    "locations": [
+      {
+        "lat": 28.667,
+        "lon": 77.081,
+        "region_id": "2001152",
+        "district_id": "5328351",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
