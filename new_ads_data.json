@@ -1,7 +1,7 @@
 [
   {
-    "id": "1833152233",
-    "score": 0.8307692307692308,
+    "id": "1833154409",
+    "score": 0.9090909090909091,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
@@ -23,29 +23,29 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1833152233",
+    "ad_id": "1833154409",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
     },
     "user_tag": "olx disapproved",
-    "user_name": "OLX User",
+    "user_name": "Lakshya",
     "has_phone_param": false,
-    "description": "only ps4 light showing \nthen i didn't use from that day\n500GB",
-    "created_at": "2026-01-26T10:31:46+05:30",
+    "description": "We can deliver this to your door step \n1 tb\nWith one controller \nNo damage \nPrice is low and fixed",
+    "created_at": "2026-01-26T11:04:13+05:30",
     "videos": [],
-    "title": "Ps4 with console , not working",
+    "title": "Ps4 fat Pre owned",
     "buyer_id": "0",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 14999.0,
+        "raw": 15999.0,
         "currency": {
           "iso_4217": "INR",
           "pre": "\u20b9"
         },
-        "display": "\u20b9 14,999"
+        "display": "\u20b9 15,999"
       },
       "key_name": "Price",
       "key": "price"
@@ -53,57 +53,84 @@
     "is_business": false,
     "images": [
       {
-        "id": "1991060479",
-        "external_id": "a2zw3tp8k9se-IN",
-        "width": 811,
+        "id": "1991070799",
+        "external_id": "pi258f4eoh182-IN",
+        "width": 919,
         "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/a2zw3tp8k9se-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/pi258f4eoh182-IN/image",
         "full": {
           "width": 1080,
-          "height": 1438,
-          "url": "https://apollo.olx.in:443/v1/files/a2zw3tp8k9se-IN/image;s=1080x1438"
+          "height": 1269,
+          "url": "https://apollo.olx.in:443/v1/files/pi258f4eoh182-IN/image;s=1080x1269"
         },
         "big": {
           "width": 505,
-          "height": 672,
-          "url": "https://apollo.olx.in:443/v1/files/a2zw3tp8k9se-IN/image;s=505x672"
+          "height": 593,
+          "url": "https://apollo.olx.in:443/v1/files/pi258f4eoh182-IN/image;s=505x593"
         },
         "medium": {
           "width": 120,
-          "height": 159,
-          "url": "https://apollo.olx.in:443/v1/files/a2zw3tp8k9se-IN/image;s=120x159"
+          "height": 141,
+          "url": "https://apollo.olx.in:443/v1/files/pi258f4eoh182-IN/image;s=120x141"
         },
         "small": {
           "width": 120,
-          "height": 159,
-          "url": "https://apollo.olx.in:443/v1/files/a2zw3tp8k9se-IN/image;s=120x159"
+          "height": 141,
+          "url": "https://apollo.olx.in:443/v1/files/pi258f4eoh182-IN/image;s=120x141"
         }
       },
       {
-        "id": "1991060480",
-        "external_id": "0qw6axnwx2jb2-IN",
-        "width": 812,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/0qw6axnwx2jb2-IN/image",
+        "id": "1991070800",
+        "external_id": "spnjtli7620k3-IN",
+        "width": 1080,
+        "height": 993,
+        "url": "https://apollo.olx.in:443/v1/files/spnjtli7620k3-IN/image",
         "full": {
           "width": 1080,
-          "height": 1436,
-          "url": "https://apollo.olx.in:443/v1/files/0qw6axnwx2jb2-IN/image;s=1080x1436"
+          "height": 993,
+          "url": "https://apollo.olx.in:443/v1/files/spnjtli7620k3-IN/image;s=1080x993"
         },
         "big": {
           "width": 505,
-          "height": 671,
-          "url": "https://apollo.olx.in:443/v1/files/0qw6axnwx2jb2-IN/image;s=505x671"
+          "height": 464,
+          "url": "https://apollo.olx.in:443/v1/files/spnjtli7620k3-IN/image;s=505x464"
         },
         "medium": {
           "width": 120,
-          "height": 159,
-          "url": "https://apollo.olx.in:443/v1/files/0qw6axnwx2jb2-IN/image;s=120x159"
+          "height": 110,
+          "url": "https://apollo.olx.in:443/v1/files/spnjtli7620k3-IN/image;s=120x110"
         },
         "small": {
           "width": 120,
-          "height": 159,
-          "url": "https://apollo.olx.in:443/v1/files/0qw6axnwx2jb2-IN/image;s=120x159"
+          "height": 110,
+          "url": "https://apollo.olx.in:443/v1/files/spnjtli7620k3-IN/image;s=120x110"
+        }
+      },
+      {
+        "id": "1991070801",
+        "external_id": "rdvlgwt7q9p01-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/rdvlgwt7q9p01-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/rdvlgwt7q9p01-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/rdvlgwt7q9p01-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/rdvlgwt7q9p01-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/rdvlgwt7q9p01-IN/image;s=120x90"
         }
       }
     ],
@@ -116,29 +143,29 @@
       "ADMIN_LEVEL_1_name": "Delhi",
       "ADMIN_LEVEL_3_id": "4058659",
       "ADMIN_LEVEL_3_name": "Delhi",
-      "SUBLOCALITY_LEVEL_1_id": "5392669",
-      "SUBLOCALITY_LEVEL_1_name": "Abul Fazal Enclave Part 2"
+      "SUBLOCALITY_LEVEL_1_id": "5328164",
+      "SUBLOCALITY_LEVEL_1_name": "Maksudabad"
     },
     "dealer_showroom_enabled": false,
     "artificial_boost": false,
-    "display_date": "2026-01-26T05:02:45+0000",
+    "display_date": "2026-01-26T05:24:41+0000",
     "isSpinViewAvailable": false,
-    "user_id": "635246239",
-    "created_at_first": "2026-01-26T10:31:46+05:30",
+    "user_id": "469922708",
+    "created_at_first": "2026-01-26T10:53:42+05:30",
     "locations": [
       {
-        "lat": 28.549,
-        "lon": 77.299,
+        "lat": 28.619,
+        "lon": 76.987,
         "region_id": "2001152",
-        "district_id": "5392669",
+        "district_id": "5328164",
         "city_id": "4058659"
       }
     ],
     "parameters": []
   },
   {
-    "id": "1833152233",
-    "score": 0.9736842105263158,
+    "id": "1833154409",
+    "score": 0.9743589743589743,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
@@ -160,29 +187,29 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1833152233",
+    "ad_id": "1833154409",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
     },
     "user_tag": "olx disapproved",
-    "user_name": "OLX User",
+    "user_name": "Lakshya",
     "has_phone_param": false,
-    "description": "only ps4 light showing \nthen i didn't use from that day\n500GB",
-    "created_at": "2026-01-26T10:31:46+05:30",
+    "description": "We can deliver this to your door step \n1 tb\nWith one controller \nNo damage \nPrice is low and fixed",
+    "created_at": "2026-01-26T11:04:13+05:30",
     "videos": [],
-    "title": "Ps4 with console , not working",
+    "title": "Ps4 fat Pre owned",
     "buyer_id": "0",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 14999.0,
+        "raw": 15999.0,
         "currency": {
           "iso_4217": "INR",
           "pre": "\u20b9"
         },
-        "display": "\u20b9 14,999"
+        "display": "\u20b9 15,999"
       },
       "key_name": "Price",
       "key": "price"
@@ -190,57 +217,84 @@
     "is_business": false,
     "images": [
       {
-        "id": "1991060479",
-        "external_id": "a2zw3tp8k9se-IN",
-        "width": 811,
+        "id": "1991070799",
+        "external_id": "pi258f4eoh182-IN",
+        "width": 919,
         "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/a2zw3tp8k9se-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/pi258f4eoh182-IN/image",
         "full": {
           "width": 1080,
-          "height": 1438,
-          "url": "https://apollo.olx.in:443/v1/files/a2zw3tp8k9se-IN/image;s=1080x1438"
+          "height": 1269,
+          "url": "https://apollo.olx.in:443/v1/files/pi258f4eoh182-IN/image;s=1080x1269"
         },
         "big": {
           "width": 505,
-          "height": 672,
-          "url": "https://apollo.olx.in:443/v1/files/a2zw3tp8k9se-IN/image;s=505x672"
+          "height": 593,
+          "url": "https://apollo.olx.in:443/v1/files/pi258f4eoh182-IN/image;s=505x593"
         },
         "medium": {
           "width": 120,
-          "height": 159,
-          "url": "https://apollo.olx.in:443/v1/files/a2zw3tp8k9se-IN/image;s=120x159"
+          "height": 141,
+          "url": "https://apollo.olx.in:443/v1/files/pi258f4eoh182-IN/image;s=120x141"
         },
         "small": {
           "width": 120,
-          "height": 159,
-          "url": "https://apollo.olx.in:443/v1/files/a2zw3tp8k9se-IN/image;s=120x159"
+          "height": 141,
+          "url": "https://apollo.olx.in:443/v1/files/pi258f4eoh182-IN/image;s=120x141"
         }
       },
       {
-        "id": "1991060480",
-        "external_id": "0qw6axnwx2jb2-IN",
-        "width": 812,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/0qw6axnwx2jb2-IN/image",
+        "id": "1991070800",
+        "external_id": "spnjtli7620k3-IN",
+        "width": 1080,
+        "height": 993,
+        "url": "https://apollo.olx.in:443/v1/files/spnjtli7620k3-IN/image",
         "full": {
           "width": 1080,
-          "height": 1436,
-          "url": "https://apollo.olx.in:443/v1/files/0qw6axnwx2jb2-IN/image;s=1080x1436"
+          "height": 993,
+          "url": "https://apollo.olx.in:443/v1/files/spnjtli7620k3-IN/image;s=1080x993"
         },
         "big": {
           "width": 505,
-          "height": 671,
-          "url": "https://apollo.olx.in:443/v1/files/0qw6axnwx2jb2-IN/image;s=505x671"
+          "height": 464,
+          "url": "https://apollo.olx.in:443/v1/files/spnjtli7620k3-IN/image;s=505x464"
         },
         "medium": {
           "width": 120,
-          "height": 159,
-          "url": "https://apollo.olx.in:443/v1/files/0qw6axnwx2jb2-IN/image;s=120x159"
+          "height": 110,
+          "url": "https://apollo.olx.in:443/v1/files/spnjtli7620k3-IN/image;s=120x110"
         },
         "small": {
           "width": 120,
-          "height": 159,
-          "url": "https://apollo.olx.in:443/v1/files/0qw6axnwx2jb2-IN/image;s=120x159"
+          "height": 110,
+          "url": "https://apollo.olx.in:443/v1/files/spnjtli7620k3-IN/image;s=120x110"
+        }
+      },
+      {
+        "id": "1991070801",
+        "external_id": "rdvlgwt7q9p01-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/rdvlgwt7q9p01-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/rdvlgwt7q9p01-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/rdvlgwt7q9p01-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/rdvlgwt7q9p01-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/rdvlgwt7q9p01-IN/image;s=120x90"
         }
       }
     ],
@@ -253,21 +307,21 @@
       "ADMIN_LEVEL_1_name": "Delhi",
       "ADMIN_LEVEL_3_id": "4058659",
       "ADMIN_LEVEL_3_name": "Delhi",
-      "SUBLOCALITY_LEVEL_1_id": "5392669",
-      "SUBLOCALITY_LEVEL_1_name": "Abul Fazal Enclave Part 2"
+      "SUBLOCALITY_LEVEL_1_id": "5328164",
+      "SUBLOCALITY_LEVEL_1_name": "Maksudabad"
     },
     "dealer_showroom_enabled": false,
     "artificial_boost": false,
-    "display_date": "2026-01-26T05:02:45+0000",
+    "display_date": "2026-01-26T05:24:41+0000",
     "isSpinViewAvailable": false,
-    "user_id": "635246239",
-    "created_at_first": "2026-01-26T10:31:46+05:30",
+    "user_id": "469922708",
+    "created_at_first": "2026-01-26T10:53:42+05:30",
     "locations": [
       {
-        "lat": 28.549,
-        "lon": 77.299,
+        "lat": 28.619,
+        "lon": 76.987,
         "region_id": "2001152",
-        "district_id": "5392669",
+        "district_id": "5328164",
         "city_id": "4058659"
       }
     ],
