@@ -1,1 +1,220 @@
-[]
+[
+  {
+    "id": "1833317408",
+    "score": 0.819672131147541,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1833317408",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Jaivardhan Narwal ",
+    "has_phone_param": false,
+    "description": "25 ps4 titles that are completely in perfectly working condition well kept and mindfully curated throughout the years by a gaming enthusiast.",
+    "created_at": "2026-01-27T21:34:38+05:30",
+    "videos": [],
+    "title": "25 collectible ps4 games Collection",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 15000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 15,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1991893904",
+        "external_id": "njl9q02hc2731-IN",
+        "width": 1080,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/njl9q02hc2731-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://apollo.olx.in:443/v1/files/njl9q02hc2731-IN/image;s=1080x1080"
+        },
+        "big": {
+          "width": 505,
+          "height": 505,
+          "url": "https://apollo.olx.in:443/v1/files/njl9q02hc2731-IN/image;s=505x505"
+        },
+        "medium": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/njl9q02hc2731-IN/image;s=120x120"
+        },
+        "small": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/njl9q02hc2731-IN/image;s=120x120"
+        }
+      },
+      {
+        "id": "1991893905",
+        "external_id": "97tqii8a0e95-IN",
+        "width": 1080,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/97tqii8a0e95-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://apollo.olx.in:443/v1/files/97tqii8a0e95-IN/image;s=1080x1080"
+        },
+        "big": {
+          "width": 505,
+          "height": 505,
+          "url": "https://apollo.olx.in:443/v1/files/97tqii8a0e95-IN/image;s=505x505"
+        },
+        "medium": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/97tqii8a0e95-IN/image;s=120x120"
+        },
+        "small": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/97tqii8a0e95-IN/image;s=120x120"
+        }
+      },
+      {
+        "id": "1991893906",
+        "external_id": "xbpzb8irxszt-IN",
+        "width": 1080,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/xbpzb8irxszt-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://apollo.olx.in:443/v1/files/xbpzb8irxszt-IN/image;s=1080x1080"
+        },
+        "big": {
+          "width": 505,
+          "height": 505,
+          "url": "https://apollo.olx.in:443/v1/files/xbpzb8irxszt-IN/image;s=505x505"
+        },
+        "medium": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/xbpzb8irxszt-IN/image;s=120x120"
+        },
+        "small": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/xbpzb8irxszt-IN/image;s=120x120"
+        }
+      },
+      {
+        "id": "1991893907",
+        "external_id": "l6tueljdwpdn2-IN",
+        "width": 1080,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/l6tueljdwpdn2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://apollo.olx.in:443/v1/files/l6tueljdwpdn2-IN/image;s=1080x1080"
+        },
+        "big": {
+          "width": 505,
+          "height": 505,
+          "url": "https://apollo.olx.in:443/v1/files/l6tueljdwpdn2-IN/image;s=505x505"
+        },
+        "medium": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/l6tueljdwpdn2-IN/image;s=120x120"
+        },
+        "small": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/l6tueljdwpdn2-IN/image;s=120x120"
+        }
+      },
+      {
+        "id": "1991893908",
+        "external_id": "hkveawjq8tfm1-IN",
+        "width": 1080,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/hkveawjq8tfm1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1080,
+          "url": "https://apollo.olx.in:443/v1/files/hkveawjq8tfm1-IN/image;s=1080x1080"
+        },
+        "big": {
+          "width": 505,
+          "height": 505,
+          "url": "https://apollo.olx.in:443/v1/files/hkveawjq8tfm1-IN/image;s=505x505"
+        },
+        "medium": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/hkveawjq8tfm1-IN/image;s=120x120"
+        },
+        "small": {
+          "width": 120,
+          "height": 120,
+          "url": "https://apollo.olx.in:443/v1/files/hkveawjq8tfm1-IN/image;s=120x120"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4387779",
+      "ADMIN_LEVEL_3_name": "Faridabad",
+      "SUBLOCALITY_LEVEL_1_id": "5460521",
+      "SUBLOCALITY_LEVEL_1_name": "Green Fields"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-27T16:05:36+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "635678769",
+    "created_at_first": "2026-01-27T21:34:38+05:30",
+    "locations": [
+      {
+        "lat": 28.465,
+        "lon": 77.291,
+        "region_id": "2001155",
+        "district_id": "5460521",
+        "city_id": "4387779"
+      }
+    ],
+    "parameters": []
+  }
+]
