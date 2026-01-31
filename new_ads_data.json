@@ -1,1 +1,139 @@
-[]
+[
+  {
+    "id": "1833643069",
+    "score": 0.9074074074074074,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1833643069",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Sudhanshu",
+    "has_phone_param": false,
+    "description": "Perfect condition with CDs",
+    "created_at": "2026-01-31T12:40:18+05:30",
+    "videos": [],
+    "title": "Ps4-slim ( play station sony )",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 16999.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 16,999"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1993553324",
+        "external_id": "1pjy8p51pusk-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/1pjy8p51pusk-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/1pjy8p51pusk-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/1pjy8p51pusk-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/1pjy8p51pusk-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/1pjy8p51pusk-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1993553325",
+        "external_id": "27dyt0unfikj1-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/27dyt0unfikj1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/27dyt0unfikj1-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/27dyt0unfikj1-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/27dyt0unfikj1-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/27dyt0unfikj1-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4058748",
+      "ADMIN_LEVEL_3_name": "Gurgaon",
+      "SUBLOCALITY_LEVEL_1_id": "5309557",
+      "SUBLOCALITY_LEVEL_1_name": "Garden Estate"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-01-31T07:11:17+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "133418943",
+    "created_at_first": "2026-01-31T12:40:18+05:30",
+    "locations": [
+      {
+        "lat": 28.483,
+        "lon": 77.1,
+        "region_id": "2001155",
+        "district_id": "5309557",
+        "city_id": "4058748"
+      }
+    ],
+    "parameters": []
+  }
+]
