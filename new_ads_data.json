@@ -1,1 +1,820 @@
-[]
+[
+  {
+    "id": "1820434295",
+    "score": 0.8181818181818182,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1820434295",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Vikas",
+    "has_phone_param": false,
+    "description": "We are selling ps4 games first was God of war second the witcher wild 3 hunt",
+    "created_at": "2026-02-02T00:14:16+05:30",
+    "videos": [],
+    "title": "Ps4 games entertainment",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 3000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 3,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1926617666",
+        "external_id": "zi3sig8xgg0g2-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/zi3sig8xgg0g2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/zi3sig8xgg0g2-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/zi3sig8xgg0g2-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/zi3sig8xgg0g2-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/zi3sig8xgg0g2-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1926617667",
+        "external_id": "glqbdosjndsc2-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/glqbdosjndsc2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/glqbdosjndsc2-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/glqbdosjndsc2-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/glqbdosjndsc2-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/glqbdosjndsc2-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1926617668",
+        "external_id": "yz1zaec5o1jh2-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/yz1zaec5o1jh2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/yz1zaec5o1jh2-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/yz1zaec5o1jh2-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/yz1zaec5o1jh2-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/yz1zaec5o1jh2-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1926617669",
+        "external_id": "0xcdgs7buvyb2-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/0xcdgs7buvyb2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/0xcdgs7buvyb2-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/0xcdgs7buvyb2-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/0xcdgs7buvyb2-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/0xcdgs7buvyb2-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1926617670",
+        "external_id": "vg62zn8u5ub1-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/vg62zn8u5ub1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/vg62zn8u5ub1-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/vg62zn8u5ub1-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/vg62zn8u5ub1-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/vg62zn8u5ub1-IN/image;s=120x213"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328071",
+      "SUBLOCALITY_LEVEL_1_name": "Dashrathpuri"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-01T18:45:20+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "628458652",
+    "created_at_first": "2025-09-17T17:26:34+05:30",
+    "locations": [
+      {
+        "lat": 28.605,
+        "lon": 77.085,
+        "region_id": "2001152",
+        "district_id": "5328071",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1820434295",
+    "score": 0.9655172413793104,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1820434295",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Vikas",
+    "has_phone_param": false,
+    "description": "We are selling ps4 games first was God of war second the witcher wild 3 hunt",
+    "created_at": "2026-02-02T00:14:16+05:30",
+    "videos": [],
+    "title": "Ps4 games entertainment",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 3000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 3,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1926617666",
+        "external_id": "zi3sig8xgg0g2-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/zi3sig8xgg0g2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/zi3sig8xgg0g2-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/zi3sig8xgg0g2-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/zi3sig8xgg0g2-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/zi3sig8xgg0g2-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1926617667",
+        "external_id": "glqbdosjndsc2-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/glqbdosjndsc2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/glqbdosjndsc2-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/glqbdosjndsc2-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/glqbdosjndsc2-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/glqbdosjndsc2-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1926617668",
+        "external_id": "yz1zaec5o1jh2-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/yz1zaec5o1jh2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/yz1zaec5o1jh2-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/yz1zaec5o1jh2-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/yz1zaec5o1jh2-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/yz1zaec5o1jh2-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1926617669",
+        "external_id": "0xcdgs7buvyb2-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/0xcdgs7buvyb2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/0xcdgs7buvyb2-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/0xcdgs7buvyb2-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/0xcdgs7buvyb2-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/0xcdgs7buvyb2-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "1926617670",
+        "external_id": "vg62zn8u5ub1-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/vg62zn8u5ub1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/vg62zn8u5ub1-IN/image;s=1080x1921"
+        },
+        "big": {
+          "width": 505,
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/vg62zn8u5ub1-IN/image;s=505x898"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/vg62zn8u5ub1-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/vg62zn8u5ub1-IN/image;s=120x213"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328071",
+      "SUBLOCALITY_LEVEL_1_name": "Dashrathpuri"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-01T18:45:20+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "628458652",
+    "created_at_first": "2025-09-17T17:26:34+05:30",
+    "locations": [
+      {
+        "lat": 28.605,
+        "lon": 77.085,
+        "region_id": "2001152",
+        "district_id": "5328071",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1833799117",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1833799117",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Ishaan gaur",
+    "has_phone_param": false,
+    "description": "Xbox series s\n512 gb\nWhite colour \nConsole is in good condition\nFew accessories like joystick pads, 2 silicone controllers covers, Console dust cover",
+    "created_at": "2026-02-02T00:21:21+05:30",
+    "videos": [],
+    "title": "Xbox series s (512 GB)",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 17000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 17,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1994357322",
+        "external_id": "sclrgmg1aloh3-IN",
+        "width": 548,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/sclrgmg1aloh3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2128,
+          "url": "https://apollo.olx.in:443/v1/files/sclrgmg1aloh3-IN/image;s=1080x2128"
+        },
+        "big": {
+          "width": 505,
+          "height": 995,
+          "url": "https://apollo.olx.in:443/v1/files/sclrgmg1aloh3-IN/image;s=505x995"
+        },
+        "medium": {
+          "width": 120,
+          "height": 236,
+          "url": "https://apollo.olx.in:443/v1/files/sclrgmg1aloh3-IN/image;s=120x236"
+        },
+        "small": {
+          "width": 120,
+          "height": 236,
+          "url": "https://apollo.olx.in:443/v1/files/sclrgmg1aloh3-IN/image;s=120x236"
+        }
+      },
+      {
+        "id": "1994357323",
+        "external_id": "17qmvnwuvnaj2-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/17qmvnwuvnaj2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/17qmvnwuvnaj2-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/17qmvnwuvnaj2-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/17qmvnwuvnaj2-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/17qmvnwuvnaj2-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1994357324",
+        "external_id": "nztvh7ft4rxp3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/nztvh7ft4rxp3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/nztvh7ft4rxp3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/nztvh7ft4rxp3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/nztvh7ft4rxp3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/nztvh7ft4rxp3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1994357325",
+        "external_id": "32mno2b1kg6s3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/32mno2b1kg6s3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/32mno2b1kg6s3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/32mno2b1kg6s3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/32mno2b1kg6s3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/32mno2b1kg6s3-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328226",
+      "SUBLOCALITY_LEVEL_1_name": "Jia Sarai"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-01T18:52:26+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "630929004",
+    "created_at_first": "2026-02-02T00:21:21+05:30",
+    "locations": [
+      {
+        "lat": 28.546,
+        "lon": 77.189,
+        "region_id": "2001152",
+        "district_id": "5328226",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1833799117",
+    "score": 0.5833333333333334,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1833799117",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Ishaan gaur",
+    "has_phone_param": false,
+    "description": "Xbox series s\n512 gb\nWhite colour \nConsole is in good condition\nFew accessories like joystick pads, 2 silicone controllers covers, Console dust cover",
+    "created_at": "2026-02-02T00:21:21+05:30",
+    "videos": [],
+    "title": "Xbox series s (512 GB)",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 17000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 17,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1994357322",
+        "external_id": "sclrgmg1aloh3-IN",
+        "width": 548,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/sclrgmg1aloh3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2128,
+          "url": "https://apollo.olx.in:443/v1/files/sclrgmg1aloh3-IN/image;s=1080x2128"
+        },
+        "big": {
+          "width": 505,
+          "height": 995,
+          "url": "https://apollo.olx.in:443/v1/files/sclrgmg1aloh3-IN/image;s=505x995"
+        },
+        "medium": {
+          "width": 120,
+          "height": 236,
+          "url": "https://apollo.olx.in:443/v1/files/sclrgmg1aloh3-IN/image;s=120x236"
+        },
+        "small": {
+          "width": 120,
+          "height": 236,
+          "url": "https://apollo.olx.in:443/v1/files/sclrgmg1aloh3-IN/image;s=120x236"
+        }
+      },
+      {
+        "id": "1994357323",
+        "external_id": "17qmvnwuvnaj2-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/17qmvnwuvnaj2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/17qmvnwuvnaj2-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/17qmvnwuvnaj2-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/17qmvnwuvnaj2-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/17qmvnwuvnaj2-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1994357324",
+        "external_id": "nztvh7ft4rxp3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/nztvh7ft4rxp3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/nztvh7ft4rxp3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/nztvh7ft4rxp3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/nztvh7ft4rxp3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/nztvh7ft4rxp3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1994357325",
+        "external_id": "32mno2b1kg6s3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/32mno2b1kg6s3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/32mno2b1kg6s3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/32mno2b1kg6s3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/32mno2b1kg6s3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/32mno2b1kg6s3-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328226",
+      "SUBLOCALITY_LEVEL_1_name": "Jia Sarai"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-01T18:52:26+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "630929004",
+    "created_at_first": "2026-02-02T00:21:21+05:30",
+    "locations": [
+      {
+        "lat": 28.546,
+        "lon": 77.189,
+        "region_id": "2001152",
+        "district_id": "5328226",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
