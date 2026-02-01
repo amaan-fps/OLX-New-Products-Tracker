@@ -1,7 +1,7 @@
 [
   {
-    "id": "1813654538",
-    "score": 0.7857142857142857,
+    "id": "1833728791",
+    "score": 0.6363636363636364,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
@@ -23,31 +23,29 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1813654538",
+    "ad_id": "1833728791",
     "favorites": {
-      "count": 3,
-      "count_label": "3",
-      "count_label_next": "4",
-      "count_label_prev": "2"
+      "count": 0,
+      "count_label_next": "1"
     },
     "user_tag": "olx disapproved",
-    "user_name": "Sorav",
+    "user_name": "OLX User",
     "has_phone_param": false,
-    "description": "Selling PS4 Brand New Product\n\n- Brand New\n- Installed Games - Gta 5, A way Out, Football, It Takes Two\n- No Scratches \n- 12.00 Version\n- Can and Play all Games For Free\n- Sealed Piece Very less Used \n- With duplicate 1 Controller \n- No issue\n- White Premium Model \n- Never Repaired as Brand New\n- 12 months old\n\nSeling because no one plays on it. You can play all games for Free\n\nContact To Purchase",
-    "created_at": "2026-02-01T10:21:55+05:30",
+    "description": "Ps4 slim 14 games download version 11.50 price fix",
+    "created_at": "2026-02-01T11:54:13+05:30",
     "videos": [],
-    "title": "PS4 Slim 500gb Console Brand New White Sealed 12.00 Version with Games",
+    "title": "PlayStation 4 slim 1 tb",
     "buyer_id": "0",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 18500.0,
+        "raw": 19000.0,
         "currency": {
           "iso_4217": "INR",
           "pre": "\u20b9"
         },
-        "display": "\u20b9 18,500"
+        "display": "\u20b9 19,000"
       },
       "key_name": "Price",
       "key": "price"
@@ -55,111 +53,30 @@
     "is_business": false,
     "images": [
       {
-        "id": "1892658052",
-        "external_id": "284jv180f68c-IN",
-        "width": 885,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/284jv180f68c-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1317,
-          "url": "https://apollo.olx.in:443/v1/files/284jv180f68c-IN/image;s=1080x1317"
-        },
-        "big": {
-          "width": 505,
-          "height": 616,
-          "url": "https://apollo.olx.in:443/v1/files/284jv180f68c-IN/image;s=505x616"
-        },
-        "medium": {
-          "width": 120,
-          "height": 146,
-          "url": "https://apollo.olx.in:443/v1/files/284jv180f68c-IN/image;s=120x146"
-        },
-        "small": {
-          "width": 120,
-          "height": 146,
-          "url": "https://apollo.olx.in:443/v1/files/284jv180f68c-IN/image;s=120x146"
-        }
-      },
-      {
-        "id": "1892658053",
-        "external_id": "oe7d9ll67u9i-IN",
+        "id": "1993995757",
+        "external_id": "qktctjl8pbf3-IN",
         "width": 810,
         "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/oe7d9ll67u9i-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/qktctjl8pbf3-IN/image",
         "full": {
           "width": 1080,
           "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/oe7d9ll67u9i-IN/image;s=1080x1440"
+          "url": "https://apollo.olx.in:443/v1/files/qktctjl8pbf3-IN/image;s=1080x1440"
         },
         "big": {
           "width": 505,
           "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/oe7d9ll67u9i-IN/image;s=505x673"
+          "url": "https://apollo.olx.in:443/v1/files/qktctjl8pbf3-IN/image;s=505x673"
         },
         "medium": {
           "width": 120,
           "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/oe7d9ll67u9i-IN/image;s=120x160"
+          "url": "https://apollo.olx.in:443/v1/files/qktctjl8pbf3-IN/image;s=120x160"
         },
         "small": {
           "width": 120,
           "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/oe7d9ll67u9i-IN/image;s=120x160"
-        }
-      },
-      {
-        "id": "1892658054",
-        "external_id": "g2o60fd3cby11-IN",
-        "width": 1080,
-        "height": 905,
-        "url": "https://apollo.olx.in:443/v1/files/g2o60fd3cby11-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 905,
-          "url": "https://apollo.olx.in:443/v1/files/g2o60fd3cby11-IN/image;s=1080x905"
-        },
-        "big": {
-          "width": 505,
-          "height": 423,
-          "url": "https://apollo.olx.in:443/v1/files/g2o60fd3cby11-IN/image;s=505x423"
-        },
-        "medium": {
-          "width": 120,
-          "height": 100,
-          "url": "https://apollo.olx.in:443/v1/files/g2o60fd3cby11-IN/image;s=120x100"
-        },
-        "small": {
-          "width": 120,
-          "height": 100,
-          "url": "https://apollo.olx.in:443/v1/files/g2o60fd3cby11-IN/image;s=120x100"
-        }
-      },
-      {
-        "id": "1892658055",
-        "external_id": "6zn7pcxoxsp3-IN",
-        "width": 1080,
-        "height": 965,
-        "url": "https://apollo.olx.in:443/v1/files/6zn7pcxoxsp3-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 965,
-          "url": "https://apollo.olx.in:443/v1/files/6zn7pcxoxsp3-IN/image;s=1080x965"
-        },
-        "big": {
-          "width": 505,
-          "height": 451,
-          "url": "https://apollo.olx.in:443/v1/files/6zn7pcxoxsp3-IN/image;s=505x451"
-        },
-        "medium": {
-          "width": 120,
-          "height": 107,
-          "url": "https://apollo.olx.in:443/v1/files/6zn7pcxoxsp3-IN/image;s=120x107"
-        },
-        "small": {
-          "width": 120,
-          "height": 107,
-          "url": "https://apollo.olx.in:443/v1/files/6zn7pcxoxsp3-IN/image;s=120x107"
+          "url": "https://apollo.olx.in:443/v1/files/qktctjl8pbf3-IN/image;s=120x160"
         }
       }
     ],
@@ -168,26 +85,410 @@
     "locations_resolved": {
       "COUNTRY_id": "1000001",
       "COUNTRY_name": "India",
-      "ADMIN_LEVEL_1_id": "2001155",
-      "ADMIN_LEVEL_1_name": "Haryana",
-      "ADMIN_LEVEL_3_id": "4387779",
-      "ADMIN_LEVEL_3_name": "Faridabad",
-      "SUBLOCALITY_LEVEL_1_id": "5309397",
-      "SUBLOCALITY_LEVEL_1_name": "Sector 48"
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327606",
+      "SUBLOCALITY_LEVEL_1_name": "Wazirabad"
     },
     "dealer_showroom_enabled": false,
     "artificial_boost": false,
-    "display_date": "2026-02-01T04:34:29+0000",
+    "display_date": "2026-02-01T06:25:20+0000",
     "isSpinViewAvailable": false,
-    "user_id": "498998331",
-    "created_at_first": "2025-07-16T11:02:31+05:30",
+    "user_id": "616920964",
+    "created_at_first": "2026-02-01T11:54:13+05:30",
     "locations": [
       {
-        "lat": 28.406,
-        "lon": 77.288,
-        "region_id": "2001155",
-        "district_id": "5309397",
-        "city_id": "4387779"
+        "lat": 28.724,
+        "lon": 77.224,
+        "region_id": "2001152",
+        "district_id": "5327606",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1833725186",
+    "score": 0.7894736842105263,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1833725186",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Gaurav Sardar",
+    "has_phone_param": false,
+    "description": "Selling my PlayStation 4 Slim (1TB) in excellent / almost brand-new condition.\nVery lightly used and well maintained, no scratches, no overheating, no repairs.\n\n- What\u2019s Included\n\t\u2022\tPS4 Slim Console (1TB Storage)\n\t\u2022\tOriginal Wireless Controller\n\t\u2022\tOriginal Box\n\t\u2022\tPower Cable\n\n- Condition\n\t\u2022\tLooks and works like new\n\t\u2022\tBarely used, kept dust-free\n\t\u2022\tController in perfect working condition.\n\t\u2022\tNever opened or repaired\n\n- Reason for Selling\nNot getting enough time to play.",
+    "created_at": "2026-02-01T11:22:50+05:30",
+    "videos": [],
+    "title": "PS4 Slim ( 1 TB ) with box and controller",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 14999.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 14,999"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1993977967",
+        "external_id": "5gmxaiae0vvp3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/5gmxaiae0vvp3-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/5gmxaiae0vvp3-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/5gmxaiae0vvp3-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/5gmxaiae0vvp3-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/5gmxaiae0vvp3-IN/image;s=120x160;w=shot-on-olx"
+        }
+      },
+      {
+        "id": "1993977968",
+        "external_id": "knaymz8vgr963-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/knaymz8vgr963-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/knaymz8vgr963-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/knaymz8vgr963-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/knaymz8vgr963-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/knaymz8vgr963-IN/image;s=120x160;w=shot-on-olx"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327792",
+      "SUBLOCALITY_LEVEL_1_name": "Pitampura"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-01T05:53:52+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "409778763",
+    "created_at_first": "2026-02-01T11:22:50+05:30",
+    "locations": [
+      {
+        "lat": 28.691,
+        "lon": 77.119,
+        "region_id": "2001152",
+        "district_id": "5327792",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1833728791",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1833728791",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "OLX User",
+    "has_phone_param": false,
+    "description": "Ps4 slim 14 games download version 11.50 price fix",
+    "created_at": "2026-02-01T11:54:13+05:30",
+    "videos": [],
+    "title": "PlayStation 4 slim 1 tb",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 19000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 19,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1993995757",
+        "external_id": "qktctjl8pbf3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/qktctjl8pbf3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/qktctjl8pbf3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/qktctjl8pbf3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/qktctjl8pbf3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/qktctjl8pbf3-IN/image;s=120x160"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327606",
+      "SUBLOCALITY_LEVEL_1_name": "Wazirabad"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-01T06:25:20+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "616920964",
+    "created_at_first": "2026-02-01T11:54:13+05:30",
+    "locations": [
+      {
+        "lat": 28.724,
+        "lon": 77.224,
+        "region_id": "2001152",
+        "district_id": "5327606",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1833725186",
+    "score": 0.9642857142857143,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1833725186",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Gaurav Sardar",
+    "has_phone_param": false,
+    "description": "Selling my PlayStation 4 Slim (1TB) in excellent / almost brand-new condition.\nVery lightly used and well maintained, no scratches, no overheating, no repairs.\n\n- What\u2019s Included\n\t\u2022\tPS4 Slim Console (1TB Storage)\n\t\u2022\tOriginal Wireless Controller\n\t\u2022\tOriginal Box\n\t\u2022\tPower Cable\n\n- Condition\n\t\u2022\tLooks and works like new\n\t\u2022\tBarely used, kept dust-free\n\t\u2022\tController in perfect working condition.\n\t\u2022\tNever opened or repaired\n\n- Reason for Selling\nNot getting enough time to play.",
+    "created_at": "2026-02-01T11:22:50+05:30",
+    "videos": [],
+    "title": "PS4 Slim ( 1 TB ) with box and controller",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 14999.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 14,999"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1993977967",
+        "external_id": "5gmxaiae0vvp3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/5gmxaiae0vvp3-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/5gmxaiae0vvp3-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/5gmxaiae0vvp3-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/5gmxaiae0vvp3-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/5gmxaiae0vvp3-IN/image;s=120x160;w=shot-on-olx"
+        }
+      },
+      {
+        "id": "1993977968",
+        "external_id": "knaymz8vgr963-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/knaymz8vgr963-IN/image;w=shot-on-olx",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/knaymz8vgr963-IN/image;s=1080x1440;w=shot-on-olx"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/knaymz8vgr963-IN/image;s=505x673;w=shot-on-olx"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/knaymz8vgr963-IN/image;s=120x160;w=shot-on-olx"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/knaymz8vgr963-IN/image;s=120x160;w=shot-on-olx"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327792",
+      "SUBLOCALITY_LEVEL_1_name": "Pitampura"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-01T05:53:52+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "409778763",
+    "created_at_first": "2026-02-01T11:22:50+05:30",
+    "locations": [
+      {
+        "lat": 28.691,
+        "lon": 77.119,
+        "region_id": "2001152",
+        "district_id": "5327792",
+        "city_id": "4058659"
       }
     ],
     "parameters": []
