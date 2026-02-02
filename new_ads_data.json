@@ -1,7 +1,7 @@
 [
   {
-    "id": "1833636476",
-    "score": 0.7272727272727273,
+    "id": "1833823157",
+    "score": 1.0,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
@@ -23,141 +23,85 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1833636476",
+    "ad_id": "1833823157",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
     },
     "user_tag": "olx disapproved",
-    "user_name": "Ashish ",
     "has_phone_param": false,
-    "description": "Only controller bill box not available",
-    "created_at": "2026-02-02T11:14:06+05:30",
-    "videos": [],
-    "title": "PS4 controller 100% original",
-    "buyer_id": "0",
+    "description": "With Bill and box with all working features \nPlayed hardly 3-4 times due to busy schedule\nIncludes 2 gaming controllers\nIn very good condition \nJust like new",
+    "created_at": "2026-02-02T11:53:14+05:30",
+    "video_status": false,
+    "title": "Xbox Series S \u2013 Fortnite & Rocket League Bundle",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 3000.0,
+        "raw": 20000.0,
         "currency": {
           "iso_4217": "INR",
-          "pre": "\u20b9"
+          "pre": "\u20b9",
+          "locale": "hi_IN"
         },
-        "display": "\u20b9 3,000"
+        "display": "\u20b9 20,000"
       },
       "key_name": "Price",
       "key": "price"
     },
-    "is_business": false,
     "images": [
       {
-        "id": "1994455281",
-        "external_id": "wmamc240rtd83-IN",
-        "width": 487,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/wmamc240rtd83-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 2395,
-          "url": "https://apollo.olx.in:443/v1/files/wmamc240rtd83-IN/image;s=1080x2395"
+        "id": "1994477860",
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/6u0dgoecb65u2-IN/image;s=120x90"
         },
         "big": {
           "width": 505,
-          "height": 1119,
-          "url": "https://apollo.olx.in:443/v1/files/wmamc240rtd83-IN/image;s=505x1119"
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/6u0dgoecb65u2-IN/image;s=505x378"
         },
+        "width": 1080,
+        "external_id": "6u0dgoecb65u2-IN",
         "medium": {
           "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/wmamc240rtd83-IN/image;s=120x266"
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/6u0dgoecb65u2-IN/image;s=120x90"
         },
-        "small": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/wmamc240rtd83-IN/image;s=120x266"
+        "url": "https://apollo.olx.in:443/v1/files/6u0dgoecb65u2-IN/image",
+        "height": 810,
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/6u0dgoecb65u2-IN/image;s=1080x810"
         }
       },
       {
-        "id": "1994455282",
-        "external_id": "iu0bxpjurcg4-IN",
-        "width": 487,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/iu0bxpjurcg4-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 2395,
-          "url": "https://apollo.olx.in:443/v1/files/iu0bxpjurcg4-IN/image;s=1080x2395"
+        "id": "1994477861",
+        "small": {
+          "width": 120,
+          "height": 117,
+          "url": "https://apollo.olx.in:443/v1/files/ot7phlp4l3ky1-IN/image;s=120x117"
         },
         "big": {
           "width": 505,
-          "height": 1119,
-          "url": "https://apollo.olx.in:443/v1/files/iu0bxpjurcg4-IN/image;s=505x1119"
+          "height": 494,
+          "url": "https://apollo.olx.in:443/v1/files/ot7phlp4l3ky1-IN/image;s=505x494"
         },
+        "width": 1080,
+        "external_id": "ot7phlp4l3ky1-IN",
         "medium": {
           "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/iu0bxpjurcg4-IN/image;s=120x266"
+          "height": 117,
+          "url": "https://apollo.olx.in:443/v1/files/ot7phlp4l3ky1-IN/image;s=120x117"
         },
-        "small": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/iu0bxpjurcg4-IN/image;s=120x266"
-        }
-      },
-      {
-        "id": "1994455283",
-        "external_id": "udndgvzi6h7a2-IN",
-        "width": 487,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/udndgvzi6h7a2-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/ot7phlp4l3ky1-IN/image",
+        "height": 1057,
         "full": {
           "width": 1080,
-          "height": 2395,
-          "url": "https://apollo.olx.in:443/v1/files/udndgvzi6h7a2-IN/image;s=1080x2395"
-        },
-        "big": {
-          "width": 505,
-          "height": 1119,
-          "url": "https://apollo.olx.in:443/v1/files/udndgvzi6h7a2-IN/image;s=505x1119"
-        },
-        "medium": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/udndgvzi6h7a2-IN/image;s=120x266"
-        },
-        "small": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/udndgvzi6h7a2-IN/image;s=120x266"
-        }
-      },
-      {
-        "id": "1994455284",
-        "external_id": "eurmh9kx2div-IN",
-        "width": 487,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/eurmh9kx2div-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 2395,
-          "url": "https://apollo.olx.in:443/v1/files/eurmh9kx2div-IN/image;s=1080x2395"
-        },
-        "big": {
-          "width": 505,
-          "height": 1119,
-          "url": "https://apollo.olx.in:443/v1/files/eurmh9kx2div-IN/image;s=505x1119"
-        },
-        "medium": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/eurmh9kx2div-IN/image;s=120x266"
-        },
-        "small": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/eurmh9kx2div-IN/image;s=120x266"
+          "height": 1057,
+          "url": "https://apollo.olx.in:443/v1/files/ot7phlp4l3ky1-IN/image;s=1080x1057"
         }
       }
     ],
@@ -170,29 +114,33 @@
       "ADMIN_LEVEL_1_name": "Delhi",
       "ADMIN_LEVEL_3_id": "4058659",
       "ADMIN_LEVEL_3_name": "Delhi",
-      "SUBLOCALITY_LEVEL_1_id": "5328359",
-      "SUBLOCALITY_LEVEL_1_name": "Udyog Nagar Industrial Area"
+      "SUBLOCALITY_LEVEL_1_id": "5327879",
+      "SUBLOCALITY_LEVEL_1_name": "Lajpat Nagar 1"
     },
     "dealer_showroom_enabled": false,
+    "showSellerPhone": true,
     "artificial_boost": false,
-    "display_date": "2026-01-31T06:22:12+0000",
+    "display_date": "2026-02-02T06:24:15+0000",
     "isSpinViewAvailable": false,
-    "user_id": "428534716",
-    "created_at_first": "2026-01-31T11:49:27+05:30",
+    "user_id": "169758797",
+    "created_at_first": "2026-02-02T11:53:14+05:30",
     "locations": [
       {
-        "lat": 28.682,
-        "lon": 77.084,
+        "lat": 28.574,
+        "lon": 77.243,
         "region_id": "2001152",
-        "district_id": "5328359",
+        "district_id": "5327879",
         "city_id": "4058659"
       }
     ],
+    "suggestions": {
+      "image_count": 4
+    },
     "parameters": []
   },
   {
-    "id": "1833636476",
-    "score": 0.8,
+    "id": "1833823157",
+    "score": 0.5833333333333334,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
@@ -214,141 +162,85 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1833636476",
+    "ad_id": "1833823157",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
     },
     "user_tag": "olx disapproved",
-    "user_name": "Ashish ",
     "has_phone_param": false,
-    "description": "Only controller bill box not available",
-    "created_at": "2026-02-02T11:14:06+05:30",
-    "videos": [],
-    "title": "PS4 controller 100% original",
-    "buyer_id": "0",
+    "description": "With Bill and box with all working features \nPlayed hardly 3-4 times due to busy schedule\nIncludes 2 gaming controllers\nIn very good condition \nJust like new",
+    "created_at": "2026-02-02T11:53:14+05:30",
+    "video_status": false,
+    "title": "Xbox Series S \u2013 Fortnite & Rocket League Bundle",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 3000.0,
+        "raw": 20000.0,
         "currency": {
           "iso_4217": "INR",
-          "pre": "\u20b9"
+          "pre": "\u20b9",
+          "locale": "hi_IN"
         },
-        "display": "\u20b9 3,000"
+        "display": "\u20b9 20,000"
       },
       "key_name": "Price",
       "key": "price"
     },
-    "is_business": false,
     "images": [
       {
-        "id": "1994455281",
-        "external_id": "wmamc240rtd83-IN",
-        "width": 487,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/wmamc240rtd83-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 2395,
-          "url": "https://apollo.olx.in:443/v1/files/wmamc240rtd83-IN/image;s=1080x2395"
+        "id": "1994477860",
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/6u0dgoecb65u2-IN/image;s=120x90"
         },
         "big": {
           "width": 505,
-          "height": 1119,
-          "url": "https://apollo.olx.in:443/v1/files/wmamc240rtd83-IN/image;s=505x1119"
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/6u0dgoecb65u2-IN/image;s=505x378"
         },
+        "width": 1080,
+        "external_id": "6u0dgoecb65u2-IN",
         "medium": {
           "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/wmamc240rtd83-IN/image;s=120x266"
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/6u0dgoecb65u2-IN/image;s=120x90"
         },
-        "small": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/wmamc240rtd83-IN/image;s=120x266"
+        "url": "https://apollo.olx.in:443/v1/files/6u0dgoecb65u2-IN/image",
+        "height": 810,
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/6u0dgoecb65u2-IN/image;s=1080x810"
         }
       },
       {
-        "id": "1994455282",
-        "external_id": "iu0bxpjurcg4-IN",
-        "width": 487,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/iu0bxpjurcg4-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 2395,
-          "url": "https://apollo.olx.in:443/v1/files/iu0bxpjurcg4-IN/image;s=1080x2395"
+        "id": "1994477861",
+        "small": {
+          "width": 120,
+          "height": 117,
+          "url": "https://apollo.olx.in:443/v1/files/ot7phlp4l3ky1-IN/image;s=120x117"
         },
         "big": {
           "width": 505,
-          "height": 1119,
-          "url": "https://apollo.olx.in:443/v1/files/iu0bxpjurcg4-IN/image;s=505x1119"
+          "height": 494,
+          "url": "https://apollo.olx.in:443/v1/files/ot7phlp4l3ky1-IN/image;s=505x494"
         },
+        "width": 1080,
+        "external_id": "ot7phlp4l3ky1-IN",
         "medium": {
           "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/iu0bxpjurcg4-IN/image;s=120x266"
+          "height": 117,
+          "url": "https://apollo.olx.in:443/v1/files/ot7phlp4l3ky1-IN/image;s=120x117"
         },
-        "small": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/iu0bxpjurcg4-IN/image;s=120x266"
-        }
-      },
-      {
-        "id": "1994455283",
-        "external_id": "udndgvzi6h7a2-IN",
-        "width": 487,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/udndgvzi6h7a2-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/ot7phlp4l3ky1-IN/image",
+        "height": 1057,
         "full": {
           "width": 1080,
-          "height": 2395,
-          "url": "https://apollo.olx.in:443/v1/files/udndgvzi6h7a2-IN/image;s=1080x2395"
-        },
-        "big": {
-          "width": 505,
-          "height": 1119,
-          "url": "https://apollo.olx.in:443/v1/files/udndgvzi6h7a2-IN/image;s=505x1119"
-        },
-        "medium": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/udndgvzi6h7a2-IN/image;s=120x266"
-        },
-        "small": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/udndgvzi6h7a2-IN/image;s=120x266"
-        }
-      },
-      {
-        "id": "1994455284",
-        "external_id": "eurmh9kx2div-IN",
-        "width": 487,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/eurmh9kx2div-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 2395,
-          "url": "https://apollo.olx.in:443/v1/files/eurmh9kx2div-IN/image;s=1080x2395"
-        },
-        "big": {
-          "width": 505,
-          "height": 1119,
-          "url": "https://apollo.olx.in:443/v1/files/eurmh9kx2div-IN/image;s=505x1119"
-        },
-        "medium": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/eurmh9kx2div-IN/image;s=120x266"
-        },
-        "small": {
-          "width": 120,
-          "height": 266,
-          "url": "https://apollo.olx.in:443/v1/files/eurmh9kx2div-IN/image;s=120x266"
+          "height": 1057,
+          "url": "https://apollo.olx.in:443/v1/files/ot7phlp4l3ky1-IN/image;s=1080x1057"
         }
       }
     ],
@@ -361,24 +253,28 @@
       "ADMIN_LEVEL_1_name": "Delhi",
       "ADMIN_LEVEL_3_id": "4058659",
       "ADMIN_LEVEL_3_name": "Delhi",
-      "SUBLOCALITY_LEVEL_1_id": "5328359",
-      "SUBLOCALITY_LEVEL_1_name": "Udyog Nagar Industrial Area"
+      "SUBLOCALITY_LEVEL_1_id": "5327879",
+      "SUBLOCALITY_LEVEL_1_name": "Lajpat Nagar 1"
     },
     "dealer_showroom_enabled": false,
+    "showSellerPhone": true,
     "artificial_boost": false,
-    "display_date": "2026-01-31T06:22:12+0000",
+    "display_date": "2026-02-02T06:24:15+0000",
     "isSpinViewAvailable": false,
-    "user_id": "428534716",
-    "created_at_first": "2026-01-31T11:49:27+05:30",
+    "user_id": "169758797",
+    "created_at_first": "2026-02-02T11:53:14+05:30",
     "locations": [
       {
-        "lat": 28.682,
-        "lon": 77.084,
+        "lat": 28.574,
+        "lon": 77.243,
         "region_id": "2001152",
-        "district_id": "5328359",
+        "district_id": "5327879",
         "city_id": "4058659"
       }
     ],
+    "suggestions": {
+      "image_count": 4
+    },
     "parameters": []
   }
 ]
