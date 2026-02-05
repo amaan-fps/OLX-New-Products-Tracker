@@ -1,1 +1,582 @@
-[]
+[
+  {
+    "id": "1834074495",
+    "score": 0.8181818181818182,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "1505",
+    "ad_id": "1834074495",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Dhruv",
+    "has_phone_param": false,
+    "description": "25 Pre games installed with 2 original controller al type of ps4 works available",
+    "created_at": "2026-02-05T06:53:47+05:30",
+    "videos": [],
+    "title": "PS4 SLIM 9.0",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "btt_package_id": "2005943",
+    "price": {
+      "value": {
+        "raw": 15000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 15,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1995768109",
+        "external_id": "c0g1a09tpgc3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/c0g1a09tpgc3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/c0g1a09tpgc3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/c0g1a09tpgc3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/c0g1a09tpgc3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/c0g1a09tpgc3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1995768110",
+        "external_id": "q0j13u0r3arx1-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/q0j13u0r3arx1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/q0j13u0r3arx1-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/q0j13u0r3arx1-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/q0j13u0r3arx1-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/q0j13u0r3arx1-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1995768111",
+        "external_id": "yrb8c2jr119w-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/yrb8c2jr119w-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/yrb8c2jr119w-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/yrb8c2jr119w-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/yrb8c2jr119w-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/yrb8c2jr119w-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1995768112",
+        "external_id": "0ox4uns4t6kv2-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/0ox4uns4t6kv2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/0ox4uns4t6kv2-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/0ox4uns4t6kv2-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/0ox4uns4t6kv2-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/0ox4uns4t6kv2-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1995768113",
+        "external_id": "yub0lst05pto3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/yub0lst05pto3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/yub0lst05pto3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/yub0lst05pto3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/yub0lst05pto3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/yub0lst05pto3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1995768114",
+        "external_id": "48o6t9fyhlbe3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/48o6t9fyhlbe3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/48o6t9fyhlbe3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/48o6t9fyhlbe3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/48o6t9fyhlbe3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/48o6t9fyhlbe3-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1995768115",
+        "external_id": "wew6o2gi65601-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/wew6o2gi65601-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/wew6o2gi65601-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/wew6o2gi65601-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/wew6o2gi65601-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/wew6o2gi65601-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327953",
+      "SUBLOCALITY_LEVEL_1_name": "Hauz Khas"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-04T17:00:27+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "570413117",
+    "created_at_first": "2026-02-04T22:23:41+05:30",
+    "locations": [
+      {
+        "lat": 28.55,
+        "lon": 77.2,
+        "region_id": "2001152",
+        "district_id": "5327953",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "Computer/Desktop",
+        "value": "computer_desktop",
+        "key_name": "Type",
+        "formatted_value": "Computer/Desktop"
+      },
+      {
+        "type": "single",
+        "key": "make",
+        "value_name": "Others",
+        "value": "computer_brand_others",
+        "key_name": "Brand",
+        "formatted_value": "Others"
+      }
+    ]
+  },
+  {
+    "id": "1834074495",
+    "score": 0.9642857142857143,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "1505",
+    "ad_id": "1834074495",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Dhruv",
+    "has_phone_param": false,
+    "description": "25 Pre games installed with 2 original controller al type of ps4 works available",
+    "created_at": "2026-02-05T06:53:47+05:30",
+    "videos": [],
+    "title": "PS4 SLIM 9.0",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "btt_package_id": "2005943",
+    "price": {
+      "value": {
+        "raw": 15000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 15,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1995768109",
+        "external_id": "c0g1a09tpgc3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/c0g1a09tpgc3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/c0g1a09tpgc3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/c0g1a09tpgc3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/c0g1a09tpgc3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/c0g1a09tpgc3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1995768110",
+        "external_id": "q0j13u0r3arx1-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/q0j13u0r3arx1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/q0j13u0r3arx1-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/q0j13u0r3arx1-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/q0j13u0r3arx1-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/q0j13u0r3arx1-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1995768111",
+        "external_id": "yrb8c2jr119w-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/yrb8c2jr119w-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/yrb8c2jr119w-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/yrb8c2jr119w-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/yrb8c2jr119w-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/yrb8c2jr119w-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1995768112",
+        "external_id": "0ox4uns4t6kv2-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/0ox4uns4t6kv2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/0ox4uns4t6kv2-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/0ox4uns4t6kv2-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/0ox4uns4t6kv2-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/0ox4uns4t6kv2-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1995768113",
+        "external_id": "yub0lst05pto3-IN",
+        "width": 810,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/yub0lst05pto3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1440,
+          "url": "https://apollo.olx.in:443/v1/files/yub0lst05pto3-IN/image;s=1080x1440"
+        },
+        "big": {
+          "width": 505,
+          "height": 673,
+          "url": "https://apollo.olx.in:443/v1/files/yub0lst05pto3-IN/image;s=505x673"
+        },
+        "medium": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/yub0lst05pto3-IN/image;s=120x160"
+        },
+        "small": {
+          "width": 120,
+          "height": 160,
+          "url": "https://apollo.olx.in:443/v1/files/yub0lst05pto3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1995768114",
+        "external_id": "48o6t9fyhlbe3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/48o6t9fyhlbe3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/48o6t9fyhlbe3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/48o6t9fyhlbe3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/48o6t9fyhlbe3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/48o6t9fyhlbe3-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1995768115",
+        "external_id": "wew6o2gi65601-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/wew6o2gi65601-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/wew6o2gi65601-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/wew6o2gi65601-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/wew6o2gi65601-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/wew6o2gi65601-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327953",
+      "SUBLOCALITY_LEVEL_1_name": "Hauz Khas"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-04T17:00:27+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "570413117",
+    "created_at_first": "2026-02-04T22:23:41+05:30",
+    "locations": [
+      {
+        "lat": 28.55,
+        "lon": 77.2,
+        "region_id": "2001152",
+        "district_id": "5327953",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": [
+      {
+        "type": "single",
+        "key": "type",
+        "value_name": "Computer/Desktop",
+        "value": "computer_desktop",
+        "key_name": "Type",
+        "formatted_value": "Computer/Desktop"
+      },
+      {
+        "type": "single",
+        "key": "make",
+        "value_name": "Others",
+        "value": "computer_brand_others",
+        "key_name": "Brand",
+        "formatted_value": "Others"
+      }
+    ]
+  }
+]
