@@ -1,7 +1,7 @@
 [
   {
-    "id": "1834263343",
-    "score": 0.9193548387096774,
+    "id": "1834263907",
+    "score": 0.8225806451612904,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
@@ -23,7 +23,7 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1834263343",
+    "ad_id": "1834263907",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
@@ -31,10 +31,10 @@
     "user_tag": "olx disapproved",
     "user_name": "OLX User",
     "has_phone_param": false,
-    "description": "Im shifting to aboard soon, i have so less time to selling it, its in good working condition, only 14-15 months old, used very lightly by kid.",
-    "created_at": "2026-02-06T23:30:40+05:30",
+    "description": "Its in good working condition, only 15 months old.",
+    "created_at": "2026-02-06T23:41:13+05:30",
     "videos": [],
-    "title": "Ps4 slim 1tb",
+    "title": "Ps4 Slim 1tb",
     "buyer_id": "0",
     "elite_seller": false,
     "user_type": "Regular",
@@ -53,138 +53,138 @@
     "is_business": false,
     "images": [
       {
-        "id": "1996739610",
-        "external_id": "g07vibca0nr93-IN",
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/g07vibca0nr93-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/g07vibca0nr93-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/g07vibca0nr93-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/g07vibca0nr93-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/g07vibca0nr93-IN/image;s=120x160"
-        }
-      },
-      {
-        "id": "1996739611",
-        "external_id": "xk7ttgvnnsou2-IN",
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/xk7ttgvnnsou2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/xk7ttgvnnsou2-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/xk7ttgvnnsou2-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/xk7ttgvnnsou2-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/xk7ttgvnnsou2-IN/image;s=120x160"
-        }
-      },
-      {
-        "id": "1996739612",
-        "external_id": "hu5qk6ofx29m2-IN",
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/hu5qk6ofx29m2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/hu5qk6ofx29m2-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/hu5qk6ofx29m2-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/hu5qk6ofx29m2-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/hu5qk6ofx29m2-IN/image;s=120x160"
-        }
-      },
-      {
-        "id": "1996739613",
-        "external_id": "xnc22w52uwl63-IN",
+        "id": "1996742673",
+        "external_id": "1r0z3nqu1o7o-IN",
         "width": 1080,
         "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/xnc22w52uwl63-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/1r0z3nqu1o7o-IN/image",
         "full": {
           "width": 1080,
           "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/xnc22w52uwl63-IN/image;s=1080x810"
+          "url": "https://apollo.olx.in:443/v1/files/1r0z3nqu1o7o-IN/image;s=1080x810"
         },
         "big": {
           "width": 505,
           "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/xnc22w52uwl63-IN/image;s=505x378"
+          "url": "https://apollo.olx.in:443/v1/files/1r0z3nqu1o7o-IN/image;s=505x378"
         },
         "medium": {
           "width": 120,
           "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/xnc22w52uwl63-IN/image;s=120x90"
+          "url": "https://apollo.olx.in:443/v1/files/1r0z3nqu1o7o-IN/image;s=120x90"
         },
         "small": {
           "width": 120,
           "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/xnc22w52uwl63-IN/image;s=120x90"
+          "url": "https://apollo.olx.in:443/v1/files/1r0z3nqu1o7o-IN/image;s=120x90"
         }
       },
       {
-        "id": "1996739614",
-        "external_id": "hldg01aoh0me-IN",
+        "id": "1996742674",
+        "external_id": "fhj83ey78jb4-IN",
         "width": 1080,
         "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/hldg01aoh0me-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/fhj83ey78jb4-IN/image",
         "full": {
           "width": 1080,
           "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/hldg01aoh0me-IN/image;s=1080x810"
+          "url": "https://apollo.olx.in:443/v1/files/fhj83ey78jb4-IN/image;s=1080x810"
         },
         "big": {
           "width": 505,
           "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/hldg01aoh0me-IN/image;s=505x378"
+          "url": "https://apollo.olx.in:443/v1/files/fhj83ey78jb4-IN/image;s=505x378"
         },
         "medium": {
           "width": 120,
           "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/hldg01aoh0me-IN/image;s=120x90"
+          "url": "https://apollo.olx.in:443/v1/files/fhj83ey78jb4-IN/image;s=120x90"
         },
         "small": {
           "width": 120,
           "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/hldg01aoh0me-IN/image;s=120x90"
+          "url": "https://apollo.olx.in:443/v1/files/fhj83ey78jb4-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1996742675",
+        "external_id": "fbzcky7e6ple-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/fbzcky7e6ple-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/fbzcky7e6ple-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/fbzcky7e6ple-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/fbzcky7e6ple-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/fbzcky7e6ple-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1996742676",
+        "external_id": "7fcxouk4w5ao3-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/7fcxouk4w5ao3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/7fcxouk4w5ao3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/7fcxouk4w5ao3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/7fcxouk4w5ao3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/7fcxouk4w5ao3-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1996742677",
+        "external_id": "cq86r3d10bm3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/cq86r3d10bm3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/cq86r3d10bm3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/cq86r3d10bm3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/cq86r3d10bm3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/cq86r3d10bm3-IN/image;s=120x90"
         }
       }
     ],
@@ -193,26 +193,244 @@
     "locations_resolved": {
       "COUNTRY_id": "1000001",
       "COUNTRY_name": "India",
-      "ADMIN_LEVEL_1_id": "2001155",
-      "ADMIN_LEVEL_1_name": "Haryana",
-      "ADMIN_LEVEL_3_id": "4058748",
-      "ADMIN_LEVEL_3_name": "Gurgaon",
-      "SUBLOCALITY_LEVEL_1_id": "5309836",
-      "SUBLOCALITY_LEVEL_1_name": "Sector 56"
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328351",
+      "SUBLOCALITY_LEVEL_1_name": "Paschim Vihar"
     },
     "dealer_showroom_enabled": false,
     "artificial_boost": false,
-    "display_date": "2026-02-06T18:01:40+0000",
+    "display_date": "2026-02-06T18:12:11+0000",
     "isSpinViewAvailable": false,
-    "user_id": "636183171",
-    "created_at_first": "2026-02-06T23:30:40+05:30",
+    "user_id": "636183473",
+    "created_at_first": "2026-02-06T23:41:13+05:30",
     "locations": [
       {
-        "lat": 28.425,
-        "lon": 77.098,
-        "region_id": "2001155",
-        "district_id": "5309836",
-        "city_id": "4058748"
+        "lat": 28.667,
+        "lon": 77.081,
+        "region_id": "2001152",
+        "district_id": "5328351",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1834263907",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1834263907",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "OLX User",
+    "has_phone_param": false,
+    "description": "Its in good working condition, only 15 months old.",
+    "created_at": "2026-02-06T23:41:13+05:30",
+    "videos": [],
+    "title": "Ps4 Slim 1tb",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 14000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 14,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1996742673",
+        "external_id": "1r0z3nqu1o7o-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/1r0z3nqu1o7o-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/1r0z3nqu1o7o-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/1r0z3nqu1o7o-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/1r0z3nqu1o7o-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/1r0z3nqu1o7o-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1996742674",
+        "external_id": "fhj83ey78jb4-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/fhj83ey78jb4-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/fhj83ey78jb4-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/fhj83ey78jb4-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/fhj83ey78jb4-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/fhj83ey78jb4-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1996742675",
+        "external_id": "fbzcky7e6ple-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/fbzcky7e6ple-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/fbzcky7e6ple-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/fbzcky7e6ple-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/fbzcky7e6ple-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/fbzcky7e6ple-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1996742676",
+        "external_id": "7fcxouk4w5ao3-IN",
+        "width": 1440,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/7fcxouk4w5ao3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/7fcxouk4w5ao3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/7fcxouk4w5ao3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/7fcxouk4w5ao3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/7fcxouk4w5ao3-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1996742677",
+        "external_id": "cq86r3d10bm3-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/cq86r3d10bm3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/cq86r3d10bm3-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/cq86r3d10bm3-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/cq86r3d10bm3-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/cq86r3d10bm3-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328351",
+      "SUBLOCALITY_LEVEL_1_name": "Paschim Vihar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-06T18:12:11+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "636183473",
+    "created_at_first": "2026-02-06T23:41:13+05:30",
+    "locations": [
+      {
+        "lat": 28.667,
+        "lon": 77.081,
+        "region_id": "2001152",
+        "district_id": "5328351",
+        "city_id": "4058659"
       }
     ],
     "parameters": []
