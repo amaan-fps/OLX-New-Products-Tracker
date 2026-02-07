@@ -1,1 +1,276 @@
-[]
+[
+  {
+    "id": "1830393792",
+    "score": 0.8225806451612904,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830393792",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Honey",
+    "has_phone_param": false,
+    "description": "Brand new white controller just open box played ones for try, mereko colored controller lena tha yeh ghalti sey purchase krlia thats y selling",
+    "created_at": "2026-02-07T09:27:56+05:30",
+    "videos": [],
+    "title": "Ps4 white controller",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 4000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 4,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1976936117",
+        "external_id": "zz3o82xyfym72-IN",
+        "width": 1080,
+        "height": 917,
+        "url": "https://apollo.olx.in:443/v1/files/zz3o82xyfym72-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 917,
+          "url": "https://apollo.olx.in:443/v1/files/zz3o82xyfym72-IN/image;s=1080x917"
+        },
+        "big": {
+          "width": 505,
+          "height": 428,
+          "url": "https://apollo.olx.in:443/v1/files/zz3o82xyfym72-IN/image;s=505x428"
+        },
+        "medium": {
+          "width": 120,
+          "height": 101,
+          "url": "https://apollo.olx.in:443/v1/files/zz3o82xyfym72-IN/image;s=120x101"
+        },
+        "small": {
+          "width": 120,
+          "height": 101,
+          "url": "https://apollo.olx.in:443/v1/files/zz3o82xyfym72-IN/image;s=120x101"
+        }
+      },
+      {
+        "id": "1976936118",
+        "external_id": "tek8wevglse9-IN",
+        "width": 1080,
+        "height": 960,
+        "url": "https://apollo.olx.in:443/v1/files/tek8wevglse9-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 960,
+          "url": "https://apollo.olx.in:443/v1/files/tek8wevglse9-IN/image;s=1080x960"
+        },
+        "big": {
+          "width": 505,
+          "height": 448,
+          "url": "https://apollo.olx.in:443/v1/files/tek8wevglse9-IN/image;s=505x448"
+        },
+        "medium": {
+          "width": 120,
+          "height": 106,
+          "url": "https://apollo.olx.in:443/v1/files/tek8wevglse9-IN/image;s=120x106"
+        },
+        "small": {
+          "width": 120,
+          "height": 106,
+          "url": "https://apollo.olx.in:443/v1/files/tek8wevglse9-IN/image;s=120x106"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327883",
+      "SUBLOCALITY_LEVEL_1_name": "Laxmi Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-07T03:58:58+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "15282257",
+    "created_at_first": "2025-12-27T08:56:26+05:30",
+    "locations": [
+      {
+        "lat": 28.577,
+        "lon": 77.206,
+        "region_id": "2001152",
+        "district_id": "5327883",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1830393792",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1830393792",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Honey",
+    "has_phone_param": false,
+    "description": "Brand new white controller just open box played ones for try, mereko colored controller lena tha yeh ghalti sey purchase krlia thats y selling",
+    "created_at": "2026-02-07T09:27:56+05:30",
+    "videos": [],
+    "title": "Ps4 white controller",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 4000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 4,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1976936117",
+        "external_id": "zz3o82xyfym72-IN",
+        "width": 1080,
+        "height": 917,
+        "url": "https://apollo.olx.in:443/v1/files/zz3o82xyfym72-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 917,
+          "url": "https://apollo.olx.in:443/v1/files/zz3o82xyfym72-IN/image;s=1080x917"
+        },
+        "big": {
+          "width": 505,
+          "height": 428,
+          "url": "https://apollo.olx.in:443/v1/files/zz3o82xyfym72-IN/image;s=505x428"
+        },
+        "medium": {
+          "width": 120,
+          "height": 101,
+          "url": "https://apollo.olx.in:443/v1/files/zz3o82xyfym72-IN/image;s=120x101"
+        },
+        "small": {
+          "width": 120,
+          "height": 101,
+          "url": "https://apollo.olx.in:443/v1/files/zz3o82xyfym72-IN/image;s=120x101"
+        }
+      },
+      {
+        "id": "1976936118",
+        "external_id": "tek8wevglse9-IN",
+        "width": 1080,
+        "height": 960,
+        "url": "https://apollo.olx.in:443/v1/files/tek8wevglse9-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 960,
+          "url": "https://apollo.olx.in:443/v1/files/tek8wevglse9-IN/image;s=1080x960"
+        },
+        "big": {
+          "width": 505,
+          "height": 448,
+          "url": "https://apollo.olx.in:443/v1/files/tek8wevglse9-IN/image;s=505x448"
+        },
+        "medium": {
+          "width": 120,
+          "height": 106,
+          "url": "https://apollo.olx.in:443/v1/files/tek8wevglse9-IN/image;s=120x106"
+        },
+        "small": {
+          "width": 120,
+          "height": 106,
+          "url": "https://apollo.olx.in:443/v1/files/tek8wevglse9-IN/image;s=120x106"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327883",
+      "SUBLOCALITY_LEVEL_1_name": "Laxmi Nagar"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-07T03:58:58+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "15282257",
+    "created_at_first": "2025-12-27T08:56:26+05:30",
+    "locations": [
+      {
+        "lat": 28.577,
+        "lon": 77.206,
+        "region_id": "2001152",
+        "district_id": "5327883",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
