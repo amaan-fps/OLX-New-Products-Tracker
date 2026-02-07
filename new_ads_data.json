@@ -1,1 +1,384 @@
-[]
+[
+  {
+    "id": "1834358935",
+    "score": 0.8103448275862069,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1834358935",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "OLX User",
+    "has_phone_param": false,
+    "description": "Its almost in new condition, Purchased about 15 months ago and hardly used, so it is still in like-new condition. It was originally bought for our nephew. Included game CDs along with 3 remotes.",
+    "created_at": "2026-02-08T01:24:41+05:30",
+    "videos": [],
+    "title": "Ps4 Slim, 1tb sony, with games",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 14000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 14,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1997230386",
+        "external_id": "kx7g9dkbtwd22-IN",
+        "width": 637,
+        "height": 1063,
+        "url": "https://apollo.olx.in:443/v1/files/kx7g9dkbtwd22-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1802,
+          "url": "https://apollo.olx.in:443/v1/files/kx7g9dkbtwd22-IN/image;s=1080x1802"
+        },
+        "big": {
+          "width": 505,
+          "height": 842,
+          "url": "https://apollo.olx.in:443/v1/files/kx7g9dkbtwd22-IN/image;s=505x842"
+        },
+        "medium": {
+          "width": 120,
+          "height": 200,
+          "url": "https://apollo.olx.in:443/v1/files/kx7g9dkbtwd22-IN/image;s=120x200"
+        },
+        "small": {
+          "width": 120,
+          "height": 200,
+          "url": "https://apollo.olx.in:443/v1/files/kx7g9dkbtwd22-IN/image;s=120x200"
+        }
+      },
+      {
+        "id": "1997230387",
+        "external_id": "jww4cjl6sq0s1-IN",
+        "width": 625,
+        "height": 1209,
+        "url": "https://apollo.olx.in:443/v1/files/jww4cjl6sq0s1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2089,
+          "url": "https://apollo.olx.in:443/v1/files/jww4cjl6sq0s1-IN/image;s=1080x2089"
+        },
+        "big": {
+          "width": 505,
+          "height": 976,
+          "url": "https://apollo.olx.in:443/v1/files/jww4cjl6sq0s1-IN/image;s=505x976"
+        },
+        "medium": {
+          "width": 120,
+          "height": 232,
+          "url": "https://apollo.olx.in:443/v1/files/jww4cjl6sq0s1-IN/image;s=120x232"
+        },
+        "small": {
+          "width": 120,
+          "height": 232,
+          "url": "https://apollo.olx.in:443/v1/files/jww4cjl6sq0s1-IN/image;s=120x232"
+        }
+      },
+      {
+        "id": "1997230388",
+        "external_id": "9p4i4p8tt16t-IN",
+        "width": 599,
+        "height": 1195,
+        "url": "https://apollo.olx.in:443/v1/files/9p4i4p8tt16t-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2154,
+          "url": "https://apollo.olx.in:443/v1/files/9p4i4p8tt16t-IN/image;s=1080x2154"
+        },
+        "big": {
+          "width": 505,
+          "height": 1007,
+          "url": "https://apollo.olx.in:443/v1/files/9p4i4p8tt16t-IN/image;s=505x1007"
+        },
+        "medium": {
+          "width": 120,
+          "height": 239,
+          "url": "https://apollo.olx.in:443/v1/files/9p4i4p8tt16t-IN/image;s=120x239"
+        },
+        "small": {
+          "width": 120,
+          "height": 239,
+          "url": "https://apollo.olx.in:443/v1/files/9p4i4p8tt16t-IN/image;s=120x239"
+        }
+      },
+      {
+        "id": "1997230389",
+        "external_id": "r61ea8e68kzb1-IN",
+        "width": 607,
+        "height": 1136,
+        "url": "https://apollo.olx.in:443/v1/files/r61ea8e68kzb1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2021,
+          "url": "https://apollo.olx.in:443/v1/files/r61ea8e68kzb1-IN/image;s=1080x2021"
+        },
+        "big": {
+          "width": 505,
+          "height": 945,
+          "url": "https://apollo.olx.in:443/v1/files/r61ea8e68kzb1-IN/image;s=505x945"
+        },
+        "medium": {
+          "width": 120,
+          "height": 224,
+          "url": "https://apollo.olx.in:443/v1/files/r61ea8e68kzb1-IN/image;s=120x224"
+        },
+        "small": {
+          "width": 120,
+          "height": 224,
+          "url": "https://apollo.olx.in:443/v1/files/r61ea8e68kzb1-IN/image;s=120x224"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327891",
+      "SUBLOCALITY_LEVEL_1_name": "Nehru Place"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-07T19:55:52+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "636231640",
+    "created_at_first": "2026-02-08T01:24:41+05:30",
+    "locations": [
+      {
+        "lat": 28.548,
+        "lon": 77.251,
+        "region_id": "2001152",
+        "district_id": "5327891",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1834358935",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1834358935",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "OLX User",
+    "has_phone_param": false,
+    "description": "Its almost in new condition, Purchased about 15 months ago and hardly used, so it is still in like-new condition. It was originally bought for our nephew. Included game CDs along with 3 remotes.",
+    "created_at": "2026-02-08T01:24:41+05:30",
+    "videos": [],
+    "title": "Ps4 Slim, 1tb sony, with games",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 14000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 14,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1997230386",
+        "external_id": "kx7g9dkbtwd22-IN",
+        "width": 637,
+        "height": 1063,
+        "url": "https://apollo.olx.in:443/v1/files/kx7g9dkbtwd22-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1802,
+          "url": "https://apollo.olx.in:443/v1/files/kx7g9dkbtwd22-IN/image;s=1080x1802"
+        },
+        "big": {
+          "width": 505,
+          "height": 842,
+          "url": "https://apollo.olx.in:443/v1/files/kx7g9dkbtwd22-IN/image;s=505x842"
+        },
+        "medium": {
+          "width": 120,
+          "height": 200,
+          "url": "https://apollo.olx.in:443/v1/files/kx7g9dkbtwd22-IN/image;s=120x200"
+        },
+        "small": {
+          "width": 120,
+          "height": 200,
+          "url": "https://apollo.olx.in:443/v1/files/kx7g9dkbtwd22-IN/image;s=120x200"
+        }
+      },
+      {
+        "id": "1997230387",
+        "external_id": "jww4cjl6sq0s1-IN",
+        "width": 625,
+        "height": 1209,
+        "url": "https://apollo.olx.in:443/v1/files/jww4cjl6sq0s1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2089,
+          "url": "https://apollo.olx.in:443/v1/files/jww4cjl6sq0s1-IN/image;s=1080x2089"
+        },
+        "big": {
+          "width": 505,
+          "height": 976,
+          "url": "https://apollo.olx.in:443/v1/files/jww4cjl6sq0s1-IN/image;s=505x976"
+        },
+        "medium": {
+          "width": 120,
+          "height": 232,
+          "url": "https://apollo.olx.in:443/v1/files/jww4cjl6sq0s1-IN/image;s=120x232"
+        },
+        "small": {
+          "width": 120,
+          "height": 232,
+          "url": "https://apollo.olx.in:443/v1/files/jww4cjl6sq0s1-IN/image;s=120x232"
+        }
+      },
+      {
+        "id": "1997230388",
+        "external_id": "9p4i4p8tt16t-IN",
+        "width": 599,
+        "height": 1195,
+        "url": "https://apollo.olx.in:443/v1/files/9p4i4p8tt16t-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2154,
+          "url": "https://apollo.olx.in:443/v1/files/9p4i4p8tt16t-IN/image;s=1080x2154"
+        },
+        "big": {
+          "width": 505,
+          "height": 1007,
+          "url": "https://apollo.olx.in:443/v1/files/9p4i4p8tt16t-IN/image;s=505x1007"
+        },
+        "medium": {
+          "width": 120,
+          "height": 239,
+          "url": "https://apollo.olx.in:443/v1/files/9p4i4p8tt16t-IN/image;s=120x239"
+        },
+        "small": {
+          "width": 120,
+          "height": 239,
+          "url": "https://apollo.olx.in:443/v1/files/9p4i4p8tt16t-IN/image;s=120x239"
+        }
+      },
+      {
+        "id": "1997230389",
+        "external_id": "r61ea8e68kzb1-IN",
+        "width": 607,
+        "height": 1136,
+        "url": "https://apollo.olx.in:443/v1/files/r61ea8e68kzb1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 2021,
+          "url": "https://apollo.olx.in:443/v1/files/r61ea8e68kzb1-IN/image;s=1080x2021"
+        },
+        "big": {
+          "width": 505,
+          "height": 945,
+          "url": "https://apollo.olx.in:443/v1/files/r61ea8e68kzb1-IN/image;s=505x945"
+        },
+        "medium": {
+          "width": 120,
+          "height": 224,
+          "url": "https://apollo.olx.in:443/v1/files/r61ea8e68kzb1-IN/image;s=120x224"
+        },
+        "small": {
+          "width": 120,
+          "height": 224,
+          "url": "https://apollo.olx.in:443/v1/files/r61ea8e68kzb1-IN/image;s=120x224"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5327891",
+      "SUBLOCALITY_LEVEL_1_name": "Nehru Place"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-07T19:55:52+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "636231640",
+    "created_at_first": "2026-02-08T01:24:41+05:30",
+    "locations": [
+      {
+        "lat": 28.548,
+        "lon": 77.251,
+        "region_id": "2001152",
+        "district_id": "5327891",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
