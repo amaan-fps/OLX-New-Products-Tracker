@@ -1,143 +1,6 @@
 [
   {
-    "id": "1834777842",
-    "score": 0.7931034482758621,
-    "spell": {
-      "id": 111,
-      "key": "GEAS_ES",
-      "version": "1",
-      "main": true,
-      "facet_disabled": false,
-      "default_sorting": "DEFAULT",
-      "response_type": "ARRAY"
-    },
-    "status": {
-      "status": "active",
-      "allow_edit": true,
-      "display": "active",
-      "translated_display": "Active",
-      "flags": {
-        "new": false,
-        "hot": false
-      },
-      "allow_deactivate": true
-    },
-    "category_id": "93",
-    "ad_id": "1834777842",
-    "favorites": {
-      "count": 0,
-      "count_label_next": "1"
-    },
-    "user_tag": "olx disapproved",
-    "user_name": "OLX User",
-    "has_phone_param": false,
-    "description": "A Ps4 with one controller and charging station 2 game discs and charging wire \nThe controller joystick drifts badly but it is manageable.",
-    "created_at": "2026-02-12T15:17:07+05:30",
-    "videos": [],
-    "title": "PS4 SLIM 408 GB",
-    "buyer_id": "0",
-    "elite_seller": false,
-    "user_type": "Regular",
-    "price": {
-      "value": {
-        "raw": 13500.0,
-        "currency": {
-          "iso_4217": "INR",
-          "pre": "\u20b9"
-        },
-        "display": "\u20b9 13,500"
-      },
-      "key_name": "Price",
-      "key": "price"
-    },
-    "is_business": false,
-    "images": [
-      {
-        "id": "1999380802",
-        "external_id": "gnjvsfnwqghp1-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/gnjvsfnwqghp1-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/gnjvsfnwqghp1-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/gnjvsfnwqghp1-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/gnjvsfnwqghp1-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/gnjvsfnwqghp1-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "1999380803",
-        "external_id": "h6d4dfotxs5l2-IN",
-        "width": 810,
-        "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/h6d4dfotxs5l2-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/h6d4dfotxs5l2-IN/image;s=1080x1440"
-        },
-        "big": {
-          "width": 505,
-          "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/h6d4dfotxs5l2-IN/image;s=505x673"
-        },
-        "medium": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/h6d4dfotxs5l2-IN/image;s=120x160"
-        },
-        "small": {
-          "width": 120,
-          "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/h6d4dfotxs5l2-IN/image;s=120x160"
-        }
-      }
-    ],
-    "certified_car": false,
-    "is_kyc_verified_user": false,
-    "locations_resolved": {
-      "COUNTRY_id": "1000001",
-      "COUNTRY_name": "India",
-      "ADMIN_LEVEL_1_id": "2001152",
-      "ADMIN_LEVEL_1_name": "Delhi",
-      "ADMIN_LEVEL_3_id": "4058659",
-      "ADMIN_LEVEL_3_name": "Delhi",
-      "SUBLOCALITY_LEVEL_1_id": "5327271",
-      "SUBLOCALITY_LEVEL_1_name": "Daryaganj"
-    },
-    "dealer_showroom_enabled": false,
-    "artificial_boost": false,
-    "display_date": "2026-02-12T09:48:08+0000",
-    "isSpinViewAvailable": false,
-    "user_id": "636450268",
-    "created_at_first": "2026-02-12T15:17:07+05:30",
-    "locations": [
-      {
-        "lat": 28.643,
-        "lon": 77.241,
-        "region_id": "2001152",
-        "district_id": "5327271",
-        "city_id": "4058659"
-      }
-    ],
-    "parameters": []
-  },
-  {
-    "id": "1834777842",
+    "id": "1832763570",
     "score": 1.0,
     "spell": {
       "id": 111,
@@ -160,29 +23,29 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1834777842",
+    "ad_id": "1832763570",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
     },
     "user_tag": "olx disapproved",
-    "user_name": "OLX User",
+    "user_name": "LUKE",
     "has_phone_param": false,
-    "description": "A Ps4 with one controller and charging station 2 game discs and charging wire \nThe controller joystick drifts badly but it is manageable.",
-    "created_at": "2026-02-12T15:17:07+05:30",
+    "description": "Playstation 4 ( Ps4 ) Slim 1TB \n1 Console \n1 Controller \n1 power cable \n1 HDMI Cable \n1 Charging Cable \nOriginal seal impact \nSoftware Latest version",
+    "created_at": "2026-02-12T15:35:03+05:30",
     "videos": [],
-    "title": "PS4 SLIM 408 GB",
+    "title": "Playstation 4 ( Ps4 ) Slim",
     "buyer_id": "0",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 13500.0,
+        "raw": 17000.0,
         "currency": {
           "iso_4217": "INR",
           "pre": "\u20b9"
         },
-        "display": "\u20b9 13,500"
+        "display": "\u20b9 17,000"
       },
       "key_name": "Price",
       "key": "price"
@@ -190,57 +53,331 @@
     "is_business": false,
     "images": [
       {
-        "id": "1999380802",
-        "external_id": "gnjvsfnwqghp1-IN",
+        "id": "1999389356",
+        "external_id": "nuu34dblqetd2-IN",
         "width": 1080,
         "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/gnjvsfnwqghp1-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/nuu34dblqetd2-IN/image",
         "full": {
           "width": 1080,
           "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/gnjvsfnwqghp1-IN/image;s=1080x810"
+          "url": "https://apollo.olx.in:443/v1/files/nuu34dblqetd2-IN/image;s=1080x810"
         },
         "big": {
           "width": 505,
           "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/gnjvsfnwqghp1-IN/image;s=505x378"
+          "url": "https://apollo.olx.in:443/v1/files/nuu34dblqetd2-IN/image;s=505x378"
         },
         "medium": {
           "width": 120,
           "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/gnjvsfnwqghp1-IN/image;s=120x90"
+          "url": "https://apollo.olx.in:443/v1/files/nuu34dblqetd2-IN/image;s=120x90"
         },
         "small": {
           "width": 120,
           "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/gnjvsfnwqghp1-IN/image;s=120x90"
+          "url": "https://apollo.olx.in:443/v1/files/nuu34dblqetd2-IN/image;s=120x90"
         }
-      },
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4058748",
+      "ADMIN_LEVEL_3_name": "Gurgaon",
+      "SUBLOCALITY_LEVEL_1_id": "5309538",
+      "SUBLOCALITY_LEVEL_1_name": "Carterpuri"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-12T10:04:32+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "512685890",
+    "created_at_first": "2026-01-22T01:56:47+05:30",
+    "locations": [
       {
-        "id": "1999380803",
-        "external_id": "h6d4dfotxs5l2-IN",
+        "lat": 28.506,
+        "lon": 77.046,
+        "region_id": "2001155",
+        "district_id": "5309538",
+        "city_id": "4058748"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1832763570",
+    "score": 0.9661016949152542,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1832763570",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "LUKE",
+    "has_phone_param": false,
+    "description": "Playstation 4 ( Ps4 ) Slim 1TB \n1 Console \n1 Controller \n1 power cable \n1 HDMI Cable \n1 Charging Cable \nOriginal seal impact \nSoftware Latest version",
+    "created_at": "2026-02-12T15:35:03+05:30",
+    "videos": [],
+    "title": "Playstation 4 ( Ps4 ) Slim",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 17000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 17,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1999389356",
+        "external_id": "nuu34dblqetd2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/nuu34dblqetd2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/nuu34dblqetd2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/nuu34dblqetd2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/nuu34dblqetd2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/nuu34dblqetd2-IN/image;s=120x90"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4058748",
+      "ADMIN_LEVEL_3_name": "Gurgaon",
+      "SUBLOCALITY_LEVEL_1_id": "5309538",
+      "SUBLOCALITY_LEVEL_1_name": "Carterpuri"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-12T10:04:32+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "512685890",
+    "created_at_first": "2026-01-22T01:56:47+05:30",
+    "locations": [
+      {
+        "lat": 28.506,
+        "lon": 77.046,
+        "region_id": "2001155",
+        "district_id": "5309538",
+        "city_id": "4058748"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1834782407",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1834782407",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Adeel Kashif",
+    "has_phone_param": false,
+    "description": "PS4 Slim 1TB in good condition.\nIncludes 1 controller (third-party with Hall Effect joysticks - no stick drift issues) and all original wiring.\nNot been used for over an year \n\nGames included -\nGod of war \nUncharted 4 game CD available",
+    "created_at": "2026-02-12T16:03:55+05:30",
+    "videos": [],
+    "title": "PS4 Slim 1TB for Sale",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 15000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 15,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "1999404852",
+        "external_id": "2ijdqbypre0r3-IN",
         "width": 810,
         "height": 1080,
-        "url": "https://apollo.olx.in:443/v1/files/h6d4dfotxs5l2-IN/image",
+        "url": "https://apollo.olx.in:443/v1/files/2ijdqbypre0r3-IN/image",
         "full": {
           "width": 1080,
           "height": 1440,
-          "url": "https://apollo.olx.in:443/v1/files/h6d4dfotxs5l2-IN/image;s=1080x1440"
+          "url": "https://apollo.olx.in:443/v1/files/2ijdqbypre0r3-IN/image;s=1080x1440"
         },
         "big": {
           "width": 505,
           "height": 673,
-          "url": "https://apollo.olx.in:443/v1/files/h6d4dfotxs5l2-IN/image;s=505x673"
+          "url": "https://apollo.olx.in:443/v1/files/2ijdqbypre0r3-IN/image;s=505x673"
         },
         "medium": {
           "width": 120,
           "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/h6d4dfotxs5l2-IN/image;s=120x160"
+          "url": "https://apollo.olx.in:443/v1/files/2ijdqbypre0r3-IN/image;s=120x160"
         },
         "small": {
           "width": 120,
           "height": 160,
-          "url": "https://apollo.olx.in:443/v1/files/h6d4dfotxs5l2-IN/image;s=120x160"
+          "url": "https://apollo.olx.in:443/v1/files/2ijdqbypre0r3-IN/image;s=120x160"
+        }
+      },
+      {
+        "id": "1999404853",
+        "external_id": "g17caq6zo5go1-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/g17caq6zo5go1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/g17caq6zo5go1-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/g17caq6zo5go1-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/g17caq6zo5go1-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/g17caq6zo5go1-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1999404854",
+        "external_id": "rcc36w9m2i9m2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/rcc36w9m2i9m2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/rcc36w9m2i9m2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/rcc36w9m2i9m2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/rcc36w9m2i9m2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/rcc36w9m2i9m2-IN/image;s=120x90"
+        }
+      },
+      {
+        "id": "1999404855",
+        "external_id": "kba6gyk2oifq2-IN",
+        "width": 1080,
+        "height": 810,
+        "url": "https://apollo.olx.in:443/v1/files/kba6gyk2oifq2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 810,
+          "url": "https://apollo.olx.in:443/v1/files/kba6gyk2oifq2-IN/image;s=1080x810"
+        },
+        "big": {
+          "width": 505,
+          "height": 378,
+          "url": "https://apollo.olx.in:443/v1/files/kba6gyk2oifq2-IN/image;s=505x378"
+        },
+        "medium": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/kba6gyk2oifq2-IN/image;s=120x90"
+        },
+        "small": {
+          "width": 120,
+          "height": 90,
+          "url": "https://apollo.olx.in:443/v1/files/kba6gyk2oifq2-IN/image;s=120x90"
         }
       }
     ],
@@ -253,21 +390,21 @@
       "ADMIN_LEVEL_1_name": "Delhi",
       "ADMIN_LEVEL_3_id": "4058659",
       "ADMIN_LEVEL_3_name": "Delhi",
-      "SUBLOCALITY_LEVEL_1_id": "5327271",
-      "SUBLOCALITY_LEVEL_1_name": "Daryaganj"
+      "SUBLOCALITY_LEVEL_1_id": "5327894",
+      "SUBLOCALITY_LEVEL_1_name": "Noor Nagar"
     },
     "dealer_showroom_enabled": false,
     "artificial_boost": false,
-    "display_date": "2026-02-12T09:48:08+0000",
+    "display_date": "2026-02-12T10:34:03+0000",
     "isSpinViewAvailable": false,
-    "user_id": "636450268",
-    "created_at_first": "2026-02-12T15:17:07+05:30",
+    "user_id": "126487759",
+    "created_at_first": "2026-02-12T16:03:04+05:30",
     "locations": [
       {
-        "lat": 28.643,
-        "lon": 77.241,
+        "lat": 28.557,
+        "lon": 77.287,
         "region_id": "2001152",
-        "district_id": "5327271",
+        "district_id": "5327894",
         "city_id": "4058659"
       }
     ],
