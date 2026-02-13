@@ -1,7 +1,7 @@
 [
   {
-    "id": "1834240543",
-    "score": 0.7058823529411765,
+    "id": "1834899594",
+    "score": 0.7741935483870968,
     "spell": {
       "id": 111,
       "key": "GEAS_ES",
@@ -23,29 +23,29 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1834240543",
+    "ad_id": "1834899594",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
     },
     "user_tag": "olx disapproved",
-    "user_name": "Jeet Singh Sidhu",
+    "user_name": "OLX User",
     "has_phone_param": false,
-    "description": "PlayStation 4 fat edition 500gb original cable original remote available all good working",
-    "created_at": "2026-02-13T20:25:02+05:30",
+    "description": "Spider man miles morales (ps5)\nCall of duty black ops 3\nCall of duty world war 2",
+    "created_at": "2026-02-13T20:52:28+05:30",
     "videos": [],
-    "title": "PlayStation 4 fat",
+    "title": "Ps4 and 5 games",
     "buyer_id": "0",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 16500.0,
+        "raw": 3500.0,
         "currency": {
           "iso_4217": "INR",
           "pre": "\u20b9"
         },
-        "display": "\u20b9 16,500"
+        "display": "\u20b9 3,500"
       },
       "key_name": "Price",
       "key": "price"
@@ -53,57 +53,30 @@
     "is_business": false,
     "images": [
       {
-        "id": "1996625402",
-        "external_id": "42tpf1waxpds3-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/42tpf1waxpds3-IN/image",
+        "id": "2000014117",
+        "external_id": "dzt3d29ckp7j1-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/dzt3d29ckp7j1-IN/image",
         "full": {
           "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/42tpf1waxpds3-IN/image;s=1080x810"
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/dzt3d29ckp7j1-IN/image;s=1080x1921"
         },
         "big": {
           "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/42tpf1waxpds3-IN/image;s=505x378"
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/dzt3d29ckp7j1-IN/image;s=505x898"
         },
         "medium": {
           "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/42tpf1waxpds3-IN/image;s=120x90"
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/dzt3d29ckp7j1-IN/image;s=120x213"
         },
         "small": {
           "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/42tpf1waxpds3-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "1996625403",
-        "external_id": "n28xonmldnxq-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/n28xonmldnxq-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/n28xonmldnxq-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/n28xonmldnxq-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/n28xonmldnxq-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/n28xonmldnxq-IN/image;s=120x90"
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/dzt3d29ckp7j1-IN/image;s=120x213"
         }
       }
     ],
@@ -116,28 +89,28 @@
       "ADMIN_LEVEL_1_name": "Delhi",
       "ADMIN_LEVEL_3_id": "4058659",
       "ADMIN_LEVEL_3_name": "Delhi",
-      "SUBLOCALITY_LEVEL_1_id": "5459399",
-      "SUBLOCALITY_LEVEL_1_name": "Dwarka Mor"
+      "SUBLOCALITY_LEVEL_1_id": "5459441",
+      "SUBLOCALITY_LEVEL_1_name": "Naraina"
     },
     "dealer_showroom_enabled": false,
     "artificial_boost": false,
-    "display_date": "2026-02-13T15:00:22+0000",
+    "display_date": "2026-02-13T15:23:27+0000",
     "isSpinViewAvailable": false,
-    "user_id": "170060701",
-    "created_at_first": "2026-02-06T18:47:00+05:30",
+    "user_id": "636513102",
+    "created_at_first": "2026-02-13T20:52:28+05:30",
     "locations": [
       {
-        "lat": 28.619,
-        "lon": 77.033,
+        "lat": 28.632,
+        "lon": 77.139,
         "region_id": "2001152",
-        "district_id": "5459399",
+        "district_id": "5459441",
         "city_id": "4058659"
       }
     ],
     "parameters": []
   },
   {
-    "id": "1834240543",
+    "id": "1834899594",
     "score": 1.0,
     "spell": {
       "id": 111,
@@ -160,29 +133,29 @@
       "allow_deactivate": true
     },
     "category_id": "93",
-    "ad_id": "1834240543",
+    "ad_id": "1834899594",
     "favorites": {
       "count": 0,
       "count_label_next": "1"
     },
     "user_tag": "olx disapproved",
-    "user_name": "Jeet Singh Sidhu",
+    "user_name": "OLX User",
     "has_phone_param": false,
-    "description": "PlayStation 4 fat edition 500gb original cable original remote available all good working",
-    "created_at": "2026-02-13T20:25:02+05:30",
+    "description": "Spider man miles morales (ps5)\nCall of duty black ops 3\nCall of duty world war 2",
+    "created_at": "2026-02-13T20:52:28+05:30",
     "videos": [],
-    "title": "PlayStation 4 fat",
+    "title": "Ps4 and 5 games",
     "buyer_id": "0",
     "elite_seller": false,
     "user_type": "Regular",
     "price": {
       "value": {
-        "raw": 16500.0,
+        "raw": 3500.0,
         "currency": {
           "iso_4217": "INR",
           "pre": "\u20b9"
         },
-        "display": "\u20b9 16,500"
+        "display": "\u20b9 3,500"
       },
       "key_name": "Price",
       "key": "price"
@@ -190,57 +163,30 @@
     "is_business": false,
     "images": [
       {
-        "id": "1996625402",
-        "external_id": "42tpf1waxpds3-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/42tpf1waxpds3-IN/image",
+        "id": "2000014117",
+        "external_id": "dzt3d29ckp7j1-IN",
+        "width": 607,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/dzt3d29ckp7j1-IN/image",
         "full": {
           "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/42tpf1waxpds3-IN/image;s=1080x810"
+          "height": 1921,
+          "url": "https://apollo.olx.in:443/v1/files/dzt3d29ckp7j1-IN/image;s=1080x1921"
         },
         "big": {
           "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/42tpf1waxpds3-IN/image;s=505x378"
+          "height": 898,
+          "url": "https://apollo.olx.in:443/v1/files/dzt3d29ckp7j1-IN/image;s=505x898"
         },
         "medium": {
           "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/42tpf1waxpds3-IN/image;s=120x90"
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/dzt3d29ckp7j1-IN/image;s=120x213"
         },
         "small": {
           "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/42tpf1waxpds3-IN/image;s=120x90"
-        }
-      },
-      {
-        "id": "1996625403",
-        "external_id": "n28xonmldnxq-IN",
-        "width": 1080,
-        "height": 810,
-        "url": "https://apollo.olx.in:443/v1/files/n28xonmldnxq-IN/image",
-        "full": {
-          "width": 1080,
-          "height": 810,
-          "url": "https://apollo.olx.in:443/v1/files/n28xonmldnxq-IN/image;s=1080x810"
-        },
-        "big": {
-          "width": 505,
-          "height": 378,
-          "url": "https://apollo.olx.in:443/v1/files/n28xonmldnxq-IN/image;s=505x378"
-        },
-        "medium": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/n28xonmldnxq-IN/image;s=120x90"
-        },
-        "small": {
-          "width": 120,
-          "height": 90,
-          "url": "https://apollo.olx.in:443/v1/files/n28xonmldnxq-IN/image;s=120x90"
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/dzt3d29ckp7j1-IN/image;s=120x213"
         }
       }
     ],
@@ -253,21 +199,21 @@
       "ADMIN_LEVEL_1_name": "Delhi",
       "ADMIN_LEVEL_3_id": "4058659",
       "ADMIN_LEVEL_3_name": "Delhi",
-      "SUBLOCALITY_LEVEL_1_id": "5459399",
-      "SUBLOCALITY_LEVEL_1_name": "Dwarka Mor"
+      "SUBLOCALITY_LEVEL_1_id": "5459441",
+      "SUBLOCALITY_LEVEL_1_name": "Naraina"
     },
     "dealer_showroom_enabled": false,
     "artificial_boost": false,
-    "display_date": "2026-02-13T15:00:22+0000",
+    "display_date": "2026-02-13T15:23:27+0000",
     "isSpinViewAvailable": false,
-    "user_id": "170060701",
-    "created_at_first": "2026-02-06T18:47:00+05:30",
+    "user_id": "636513102",
+    "created_at_first": "2026-02-13T20:52:28+05:30",
     "locations": [
       {
-        "lat": 28.619,
-        "lon": 77.033,
+        "lat": 28.632,
+        "lon": 77.139,
         "region_id": "2001152",
-        "district_id": "5459399",
+        "district_id": "5459441",
         "city_id": "4058659"
       }
     ],
