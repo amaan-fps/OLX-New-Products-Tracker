@@ -1,1 +1,301 @@
-[]
+[
+  {
+    "id": "1835246175",
+    "score": 0.8823529411764706,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "ad_id": "1835246175",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "Harnish Shah",
+    "has_phone_param": false,
+    "description": "Selling my well-maintained PS4 500 GB in excellent working condition. Hardly used.\nNo repairs have been done ever.\n\nLocation: Delhi NCR (Happy to meet in person and show the condition before any payment)\n\n What\u2019s included:\n\t\u2022\tPS4 500 GB Console\n\t\u2022\t2 Original DualShock 4 Controllers\n\t\u2022\tPS4 Camera\n\t\u2022\tCooling & Vertical Stand with built-in fan\n\t\u2022\tDual controller charging dock (integrated in stand)\n\t\u2022\tAll cables\n\t\u2022\tOriginal box\n\t\u2022\tOriginal purchase Invoice\n\n Games Included:\n\t\u2022\tGTA V\n\t\u2022\tThe Last of Us Remastered\n\t\u2022\tFIFA 16\n\t\u2022\tFIFA 19\n\nBasically, plug in and start playing. No extra purchases needed.\n\n\u2e3b\n\n Condition:\n\t\u2022\tWorks perfectly\n\t\u2022\tControllers are fully functional\n\t\u2022\tBox slightly worn but intact\n\t\u2022\tUsed with care\n\n\u2e3b\n\n Price: \u20b917,000\n\n\u2e3b\n\n Reason for selling:\n\nUpgrading and not using this anymore.\n\n\u2e3b\n\n Why this is a good deal:\n\nMost listings don\u2019t include:\n\t\u2022\t2 controllers\n\t\u2022\tCamera\n\t\u2022\tStand with cooling + charging\n\t\u2022\t4 games\n\t\u2022\tBox & invoice\n\nThis one has everything.",
+    "created_at": "2026-02-17T18:16:55+05:30",
+    "videos": [],
+    "title": "PlayStation 4 (500 GB) \u2013 2 Controllers + Box + Games + Stand + Camera",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 17000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 17,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "2001794515",
+        "external_id": "hvigmles2zm2-IN",
+        "width": 1080,
+        "height": 1294,
+        "url": "https://apollo.olx.in:443/v1/files/hvigmles2zm2-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1294,
+          "url": "https://apollo.olx.in:443/v1/files/hvigmles2zm2-IN/image;s=1080x1294"
+        },
+        "big": {
+          "width": 505,
+          "height": 605,
+          "url": "https://apollo.olx.in:443/v1/files/hvigmles2zm2-IN/image;s=505x605"
+        },
+        "medium": {
+          "width": 120,
+          "height": 143,
+          "url": "https://apollo.olx.in:443/v1/files/hvigmles2zm2-IN/image;s=120x143"
+        },
+        "small": {
+          "width": 120,
+          "height": 143,
+          "url": "https://apollo.olx.in:443/v1/files/hvigmles2zm2-IN/image;s=120x143"
+        }
+      },
+      {
+        "id": "2001794516",
+        "external_id": "criplsqggz0a-IN",
+        "width": 1080,
+        "height": 732,
+        "url": "https://apollo.olx.in:443/v1/files/criplsqggz0a-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 732,
+          "url": "https://apollo.olx.in:443/v1/files/criplsqggz0a-IN/image;s=1080x732"
+        },
+        "big": {
+          "width": 505,
+          "height": 342,
+          "url": "https://apollo.olx.in:443/v1/files/criplsqggz0a-IN/image;s=505x342"
+        },
+        "medium": {
+          "width": 120,
+          "height": 81,
+          "url": "https://apollo.olx.in:443/v1/files/criplsqggz0a-IN/image;s=120x81"
+        },
+        "small": {
+          "width": 120,
+          "height": 81,
+          "url": "https://apollo.olx.in:443/v1/files/criplsqggz0a-IN/image;s=120x81"
+        }
+      },
+      {
+        "id": "2001794517",
+        "external_id": "c81edzidngg52-IN",
+        "width": 1080,
+        "height": 1491,
+        "url": "https://apollo.olx.in:443/v1/files/c81edzidngg52-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1491,
+          "url": "https://apollo.olx.in:443/v1/files/c81edzidngg52-IN/image;s=1080x1491"
+        },
+        "big": {
+          "width": 505,
+          "height": 697,
+          "url": "https://apollo.olx.in:443/v1/files/c81edzidngg52-IN/image;s=505x697"
+        },
+        "medium": {
+          "width": 120,
+          "height": 165,
+          "url": "https://apollo.olx.in:443/v1/files/c81edzidngg52-IN/image;s=120x165"
+        },
+        "small": {
+          "width": 120,
+          "height": 165,
+          "url": "https://apollo.olx.in:443/v1/files/c81edzidngg52-IN/image;s=120x165"
+        }
+      },
+      {
+        "id": "2001794518",
+        "external_id": "wmtldlxcbzs9-IN",
+        "width": 1080,
+        "height": 1373,
+        "url": "https://apollo.olx.in:443/v1/files/wmtldlxcbzs9-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1373,
+          "url": "https://apollo.olx.in:443/v1/files/wmtldlxcbzs9-IN/image;s=1080x1373"
+        },
+        "big": {
+          "width": 505,
+          "height": 642,
+          "url": "https://apollo.olx.in:443/v1/files/wmtldlxcbzs9-IN/image;s=505x642"
+        },
+        "medium": {
+          "width": 120,
+          "height": 152,
+          "url": "https://apollo.olx.in:443/v1/files/wmtldlxcbzs9-IN/image;s=120x152"
+        },
+        "small": {
+          "width": 120,
+          "height": 152,
+          "url": "https://apollo.olx.in:443/v1/files/wmtldlxcbzs9-IN/image;s=120x152"
+        }
+      },
+      {
+        "id": "2001794519",
+        "external_id": "e4qzed5v5ogt3-IN",
+        "width": 1080,
+        "height": 1117,
+        "url": "https://apollo.olx.in:443/v1/files/e4qzed5v5ogt3-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1117,
+          "url": "https://apollo.olx.in:443/v1/files/e4qzed5v5ogt3-IN/image;s=1080x1117"
+        },
+        "big": {
+          "width": 505,
+          "height": 522,
+          "url": "https://apollo.olx.in:443/v1/files/e4qzed5v5ogt3-IN/image;s=505x522"
+        },
+        "medium": {
+          "width": 120,
+          "height": 124,
+          "url": "https://apollo.olx.in:443/v1/files/e4qzed5v5ogt3-IN/image;s=120x124"
+        },
+        "small": {
+          "width": 120,
+          "height": 124,
+          "url": "https://apollo.olx.in:443/v1/files/e4qzed5v5ogt3-IN/image;s=120x124"
+        }
+      },
+      {
+        "id": "2001794520",
+        "external_id": "95lzr961rwbu-IN",
+        "width": 1080,
+        "height": 1184,
+        "url": "https://apollo.olx.in:443/v1/files/95lzr961rwbu-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1184,
+          "url": "https://apollo.olx.in:443/v1/files/95lzr961rwbu-IN/image;s=1080x1184"
+        },
+        "big": {
+          "width": 505,
+          "height": 553,
+          "url": "https://apollo.olx.in:443/v1/files/95lzr961rwbu-IN/image;s=505x553"
+        },
+        "medium": {
+          "width": 120,
+          "height": 131,
+          "url": "https://apollo.olx.in:443/v1/files/95lzr961rwbu-IN/image;s=120x131"
+        },
+        "small": {
+          "width": 120,
+          "height": 131,
+          "url": "https://apollo.olx.in:443/v1/files/95lzr961rwbu-IN/image;s=120x131"
+        }
+      },
+      {
+        "id": "2001794521",
+        "external_id": "nh3cnjr5qki02-IN",
+        "width": 1080,
+        "height": 1920,
+        "url": "https://apollo.olx.in:443/v1/files/nh3cnjr5qki02-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1920,
+          "url": "https://apollo.olx.in:443/v1/files/nh3cnjr5qki02-IN/image;s=1080x1920"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/nh3cnjr5qki02-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/nh3cnjr5qki02-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/nh3cnjr5qki02-IN/image;s=120x213"
+        }
+      },
+      {
+        "id": "2001794522",
+        "external_id": "qg0k360un9c33-IN",
+        "width": 1080,
+        "height": 1920,
+        "url": "https://apollo.olx.in:443/v1/files/qg0k360un9c33-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1920,
+          "url": "https://apollo.olx.in:443/v1/files/qg0k360un9c33-IN/image;s=1080x1920"
+        },
+        "big": {
+          "width": 505,
+          "height": 897,
+          "url": "https://apollo.olx.in:443/v1/files/qg0k360un9c33-IN/image;s=505x897"
+        },
+        "medium": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/qg0k360un9c33-IN/image;s=120x213"
+        },
+        "small": {
+          "width": 120,
+          "height": 213,
+          "url": "https://apollo.olx.in:443/v1/files/qg0k360un9c33-IN/image;s=120x213"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001155",
+      "ADMIN_LEVEL_1_name": "Haryana",
+      "ADMIN_LEVEL_3_id": "4058748",
+      "ADMIN_LEVEL_3_name": "Gurgaon",
+      "SUBLOCALITY_LEVEL_1_id": "5359493",
+      "SUBLOCALITY_LEVEL_1_name": "Udyog Vihar Phase 2"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-17T12:48:07+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "43322763",
+    "created_at_first": "2026-02-17T18:15:34+05:30",
+    "locations": [
+      {
+        "lat": 28.507,
+        "lon": 77.086,
+        "region_id": "2001155",
+        "district_id": "5359493",
+        "city_id": "4058748"
+      }
+    ],
+    "parameters": []
+  }
+]
