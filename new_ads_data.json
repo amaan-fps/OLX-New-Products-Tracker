@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "id": "1835368009",
+    "score": 0.7931034482758621,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "user": {
+      "verified_badge": {
+        "is_eligible": false
+      },
+      "features": []
+    },
+    "ad_id": "1835368009",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "nitin jhamb",
+    "has_phone_param": false,
+    "description": "I want to sell my ps4 pro which is in a very good condition\n1. Original cable\n2. Box\n3. Original controler\nI will give you 1 original game as well Cricket -22. I want to buy new ps5 that's why i want to sell.",
+    "created_at": "2026-02-18T23:59:15+05:30",
+    "videos": [],
+    "title": "Ps4 pro 1 TB",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 18000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 18,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "2002417839",
+        "external_id": "hx061j804yzl-IN",
+        "width": 1080,
+        "height": 796,
+        "url": "https://apollo.olx.in:443/v1/files/hx061j804yzl-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 796,
+          "url": "https://apollo.olx.in:443/v1/files/hx061j804yzl-IN/image;s=1080x796"
+        },
+        "big": {
+          "width": 505,
+          "height": 372,
+          "url": "https://apollo.olx.in:443/v1/files/hx061j804yzl-IN/image;s=505x372"
+        },
+        "medium": {
+          "width": 120,
+          "height": 88,
+          "url": "https://apollo.olx.in:443/v1/files/hx061j804yzl-IN/image;s=120x88"
+        },
+        "small": {
+          "width": 120,
+          "height": 88,
+          "url": "https://apollo.olx.in:443/v1/files/hx061j804yzl-IN/image;s=120x88"
+        }
+      },
+      {
+        "id": "2002417840",
+        "external_id": "xlm20qdcle4a-IN",
+        "width": 1080,
+        "height": 959,
+        "url": "https://apollo.olx.in:443/v1/files/xlm20qdcle4a-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 959,
+          "url": "https://apollo.olx.in:443/v1/files/xlm20qdcle4a-IN/image;s=1080x959"
+        },
+        "big": {
+          "width": 505,
+          "height": 448,
+          "url": "https://apollo.olx.in:443/v1/files/xlm20qdcle4a-IN/image;s=505x448"
+        },
+        "medium": {
+          "width": 120,
+          "height": 106,
+          "url": "https://apollo.olx.in:443/v1/files/xlm20qdcle4a-IN/image;s=120x106"
+        },
+        "small": {
+          "width": 120,
+          "height": 106,
+          "url": "https://apollo.olx.in:443/v1/files/xlm20qdcle4a-IN/image;s=120x106"
+        }
+      },
+      {
+        "id": "2002417841",
+        "external_id": "rslwv21a6poa1-IN",
+        "width": 1028,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/rslwv21a6poa1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1134,
+          "url": "https://apollo.olx.in:443/v1/files/rslwv21a6poa1-IN/image;s=1080x1134"
+        },
+        "big": {
+          "width": 505,
+          "height": 530,
+          "url": "https://apollo.olx.in:443/v1/files/rslwv21a6poa1-IN/image;s=505x530"
+        },
+        "medium": {
+          "width": 120,
+          "height": 126,
+          "url": "https://apollo.olx.in:443/v1/files/rslwv21a6poa1-IN/image;s=120x126"
+        },
+        "small": {
+          "width": 120,
+          "height": 126,
+          "url": "https://apollo.olx.in:443/v1/files/rslwv21a6poa1-IN/image;s=120x126"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328118",
+      "SUBLOCALITY_LEVEL_1_name": "Bhagwati Garden"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-18T18:30:14+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "468713370",
+    "created_at_first": "2026-02-18T23:59:15+05:30",
+    "locations": [
+      {
+        "lat": 28.621,
+        "lon": 77.032,
+        "region_id": "2001152",
+        "district_id": "5328118",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  },
+  {
+    "id": "1835368009",
+    "score": 1.0,
+    "spell": {
+      "id": 111,
+      "key": "GEAS_ES",
+      "version": "1",
+      "main": true,
+      "facet_disabled": false,
+      "default_sorting": "DEFAULT",
+      "response_type": "ARRAY"
+    },
+    "status": {
+      "status": "active",
+      "allow_edit": true,
+      "display": "active",
+      "translated_display": "Active",
+      "flags": {
+        "new": false,
+        "hot": false
+      },
+      "allow_deactivate": true
+    },
+    "category_id": "93",
+    "user": {
+      "verified_badge": {
+        "is_eligible": false
+      },
+      "features": []
+    },
+    "ad_id": "1835368009",
+    "favorites": {
+      "count": 0,
+      "count_label_next": "1"
+    },
+    "user_tag": "olx disapproved",
+    "user_name": "nitin jhamb",
+    "has_phone_param": false,
+    "description": "I want to sell my ps4 pro which is in a very good condition\n1. Original cable\n2. Box\n3. Original controler\nI will give you 1 original game as well Cricket -22. I want to buy new ps5 that's why i want to sell.",
+    "created_at": "2026-02-18T23:59:15+05:30",
+    "videos": [],
+    "title": "Ps4 pro 1 TB",
+    "buyer_id": "0",
+    "elite_seller": false,
+    "user_type": "Regular",
+    "price": {
+      "value": {
+        "raw": 18000.0,
+        "currency": {
+          "iso_4217": "INR",
+          "pre": "\u20b9"
+        },
+        "display": "\u20b9 18,000"
+      },
+      "key_name": "Price",
+      "key": "price"
+    },
+    "is_business": false,
+    "images": [
+      {
+        "id": "2002417839",
+        "external_id": "hx061j804yzl-IN",
+        "width": 1080,
+        "height": 796,
+        "url": "https://apollo.olx.in:443/v1/files/hx061j804yzl-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 796,
+          "url": "https://apollo.olx.in:443/v1/files/hx061j804yzl-IN/image;s=1080x796"
+        },
+        "big": {
+          "width": 505,
+          "height": 372,
+          "url": "https://apollo.olx.in:443/v1/files/hx061j804yzl-IN/image;s=505x372"
+        },
+        "medium": {
+          "width": 120,
+          "height": 88,
+          "url": "https://apollo.olx.in:443/v1/files/hx061j804yzl-IN/image;s=120x88"
+        },
+        "small": {
+          "width": 120,
+          "height": 88,
+          "url": "https://apollo.olx.in:443/v1/files/hx061j804yzl-IN/image;s=120x88"
+        }
+      },
+      {
+        "id": "2002417840",
+        "external_id": "xlm20qdcle4a-IN",
+        "width": 1080,
+        "height": 959,
+        "url": "https://apollo.olx.in:443/v1/files/xlm20qdcle4a-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 959,
+          "url": "https://apollo.olx.in:443/v1/files/xlm20qdcle4a-IN/image;s=1080x959"
+        },
+        "big": {
+          "width": 505,
+          "height": 448,
+          "url": "https://apollo.olx.in:443/v1/files/xlm20qdcle4a-IN/image;s=505x448"
+        },
+        "medium": {
+          "width": 120,
+          "height": 106,
+          "url": "https://apollo.olx.in:443/v1/files/xlm20qdcle4a-IN/image;s=120x106"
+        },
+        "small": {
+          "width": 120,
+          "height": 106,
+          "url": "https://apollo.olx.in:443/v1/files/xlm20qdcle4a-IN/image;s=120x106"
+        }
+      },
+      {
+        "id": "2002417841",
+        "external_id": "rslwv21a6poa1-IN",
+        "width": 1028,
+        "height": 1080,
+        "url": "https://apollo.olx.in:443/v1/files/rslwv21a6poa1-IN/image",
+        "full": {
+          "width": 1080,
+          "height": 1134,
+          "url": "https://apollo.olx.in:443/v1/files/rslwv21a6poa1-IN/image;s=1080x1134"
+        },
+        "big": {
+          "width": 505,
+          "height": 530,
+          "url": "https://apollo.olx.in:443/v1/files/rslwv21a6poa1-IN/image;s=505x530"
+        },
+        "medium": {
+          "width": 120,
+          "height": 126,
+          "url": "https://apollo.olx.in:443/v1/files/rslwv21a6poa1-IN/image;s=120x126"
+        },
+        "small": {
+          "width": 120,
+          "height": 126,
+          "url": "https://apollo.olx.in:443/v1/files/rslwv21a6poa1-IN/image;s=120x126"
+        }
+      }
+    ],
+    "certified_car": false,
+    "is_kyc_verified_user": false,
+    "locations_resolved": {
+      "COUNTRY_id": "1000001",
+      "COUNTRY_name": "India",
+      "ADMIN_LEVEL_1_id": "2001152",
+      "ADMIN_LEVEL_1_name": "Delhi",
+      "ADMIN_LEVEL_3_id": "4058659",
+      "ADMIN_LEVEL_3_name": "Delhi",
+      "SUBLOCALITY_LEVEL_1_id": "5328118",
+      "SUBLOCALITY_LEVEL_1_name": "Bhagwati Garden"
+    },
+    "dealer_showroom_enabled": false,
+    "artificial_boost": false,
+    "display_date": "2026-02-18T18:30:14+0000",
+    "isSpinViewAvailable": false,
+    "user_id": "468713370",
+    "created_at_first": "2026-02-18T23:59:15+05:30",
+    "locations": [
+      {
+        "lat": 28.621,
+        "lon": 77.032,
+        "region_id": "2001152",
+        "district_id": "5328118",
+        "city_id": "4058659"
+      }
+    ],
+    "parameters": []
+  }
+]
