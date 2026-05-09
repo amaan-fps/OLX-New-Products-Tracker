@@ -28,5 +28,5 @@ def get_json_with_requests(url):
     return response.json()
 
 if __name__ == '__main__':
-    get_json_with_requests("https://api.olx.in/relevance/v4/search?facet_limit=1000&lang=en-IN&location=4058748&location_facet_limit=40&platform=web-desktop&pttEnabled=true&query=ps4&relaxedFilters=true&size=500&spellcheck=true&user=005009916225510713&page=1&price_max=35000&price_min=12000")
+    get_json_with_requests("https://api.olx.in/relevance/v4/search?facet_limit=1000&lang=en-IN&location=4058748&location_facet_limit=40&platform=web-desktop&pttEnabled=true&query=ps4&relaxedFilters=true&size=500&spellcheck=true&user=005009916225510713&price_max=35000&price_min=12000")
     print("exiting!")
