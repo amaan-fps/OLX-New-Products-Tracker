@@ -4,7 +4,7 @@ from urllib.parse import urlencode
 from requests_check import get_json_with_requests
 
 def start_requests():
-    base_url = "https://www.olx.in/api/relevance/v4/search"
+    base_url = "https://api.olx.in/relevance/v4/search"
 
     with open('add_queries/search_terms.json', 'r') as file:
         all_queries = json.load(file)
