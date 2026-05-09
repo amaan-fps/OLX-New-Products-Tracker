@@ -17,6 +17,7 @@ async def run_tracker():
     #     case 'y':
     #         add_new_search_term()
     #     case 'n':
+    print("in main, started requests")
     start_requests()
     print("new data fetched, sending alert for any new data...")
     await send_telegram_alerts()
